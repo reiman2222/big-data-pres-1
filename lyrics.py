@@ -3,8 +3,8 @@ import nltk
 #nltk.download('stopwords')
 
 
-import logging
-logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=logging.INFO)
+#import logging
+#logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=logging.INFO)
 
 from smart_open import smart_open
 import json
@@ -124,6 +124,17 @@ def constructDictionary(pathToStopWordList):
 def addLyricalComplexity(pathtoCSV):
     return 0
 
+#returns list of tokens in lowercase split on whitespace with punctuation removed, lemmatized
+def tokenize(doc):
+    docT = []
+    punctuationStripper = re.compile('[^\w-]+')
+        
+    for word in doc.split():
+        w = punctuationStripper.sub('', word)
+        if(w != ''):
+            docT.append(w)
+
+    return docT
 
 
 #read csv file into memory
@@ -143,19 +154,30 @@ with open('billboard_lyrics_1964-2015.csv', 'r') as csvFile:
 
         currLyrics = currLyrics.strip()
 
-        listOfLyrics.append(currLyrics)
+        
 
         if(currLyrics == 'NA' or currLyrics == '' or currLyrics == None):
+            listOfLyrics.append('None')
             numNullLyrics += 1
+        else:
+        	listOfLyrics.append(currLyrics)
             #print('true')
 
 print('null lyrics: ' + str(numNullLyrics))
 print('total songs: ' + str(len(listOfLyrics)))
 
+tokenizedLyrics = []
+for l in listOfLyrics:
+	tokenizedLyrics.append(tokenize(l))
+
+print(tokenizedLyrics[0])
+print(listOfLyrics[0])        	    
 
 
-
-
+dictionary = corpora.Dictionary(tokenizedLyrics)
+print('dictionary size before prune: ' + str(len(dictionary)))
+dictionary.filter_extremes(no_below=0, no_above=0.75)
+print('dictionary size after prune: ' + str(len(dictionary)))
 
 
 
