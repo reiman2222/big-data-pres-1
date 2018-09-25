@@ -2,7 +2,6 @@ import nltk
 #nltk.download("wordnet")
 #nltk.download('stopwords')
 
-
 #import logging
 #logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=logging.INFO)
 
@@ -13,41 +12,8 @@ import tempfile
 from collections import defaultdict
 from pprint import pprint #pretty printer
 
-
-
 import string
 import re
-
-
-
-#Define gensim object
-class TheCorpus(object):
-    def __init__(self, path):
-        #print('path in init: ' + path)
-        self.pathToFile = path
-    
-    #returns list of tokens in lowercase split on whitespace with punctuation removed, lemmatized
-    @staticmethod
-    def tokenizeDocMedium(doc):
-        docT = []
-        wordnet_lemmatizer = WordNetLemmatizer()
-        punctuationStripper = re.compile('[^\w-]+')
-        
-        for word in doc.split():
-            w = punctuationStripper.sub('', word)
-            w = wordnet_lemmatizer.lemmatize(w)
-            if(w != ''):
-                docT.append(w)
-
-        return docT
-    
-
- 
-
-    #def __iter__(self):
-        
-
-
 
 #getStopWordList(pathToSWL) returns a list of stopwords contained in file
 #located at pathToSWL. 
@@ -62,57 +28,7 @@ def getStopWordList(pathToSWL):
 
     return stopWordList
 
-'''
-def constructDictionary(pathToStopWordList):
-    #print('statrting to make dict')
-    tokenizedCorpus = []
-    
-    dictionary = corpora.Dictionary()
-    numberRemover = re.compile("\d")
-
-    #read stop list, convert to set for faster stop word removal
-    stoplist = getStopWordList(pathToStopWordList)
-    stopSet = set(stoplist)
-
-    i = 1
-    for fn in os.listdir('source'):
-        with open('source' + '/' + fn, 'r', errors='ignore') as f:
-            print(fn)
-            doc = f.read()    
-            if(i < articlesToProcess):
-                if(doc):
-                    #if(i < articlesToProcess):  
-                    #TOKENIZE
-                    docT = indexingUni(doc)
-                    docTokenized = []
-                    for t in docT:
-                        if((t not in stopSet) and numberRemover.search(t) == None):
-                            #print(t)
-                            docTokenized.append(t)
-                    
-                    #print(docTokenized)
-                    
-                    tokenizedCorpus.append(docTokenized)
-                    if(i % 100000 == 0):
-                        print('compactifying dictionary every 100,000 documents to save memory')
-                        dictionary.compactify()
-                    if(i % 10000 == 0):
-                        print('Another 10000 files processed, files added to dictionary')
-                        dictionary.add_documents(tokenizedCorpus)
-                        tokenizedCorpus = []
-
-                else:
-                    print('file had no content')
-            else:
-                break
-            i += 1
-        
-    if(len(tokenizedCorpus) > 0):
-        print('docs added')
-        dictionary.add_documents(tokenizedCorpus)
-    dictionary.compactify()
-    return dictionary
-'''            
+          
 
 #-----------------------------------------------------------------------------------------------------------------#
 
@@ -161,45 +77,51 @@ with open('billboard_lyrics_1964-2015.csv', 'r') as csvFile:
             numNullLyrics += 1
         else:
         	listOfLyrics.append(currLyrics)
-            #print('true')
+
 
 print('null lyrics: ' + str(numNullLyrics))
 print('total songs: ' + str(len(listOfLyrics)))
 
 tokenizedLyrics = []
 for l in listOfLyrics:
-	tokenizedLyrics.append(tokenize(l))
-
-print(tokenizedLyrics[0])
-print(listOfLyrics[0])        	    
+	tokenizedLyrics.append(tokenize(l))       	    
 
 
 dictionary = corpora.Dictionary(tokenizedLyrics)
 print('dictionary size before prune: ' + str(len(dictionary)))
-dictionary.filter_extremes(no_below=0, no_above=0.75)
-print('dictionary size after prune: ' + str(len(dictionary)))
+
+dictionaryPruned = corpora.Dictionary(tokenizedLyrics)
+dictionaryPruned.filter_extremes(no_below=0, no_above=0.5)
+print('dictionary size after prune: ' + str(len(dictionaryPruned)))
+
+
+#lyricsStats is a list of tuples of the form 
+#(unpruned lyrical complexity, pruned lyrical complexity, total words)
+lyricsStats = []
+for songL in tokenizedLyrics:
+    if(songL[0] == 'None'):
+        lyricsStats.append((-1,-1,-1))
+    else:
+        lyricsStats.append((len((dictionary.doc2bow(songL))), len(dictionaryPruned.doc2bow(songL)), len(songL)))
 
 
 
-
-
-#dictionary = constructDictionary('stopwords.txt')
-
-
+#write to new CSV
+with open('billboard_lyrics_1964-2015.csv', 'r') as csvFile:
+    reader = csv.DictReader(csvFile)
     
-    
-    
-#pprint(len(dictionary.token2id))
+    with open('billboardLC.csv', 'w') as csvOut:
+        fieldnames = ['Rank', 'Song', 'Artist', 'Year', 'UnprunedLyricalComplexity', 'PrunedLyricalComplexity', 'TotalWords']
+        writer = csv.DictWriter(csvOut, fieldnames, restval='', extrasaction='raise', dialect='excel')    
+        i = 0
+        writer.writeheader()
+        for row in reader:
+            if(lyricsStats[i] == (-1,-1,-1)):
+                writer.writerow({'Rank':row['Rank'], 'Song':row['Song'], 'Artist':row['Artist'], 'Year':row['Year'],
+                    'UnprunedLyricalComplexity':'', 'PrunedLyricalComplexity':'', 'TotalWords':''})
+            else:
+                writer.writerow({'Rank':row['Rank'], 'Song':row['Song'], 'Artist':row['Artist'], 'Year':row['Year'],
+                    'UnprunedLyricalComplexity':lyricsStats[i][0], 'PrunedLyricalComplexity':lyricsStats[i][1], 'TotalWords':lyricsStats[i][2]})
+            i += 1
 
-
-
-#creates a corpus object for gensim
-#theCorpus = TheCorpus('source')
-
-#build tfidf model of theCorpus
-#tfidf = models.TfidfModel(theCorpus)
-
-#convert corpus from bag of words to tfidf vectors
-#corpus_tfidf = tfidf[theCorpus]
-
-
+print('Done')
