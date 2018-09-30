@@ -59,7 +59,8 @@ with open('billboard_lyrics_1964-2015.csv', 'r') as csvFile:
     reader = csv.DictReader(csvFile)
     
     listOfLyrics = []    
-    
+    nameInLyrics = []
+
     numNullLyrics = 0
 
     for row in reader:
@@ -69,14 +70,19 @@ with open('billboard_lyrics_1964-2015.csv', 'r') as csvFile:
         #numNullLyrics = 0
 
         currLyrics = currLyrics.strip()
-
+        
         
 
         if(currLyrics == 'NA' or currLyrics == '' or currLyrics == None):
             listOfLyrics.append('None')
             numNullLyrics += 1
+            nameInLyrics.append('')
         else:
-        	listOfLyrics.append(currLyrics)
+            listOfLyrics.append(currLyrics)
+            if(row['Song'] in currLyrics):
+                nameInLyrics.append('True')
+            else:
+                nameInLyrics.append('False')
 
 
 print('null lyrics: ' + str(numNullLyrics))
@@ -111,17 +117,18 @@ with open('billboard_lyrics_1964-2015.csv', 'r') as csvFile:
     reader = csv.DictReader(csvFile)
     
     with open('billboardLC.csv', 'w') as csvOut:
-        fieldnames = ['Rank', 'Song', 'Artist', 'Year', 'UnprunedLyricalComplexity', 'PrunedLyricalComplexity', 'TotalWords']
+        fieldnames = ['Rank', 'Song', 'Artist', 'Year', 'UnprunedLyricalComplexity', 'PrunedLyricalComplexity', 'TotalWords','TitleInLyrics']
         writer = csv.DictWriter(csvOut, fieldnames, restval='', extrasaction='raise', dialect='excel')    
         i = 0
         writer.writeheader()
         for row in reader:
             if(lyricsStats[i] == (-1,-1,-1)):
                 writer.writerow({'Rank':row['Rank'], 'Song':row['Song'], 'Artist':row['Artist'], 'Year':row['Year'],
-                    'UnprunedLyricalComplexity':'', 'PrunedLyricalComplexity':'', 'TotalWords':''})
+                    'UnprunedLyricalComplexity':'', 'PrunedLyricalComplexity':'', 'TotalWords':'', 'TitleInLyrics':nameInLyrics[i]})
             else:
                 writer.writerow({'Rank':row['Rank'], 'Song':row['Song'], 'Artist':row['Artist'], 'Year':row['Year'],
-                    'UnprunedLyricalComplexity':lyricsStats[i][0], 'PrunedLyricalComplexity':lyricsStats[i][1], 'TotalWords':lyricsStats[i][2]})
+                    'UnprunedLyricalComplexity':lyricsStats[i][0], 'PrunedLyricalComplexity':lyricsStats[i][1], 'TotalWords':lyricsStats[i][2], 
+                    'TitleInLyrics':nameInLyrics[i]})
             i += 1
 
 print('Done')
