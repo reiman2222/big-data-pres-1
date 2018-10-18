@@ -1,6 +1,10 @@
 import nltk
+nltk.download('vader_lexicon')
+from nltk.sentiment.vader import SentimentIntensityAnalyzer
 #nltk.download("wordnet")
 #nltk.download('stopwords')
+
+
 
 #import logging
 #logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=logging.INFO)
@@ -90,7 +94,7 @@ print('total songs: ' + str(len(listOfLyrics)))
 
 tokenizedLyrics = []
 for l in listOfLyrics:
-	tokenizedLyrics.append(tokenize(l))       	    
+    tokenizedLyrics.append(tokenize(l))
 
 
 dictionary = corpora.Dictionary(tokenizedLyrics)
@@ -102,13 +106,19 @@ print('dictionary size after prune: ' + str(len(dictionaryPruned)))
 
 
 #lyricsStats is a list of tuples of the form 
-#(unpruned lyrical complexity, pruned lyrical complexity, total words)
+#(unpruned lyrical complexity, pruned lyrical complexity, total words, posSent, negSent, compoundSent, repetitiveness)
 lyricsStats = []
+sid = SentimentIntensityAnalyzer()
 for songL in tokenizedLyrics:
     if(songL[0] == 'None'):
-        lyricsStats.append((-1,-1,-1))
+        lyricsStats.append((-1,-1,-1, 0, 0, 0, -1))
     else:
-        lyricsStats.append((len((dictionary.doc2bow(songL))), len(dictionaryPruned.doc2bow(songL)), len(songL)))
+        ss = sid.polarity_scores(' '.join(songL))
+        unpruned = len(dictionary.doc2bow(songL))
+        pruned = len(dictionaryPruned.doc2bow(songL))
+        total = len(songL)
+        rep = round(1.0 - (unpruned / (total + 0.0)), 3) #the higher the more repetitive
+        lyricsStats.append((unpruned, pruned, total, ss['pos'], ss['neg'], ss['compound'], rep))
 
 
 
@@ -117,18 +127,22 @@ with open('billboard_lyrics_1964-2015.csv', 'r') as csvFile:
     reader = csv.DictReader(csvFile)
     
     with open('billboardLC.csv', 'w') as csvOut:
-        fieldnames = ['Rank', 'Song', 'Artist', 'Year', 'UnprunedLyricalComplexity', 'PrunedLyricalComplexity', 'TotalWords','TitleInLyrics']
+        fieldnames = ['Rank', 'Song', 'Artist', 'Year', 'UnprunedLyricalComplexity', 'TotalWords','TitleInLyrics',
+            'posSent','negSent','compoundSent', 'repetitiveness']
         writer = csv.DictWriter(csvOut, fieldnames, restval='', extrasaction='raise', dialect='excel')    
         i = 0
         writer.writeheader()
         for row in reader:
-            if(lyricsStats[i] == (-1,-1,-1)):
+            if(lyricsStats[i][0] == -1):
                 writer.writerow({'Rank':row['Rank'], 'Song':row['Song'], 'Artist':row['Artist'], 'Year':row['Year'],
-                    'UnprunedLyricalComplexity':'', 'PrunedLyricalComplexity':'', 'TotalWords':'', 'TitleInLyrics':nameInLyrics[i]})
+                    'UnprunedLyricalComplexity':'', 'TotalWords':'', 'TitleInLyrics':nameInLyrics[i], 'posSent': '',
+                    'negSent': '', 'compoundSent': '', 'repetitiveness': ''})
             else:
                 writer.writerow({'Rank':row['Rank'], 'Song':row['Song'], 'Artist':row['Artist'], 'Year':row['Year'],
-                    'UnprunedLyricalComplexity':lyricsStats[i][0], 'PrunedLyricalComplexity':lyricsStats[i][1], 'TotalWords':lyricsStats[i][2], 
-                    'TitleInLyrics':nameInLyrics[i]})
+                    'UnprunedLyricalComplexity':lyricsStats[i][0], 'TotalWords':lyricsStats[i][2], 
+                    'TitleInLyrics':nameInLyrics[i],  'posSent': lyricsStats[i][3], 'negSent': lyricsStats[i][4],
+                    'compoundSent': lyricsStats[i][5], 'repetitiveness': lyricsStats[i][6]})
             i += 1
 
 print('Done')
+
