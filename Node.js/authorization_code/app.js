@@ -14,6 +14,8 @@ var querystring = require('querystring');
 var cookieParser = require('cookie-parser');
 var SpotifyWebApi = require('spotify-web-api-node');
 
+const sqlite3 = require('sqlite3');
+
 
 var client_id = '9f409b4e7b7d4e589b13fe8a0ada6f23'; // Your client id
 var client_secret = 'd4c48893bbcf4fdd8d0a37c67402213b'; // Your secret
@@ -124,14 +126,44 @@ app.get('/callback', function(req, res)
 
 				var fs = require('fs');
 				var CsvReadableStream = require('csv-reader');
+				var Papa = require('papaparse');
 
 				var inputStream = fs.createReadStream('billboardLC.csv', 'utf8');
+
+				var csv = [];
+
+				var db = new sqlite3.Database('main.db', (err) =>
+				{
+					if (err)
+					{
+						console.log('Could not connect to database', err)
+					} else
+					{
+						console.log('opened');
+
+					}
+				});
+
+				db.run(`CREATE TABLE IF NOT EXISTS songs (
+					id INTEGER PRIMARY KEY AUTOINCREMENT,
+					Rank INTEGER,
+					Song TEXT,
+					Artist TEXT,
+					Year INTEGER,
+					UnprunedLyricalComplexity INTEGER,
+					TotalWords INTEGER,
+					TitleInLyrics BOOLEAN,
+					PosSent FLOAT,
+					NegSent FLOAT,
+					CompoundSent FLOAT,
+					Repetitiveness FLOAT)`);
 
 				inputStream
 					.pipe(CsvReadableStream({parseNumbers: true, parseBooleans: true, trim: true}))
 					.on('data', function(row)
 					{
-						console.log('song: ' + row[1]);
+						csv.push(row);
+						/*console.log('song: ' + row[1]);
 						console.log('artist: ' + row[2]);
 						var wait = false;
 						spotifyApi.searchTracks(row[1], {limit: 1}).then(function(val)
@@ -139,19 +171,73 @@ app.get('/callback', function(req, res)
 							console.log(val.body.tracks.items[0].id);
 							console.log(val.body.tracks.items[0].name);
 							console.log(val.body.tracks.items[0].artists[0].name);
-							wait = true;
+
+							var finalPathFile = 'test.csv';
+
+							var csvWriter = require('csv-write-stream');
+
+							var writer = csvWriter();
+
+							if (!fs.existsSync(finalPathFile))
+								writer = csvWriter({headers: ["Rank", "Song", "Artist", "Year", "UnprunedLyricalComplexity", "TotalWords", "TitleInLyrics", "posSent", "negSent", "compoundSent", "repetitiveness", "SpotifyID"]});
+							else
+								writer = csvWriter({sendHeaders: false});
+
+							writer.pipe(fs.createWriteStream(finalPathFile, {flags: 'a'}));
+							writer.write({
+								Rank: row[0],
+								Song: row[1],
+								Artist: row[2],
+								Year: row[3],
+								UnprunedLyricalComplexity: row[4],
+								TotalWords: row[5],
+								TitleInLyrics: row[6],
+								posSent: row[7],
+								negSent: row[8],
+								compoundSent: row[9],
+								repetitiveness: row[10],
+								SpotifyID: val.body.tracks.items[0].id
+							});
+							writer.end();
 
 						},
 							function(err)
 							{
+								spotifyApi.resetAccessToken();
 								console.error(err);
 								wait = true;
-							});
+							});*/
 					})
 					.on('end', function(data)
 					{
-						console.log('No more rows!');
+						for (var i = 0; i < csv.length; ++i)
+						{
+							var j = csv.pop();
+							/*
+							id INTEGER PRIMARY KEY AUTOINCREMENT,
+					Rank INTEGER,
+					Song TEXT,
+					Artist TEXT,
+					Year INTEGER,
+					UnprunedLyricalComplexity INTEGER,
+					TotalWords INTEGER,
+					TitleInLyrics BOOLEAN,
+					posSent FLOAT,
+					NegSent FLOAT,
+					CompoundSent FLOAT,
+					Repetitiveness FLOAT)
+					*/
+							db.run('INSERT INTO songs (Rank, Song, Artist, Year, UnprunedLyricalComplexity, TotalWords, TitleInLyrics, PosSent, NegSent, CompoundSent, Repetitiveness) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)', [j[0], j[1], j[2], j[3], j[4], j[5], j[6], j[7], j[8], j[9], j[10]]);
+							spotifyApi.searchTracks(j[1]).then(function(val)
+							{
+								console.log('spotifyID: ' + val.body.tracks.items[0].id);
+							}).catch(err =>
+							{
+								console.log(err);
+							});
+						}
 					});
+
 
 
 

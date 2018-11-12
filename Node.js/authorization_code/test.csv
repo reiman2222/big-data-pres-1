@@ -1,0 +1,1714 @@
+Rank,Song,Artist,Year,UnprunedLyricalComplexity,TotalWords,TitleInLyrics,posSent,negSent,compoundSent,repetitiveness,SpotifyID
+40,hush hush sweet charlotte,patti page,1965,69,134,True,0.341,0.11,0.9912,0.485,7piKtR55k2SsnV7I01ncNI
+2,i cant help myself sugar pie honey bunch,four tops,1965,94,204,False,0.137,0.159,0.2624,0.539,3aSWQJcWnnqgwYbAgidvlV
+35,the name game,shirley ellis,1965,108,287,True,0.086,0.038,0.9089,0.624,021oUsG0NYI7YuJK6c0ecG
+3,i cant get no satisfaction,the rolling stones,1965,,,,,,,,2PzU4IB8Dr6mxV3lHuaG34
+48,for your love,the yardbirds,1965,47,160,True,0.491,0,0.999,0.706,73njvNJmgXA180vTPkA16C
+57,you turn me on,ian whitcomb,1965,36,142,True,0.015,0.033,-0.3818,0.746,3aLWuWKHaTV4Ok7LKvXRYn
+52,crying time,ray charles,1966,83,156,True,0.148,0.133,0.6927,0.468,1bztfH7jidG1V5qWH4YxUq
+49,california girls,the beach boys,1965,80,180,True,0.231,0,0.9906,0.556,6bJuuCtXYiwOcKT9s8uRh8
+33,papas got a brand new bag,james brown,1965,62,113,True,0.17,0.06,0.8972,0.451,6v4gV9s0pnwKbmF1yk5knO
+59,uptight everythings alright,stevie wonder,1966,121,263,False,0.208,0.142,0.9747,0.54,0Hw6SCrtU9pFCjgAONpnGZ
+47,im so lonesome i could cry,bj thomas,1966,63,100,True,0,0.274,-0.9794,0.37,4tj7IsJrn4MvesuhoY0JBy
+45,the seventh son,johnny rivers,1965,,,,,,,,2mWAxc9N82nOqMs5HCLbxv
+16,i got you babe,sonny  cher,1965,94,222,True,0.147,0.051,0.9617,0.577,2SWBfqj1FrS8t8z56G55rP
+72,almost persuaded,david houston,1966,81,111,True,0.097,0.018,0.836,0.27,2Krnm3qWdy4VG5vTkT0cDn
+60,bang bang my baby shot me down,cher,1966,75,163,True,0.071,0.099,-0.5994,0.54,1s2I9Q7zAE78m7aVZOq3ug
+65,beauty is only skin deep,the temptations,1966,121,260,True,0.208,0.034,0.992,0.535,0kuaTr9SqfJCgCFhn38DmN
+71,somewhere my love,ray conniff singers,1966,60,105,True,0.283,0,0.9876,0.429,0pBqW7bLA3soohExT1bU8g
+76,working in the coal mine,lee dorsey,1966,44,332,True,0.026,0.081,-0.9684,0.867,5GR1Jj5ahZtoR6WqyM5LP4
+37,back in my arms again,the supremes,1965,115,235,True,0.359,0.04,0.9988,0.511,1cY6UYbPf4plUm3fpLZGWF
+43,ferry cross the mersey,gerry and the pacemakers,1965,64,123,True,0.162,0.11,0.8625,0.48,3NFScsiDPfCzKgQQUL0674
+12,king of the road,roger miller,1965,85,169,True,0.008,0.189,-0.9817,0.497,36Ew5C2l5r1GAZifRhp4YG
+57,did you ever have to make up your mind,the lovin spoonful,1966,87,168,True,0.093,0.084,0.56,0.482,06YcuDoEZvMcxgzvtzJTz4
+17,this diamond ring,gary lewis  the playboys,1965,64,170,True,0.359,0,0.9975,0.624,7n9i7x2fXDmgCsGExP5CrW
+15,shotgun,junior walker  the all stars,1965,51,134,True,0.017,0.17,-0.9559,0.619,4ofwffwvvnbSkrMSCKQDaC
+28,whats new pussycat,tom jones,1965,56,137,True,0.279,0.017,0.9919,0.591,4HjwGX3pJKJTeOSDpT6GCo
+59,save your heart for me,gary lewis  the playboys,1965,76,136,True,0.289,0.015,0.9943,0.441,3t0BNaPKjRyekNdpd3GiR2
+54,catch us if you can,the dave clark five,1965,36,137,True,0.041,0.039,0.0679,0.737,1QPkehLYh9rHaYtDvzCi3y
+79,barbara ann,the beach boys,1966,39,94,True,0.107,0,0.8481,0.585,2KOt2JrCB720UxIbyzweQo
+21,unchained melody,the righteous brothers,1965,79,176,True,0.235,0.08,0.9894,0.551,1jFhnVoJkcB4lf9tT0rSZS
+52,down in the boondocks,billy joe royal,1965,97,275,True,0.183,0.085,0.9876,0.647,1i1ARxccX24yYKQHPDTzpE
+41,like a rolling stone,bob dylan,1965,181,391,True,0.1,0.09,0.7919,0.537,3AhXZa8sUQht0UEdBJgpGc
+60,tired of waiting for you,the kinks,1965,35,168,True,0.096,0.314,-0.9942,0.792,3sFnC76vUu0dtHUM5Z5bLL
+29,eve of destruction,barry mcguire,1965,144,291,True,0.097,0.22,-0.9929,0.505,1x95pWB3KeK3evKa1VrW6e
+53,secret agent man,johnny rivers,1966,83,171,True,0.105,0.07,0.3182,0.515,2BlaUfBTbWG50DoZHBD1uV
+34,game of love,wayne fontana  the mindbenders,1965,47,260,True,0.373,0,0.9992,0.819,3ctALmweZBapfBdFiIVpji
+47,a walk in the black forest,horst jankowski,1965,112,161,False,0.244,0.025,0.9912,0.304,3msjvrkCvIzUNJHULcAafN
+73,if i were a carpenter,bobby darin,1966,62,126,True,0.139,0.08,0.872,0.508,5Ext9ObPEi7wIcv5AiQWJy
+82,rainy day women 12  35,bob dylan,1966,72,250,False,0.121,0.071,0.9426,0.712,7BkAlVpGwXXl3sYNn5OoJ7
+51,goldfinger,shirley bassey,1965,58,134,True,0.219,0.172,0.889,0.567,6cL7NCFSvqWrBH5r4mkvVV
+38,baby im yours,barbara lewis,1965,66,144,True,0.044,0.092,-0.7579,0.542,7oGwQOTkMB9Sk3DIKJLd5F
+63,what the world needs now is love,jackie deshannon,1965,61,204,True,0.446,0.023,0.9993,0.701,6QhJngmKqelOcCc3bUiKYY
+26,cast your fate to the wind,sounds orchestral,1965,37,85,False,0.091,0.022,0.765,0.565,2Uyv4IymecQUPjKchJKC3R
+55,lady godiva,peter and gordon,1966,109,167,True,0.109,0.046,0.9169,0.347,2A6WXv4PnKGfAOqBdcQhYZ
+51,i am a rock,simon  garfunkel,1966,84,166,True,0.152,0.197,-0.7972,0.494,0byOqNZN9ailhoORv5Ps0Z
+1,wooly bully,sam the sham and the pharaohs,1965,64,125,True,0.02,0.352,-0.9946,0.488,2XkuSbp5say8nZW8g6156Z
+50,go now,the moody blues,1965,53,178,True,0.153,0.056,0.9723,0.702,63zjpUVOkquu2ghCagz2lj
+14,hold me thrill me kiss me,mel carter,1965,73,241,False,0.29,0.075,0.997,0.697,5XPwkZ7vNxeidpNLAkwtFp
+Rank,Song,Artist,Year,UnprunedLyricalComplexity,TotalWords,TitleInLyrics,posSent,negSent,compoundSent,repetitiveness,798nzni0JSUWMVJJBCYYF1
+68,love makes the world go round,deon jackson,1966,75,156,True,0.304,0.045,0.9946,0.519,76HyzKolC3UPyB2ELSWOCq
+58,barefootin,robert parker,1966,85,173,True,0.016,0.012,0.1531,0.509,6t5XVSW2it2oySKzeYt9Ov
+8,cant you hear my heart beat,hermans hermits,1965,72,215,False,0.15,0,0.9885,0.665,36zgr1j3rnGvVrAjwTCqBV
+7,help,the beatles,1965,76,228,True,0.26,0.072,0.9937,0.667,7cEZShpmZ7dencnV8ibyUS
+10,my girl,the temptations,1965,61,153,True,0.133,0.013,0.95,0.601,6jWkZvd1URGktyTTwcpPpB
+64,its not unusual,tom jones,1965,66,142,True,0.195,0.114,0.9215,0.535,3TlIt0ReIxPsVZcOEivT5U
+62,19th nervous breakdown,the rolling stones,1966,123,312,False,0.088,0.184,-0.9892,0.606,21ElXnithj4MX8E4rg5lh8
+4,you were on my mind,we five,1965,44,152,True,0.061,0.186,-0.9607,0.711,36ckFm0oicmvX8bWEErIHd
+24,cara mia,jay and the americans,1965,30,148,True,0.148,0.317,-0.9761,0.797,0Arrnl9EB7LtzPISpNBQQf
+20,stop in the name of love,the supremes,1965,85,233,True,0.274,0.116,0.9963,0.635,5yfrc6CGOXxDWx3nGUDcNj
+23,ill never find another you,the seekers,1965,85,166,True,0.137,0.161,-0.3818,0.488,6Ln9F9lZNMgV5Ht87z9Bd0
+67,just like me,paul revere  the raiders,1966,54,166,True,0.286,0.112,0.9891,0.675,76GlO5H5RT6g7y0gev86Nk
+50,elusive butterfly,bob lind,1966,109,205,True,0.131,0.044,0.9616,0.468,226EXK5tPVsqaZ2y9RACR0
+54,the sound of silence,simon  garfunkel,1966,126,217,True,0.066,0.098,-0.8085,0.419,1Cj2vqUwlJVG27gJrun92y
+56,homeward bound,simon  garfunkel,1966,87,191,True,0.161,0.092,0.9468,0.545,03VXrViYqJpdhuBEV0p0ak
+25,mr tambourine man,the byrds,1965,70,138,True,0.139,0.054,0.865,0.493,3RkQ3UwOyPqpIiIvGVewuU
+36,i know a place,petula clark,1965,107,280,True,0.124,0.056,0.9607,0.618,0bPSRn4crnh5f1JhELPlyL
+67,wonderful world,hermans hermits,1965,74,308,True,0.227,0,0.9978,0.76,2g2GkH3vZHk4lWzBjgQ6nY
+83,guantanamera,the sandpipers,1966,38,83,True,0,0,0,0.542,7m5hbyERUKJC0268b6uEZD
+22,silhouettes,hermans hermits,1965,100,155,True,0.136,0.077,0.8829,0.355,612JlaWJl5l6VIrcBck5QB
+46,im henery the eighth i am,hermans hermits,1965,,,,,,,,5FvrtkWXRHkUU1Vc4rEQ3C
+56,just a little,the beau brummels,1965,67,153,True,0.191,0.301,-0.9767,0.562,5lvnGiTAH9BVlJLHc0DXZz
+18,the in crowd,ramsey lewis trio,1965,1,1,False,0,0,0,0,39ncDMVidHOeQgeC5anYZM
+62,all day and all of the night,the kinks,1965,41,193,True,0.082,0.013,0.8481,0.788,78JmElAFmrPNhLjovDR9Jm
+69,the pied piper,crispian st peters,1966,57,139,True,0.081,0.052,0.6569,0.59,4IXMdUloqh2U9uXD9KZjJn
+31,ticket to ride,the beatles,1965,59,273,True,0.043,0.181,-0.9919,0.784,7CZiDzGVjUssMSOXrDNYHL
+13,the birds and the bees,jewel akens,1965,57,204,True,0.098,0,0.9643,0.721,7uEcCGtM1FBBGIhPozhJjv
+55,eight days a week,the beatles,1965,45,205,True,0.481,0,0.9994,0.78,1Dg4dFJr3HW7sbA7vPejre
+66,no matter what shape your stomachs in,the tbones,1966,,,,,,,,5DkgAX62bM7gwYpOGtOGfK
+6,downtown,petula clark,1965,120,239,True,0.165,0.133,0.9249,0.498,3Ga6eKrUFf12ouh9Yw3v2D
+11,help me rhonda,the beach boys,1965,65,299,True,0.526,0.009,0.9997,0.783,3haZcHm3HydDVxm3je3Zmg
+49,dirty water,the standells,1966,89,200,True,0.279,0.192,0.986,0.555,52rbzvOCmHgprzUaMqZEPK
+58,ill be doggone,marvin gaye,1965,100,297,True,0.074,0.121,-0.8972,0.663,1Jb3G7XkSuPR60ZeUaub6N
+74,dont mess with bill,the marvelettes,1966,90,234,True,0.203,0.181,0.3027,0.615,6UoklSOHrajLQkD98nP7re
+75,cherry cherry,neil diamond,1966,77,213,False,0.135,0.056,0.9629,0.638,1C042FLYy7rP3MfnkOcnha
+42,im telling you now,freddie and the dreamers,1965,,,,,,,,0yYMwhZjETU65G0cb4OTRr
+19,mrs brown youve got a lovely daughter,hermans hermits,1965,85,198,True,0.225,0.105,0.9786,0.571,1GJCJpKYfzRUsYnSRy4Mfz
+30,hang on sloopy,the mccoys,1965,46,154,True,0.247,0.088,0.9821,0.701,0i7O5MtSTXvR4BEY7stpjF
+66,shake,sam cooke,1965,96,263,True,0.104,0.169,-0.8053,0.635,6yz0Jndhv0QjKdpcEMbOjz
+39,the jolly green giant,the kingsmen,1965,124,217,True,0.124,0.05,0.9117,0.429,0WhJxcxyQOIK9iaH9GmpKv
+27,yes im ready,barbara mason,1965,43,184,True,0.584,0,0.9996,0.766,2gZpW5pTZkimGG98loFSl2
+70,coming on strong,brenda lee,1966,68,125,True,0.207,0.146,0.8658,0.456,70X5rI8LU3uUwIX3NE7HYP
+5,youve lost that lovin feelin,the righteous brothers,1965,88,232,False,0.266,0.085,0.9958,0.621,6AeyHqzNHJthYJbn0tvJ4b
+9,crying in the chapel,elvis presley,1965,79,148,True,0.289,0.077,0.9911,0.466,1Vzr9AOdHw65UHoK1Vuxls
+44,just once in my life,the righteous brothers,1965,104,271,True,0.144,0.07,0.9631,0.616,2qhASBzpbFhPRtrnZ5lLnz
+32,red roses for a blue lady,bert kaempfert,1965,52,139,True,0.228,0.053,0.9735,0.626,4GXXOBUEpCr58TFHIkLrZ0
+61,sloop john b,the beach boys,1966,85,267,True,0.063,0.105,-0.9418,0.682,2ULL3VZf4WwBKO4vjwT7Bg
+48,aint too proud to beg,the temptations,1966,96,270,True,0.301,0.062,0.9983,0.644,4CoGNqLap7UGU5Q3VdKug0
+64,psychotic reaction,count five,1966,49,89,True,0.091,0.254,-0.947,0.449,5JcaA4A9ZoXthwEnxOxWvP
+63,wipe out,the surfaris,1966,3,5,True,0.783,0,0.7351,0.4,4anUinKv803lyDD1vaSXhU
+85,oh how happy,the shades of blue,1966,55,185,True,0.388,0.024,0.9986,0.703,1VIRe8eglPUT7aL5pKeoFI
+80,gloria,shadows of knight,1966,,,,,,,,7cv28LXcjAC3GsXbUvXKbX
+10,knock three times,tony orlando and dawn,1971,86,235,True,0.156,0.033,0.9842,0.634,6gvfXd7pEUSPuNEMWwOJUH
+54,indiana wants me,r dean taylor,1970,111,284,True,0.13,0.082,0.9415,0.609,5JD1r9RGE8W7Cid9XbpkGW
+11,me and bobby mcgee,janis joplin,1971,143,417,False,0.144,0.02,0.9946,0.657,1IqFh00G2kvvMm8pRMpehA
+9,just my imagination running away with me,the temptations,1971,106,221,False,0.183,0.023,0.9883,0.52,39Bd345OWEhRNyfayhp9gv
+13,want ads,honey cone,1971,103,343,True,0.215,0.111,0.9854,0.7,3YpN9pvaTXKSXurj3HBq8M
+14,smiling faces sometimes,the undisputed truth,1971,67,224,True,0.277,0.169,0.9889,0.701,5Vdg4tP25ffeGEC5GGmCwm
+17,mr big stuff,jean knight,1971,99,260,True,0.163,0.071,0.9783,0.619,2Bls0igCm79XQQ95IoUbhq
+16,youve got a friend,james taylor,1971,106,274,True,0.147,0.087,0.9463,0.613,2stkLJ0JNcXkIRDNF3ld6c
+18,brown sugar,the rolling stones,1971,87,178,True,0.214,0.027,0.9854,0.511,61UuPxxYUvacEH6SHIK3sU
+21,whats going on,marvin gaye,1971,84,194,True,0.059,0.097,-0.8421,0.567,4RNHbYuRaZesMODlihhsUG
+20,the night they drove old dixie down,joan baez,1971,125,250,True,0.062,0.042,0.8438,0.5,2x0supcZhd6NEH1nem9DnR
+19,do you know what i mean,lee michaels,1971,91,259,True,0.156,0.013,0.9909,0.649,0X2ckklp0uln3TRUH7JTpN
+23,aint no sunshine,bill withers,1971,43,160,True,0.099,0.146,-0.7962,0.731,1k1Bqnv2R0uJXQN4u6LKYt
+12,tired of being alone,al green,1971,101,212,True,0.201,0.149,0.9495,0.524,10vkYRKw6Jjr7try1ir50G
+25,shes a lady,tom jones,1971,96,276,True,0.244,0.037,0.9957,0.652,0quGJukpao2TNHd0gIn1pd
+26,superstar,murray head  the trindad singers,1971,,,,,,,,7dltD9eEX7X1zk8JJ9BS0e
+15,treat her like a lady,cornelius brothers  sister rose,1971,111,414,True,0.385,0.027,0.9995,0.732,2eMUdyph5YcmIQRf7OsnLa
+24,signs,five man electrical band,1971,145,296,True,0.064,0.012,0.8979,0.51,6Na5uKk5SsqZimk0hAWo8y
+27,ive found someone of my own,the free movement,1971,,,,,,,,67MIHtWtMCW5f4FMoQwOdl
+29,temptation eyes,the grass roots,1971,70,205,True,0.341,0.01,0.9984,0.659,0OnQpzSw8xVXeWlHU0OOP6
+28,amos moses,jerry reed,1971,119,297,True,0.08,0.03,0.9329,0.599,1lfVeoMZZimh0jf8rYUeJU
+31,my sweet lord,george harrison,1971,73,251,True,0.404,0,0.9992,0.709,0qdQUeKVyevrbKhAo0ibxS
+32,sweet and innocent,donny osmond,1971,68,218,True,0.509,0.011,0.9995,0.688,67QKpPxZoQ9NJnBZMAutlA
+33,put your hand in the hand,ocean,1971,95,161,True,0.146,0.032,0.9127,0.41,7fwa5I8SycGBpw2jOZ0L7m
+8,take me home country roads,john denver,1971,79,169,True,0.042,0,0.719,0.533,2xYlyywNgefLCRDG8hlxZq
+37,rainy days and mondays,the carpenters,1971,80,217,True,0.138,0.084,0.9605,0.631,1929eIMhIFVN00MVzejNne
+39,gypsys tramps  thieves,cher,1971,105,293,True,0.027,0.127,-0.9862,0.642,6fsSZbNL7XP9gf1kJ2l155
+41,rose garden,lynn anderson,1971,111,275,True,0.28,0.073,0.9967,0.596,3nnfZsKguDexxLNInB4rDR
+38,if you could read my mind,gordon lightfoot,1971,129,292,True,0.179,0.069,0.9823,0.558,0fjYN9BylnRXMA3or3QSld
+42,dont pull your love,hamilton joe frank  reynolds,1971,98,167,True,0.071,0.142,-0.9167,0.413,0b889dNiVBOUvnURFb9rcx
+30,superstar,the carpenters,1971,61,129,False,0.212,0.054,0.9778,0.527,7dltD9eEX7X1zk8JJ9BS0e
+44,mr bojangles,nitty gritty dirt band,1971,,,,,,,,51DLN9R1dIqkKnlRsz1kpg
+35,for all we know,the carpenters,1971,48,100,True,0.188,0.039,0.9565,0.52,4Iam3vZMJCMltFkK9mNruw
+49,spanish harlem,aretha franklin,1971,74,184,True,0.084,0.119,-0.765,0.598,3UCmuRdeTriWgOZMEJsfqZ
+43,it dont come easy,ringo starr,1971,69,202,True,0.164,0.094,0.9457,0.658,4RFqi5JQduiSlRZCVlUDGH
+40,never can say goodbye,the jackson 5,1971,98,237,True,0.017,0.231,-0.9883,0.586,4CbUtLtAcgLJ7mAIeooJS8
+36,help me make it through the night,sammi smith,1971,70,122,True,0.112,0.216,-0.9239,0.426,69iVsk096xmrKtcrU2mVnj
+54,draggin the line,tommy james,1971,64,150,True,0.323,0.006,0.9958,0.573,4WYFQLVqla6tpYtKsSqcgu
+45,i love you for all seasons,the fuzz,1971,63,185,True,0.303,0.006,0.9964,0.659,03DQO1cC5RzTWRxJLzJCgy
+46,whatcha see is whatcha get,the dramatics,1971,49,109,False,0.077,0.048,0.6542,0.55,5lYpHO6ZO4Shys3GD8rav6
+57,stay awhile,the bells,1971,61,162,False,0.189,0.011,0.986,0.623,7hN1KFziTUOCIj6XavvrtT
+50,i dont know how to love him,helen reddy,1971,101,175,True,0.184,0.104,0.9615,0.423,5vOr8PCLpiKnADDFTRDKbi
+48,if you really love me,stevie wonder,1971,83,223,True,0.282,0.052,0.9962,0.628,6Axz5VSkc4Bs8eXWQxnynE
+53,doesnt somebody want to be wanted,the partridge family,1971,96,231,True,0.227,0.132,0.9884,0.584,5CXfTjIX7bAlFxSlMBaJVU
+64,shes not just another woman,8th day,1971,,,,,,,,4MQIW3aquGqkMckMNVne4q
+47,thats the way ive always heard it should be,carly simon,1971,134,259,True,0.19,0.092,0.9781,0.483,4jkn5PRfAJoKfXF0OPL7n7
+52,bridge over troubled water,aretha franklin,1971,101,324,True,0.206,0.077,0.9904,0.688,6l8EbYRtQMgKOyc1gcDHF9
+55,proud mary,ike  tina turner,1971,76,149,True,0.161,0.028,0.9694,0.49,2EZc13S7YRi6bTS3SKteRN
+75,funky nassau,the beginning of the end,1971,69,112,True,0.039,0.09,-0.1935,0.384,52IYsIidzGz7PXO2lEyeLB
+58,sweet city woman,the stampeders,1971,58,112,True,0.209,0,0.9734,0.482,52SCT6ImFklqEhH21lgErO
+69,liar,three dog night,1971,66,177,True,0.048,0.126,-0.9703,0.627,2fZQIJew3nkNe99s2PKzul
+65,bring the boys home,freda payne,1971,81,436,True,0.176,0.061,0.9938,0.814,4TUStFzBGQqn0GrkzVWFV4
+62,mercy mercy me the ecology,marvin gaye,1971,64,115,False,0.175,0.167,0.0534,0.443,5LDTnh9Bnzpghb1si4b2BI
+59,me and you and a dog named boo,lobo,1971,109,223,True,0.145,0.006,0.9862,0.511,3wRiwV9HdarzkktRH7If46
+66,i just want to celebrate,rare earth,1971,82,301,True,0.37,0.081,0.9986,0.728,5sj71X3Em004zkOXXQpUcG
+67,never ending song of love,delaney  bonnie  friends,1971,44,226,True,0.03,0.181,-0.9881,0.805,3zCzffrOzTrqXggqCouSlT
+76,if not for you,olivia newtonjohn,1971,55,158,True,0.018,0.114,-0.9317,0.652,3HUCTp20rxqMnCtdyU7JgU
+77,groove me,king floyd,1971,105,291,True,0.227,0,0.9967,0.639,2lp8xjq0WTm3HZKHuDEweg
+63,one toke over the line,brewer  shipley,1971,91,346,True,0.147,0.025,0.9912,0.737,4tMBeRRtM16o957kB45t26
+71,chirpy chirpy cheep cheep,mac and katie kissoon,1971,59,388,True,0,0,0,0.848,703RBHUEEi5c4o4YUXAM9Q
+78,watching scotty grow,bobby goldsboro,1971,127,211,True,0.125,0.077,0.8316,0.398,6OYjNMwmiBJNpiDM1aqd6K
+86,mamas pearl,the jackson 5,1971,96,342,True,0.213,0.025,0.9978,0.719,20a2Sdul23BOafd2X37Dlv
+72,where do i begin love story,andy williams,1971,100,200,False,0.172,0.061,0.9581,0.5,45FLu3nL1iMYXYPzhqLdko
+87,timothy,the buoys,1971,95,154,True,0.046,0.097,-0.8519,0.383,6trn8cmiMBsiQGoIZRIsBF
+85,trapped by a thing called love,denise lasalle,1971,62,161,False,0.154,0.145,0.5927,0.615,2f1kaz9iKDa9aHwZMfdbti
+68,easy loving,freddie hart,1971,53,88,False,0.261,0,0.9771,0.398,5EYi2rH4LYs6M21ZLOyQTx
+91,i ami said,neil diamond,1971,,,,,,,,7ouhJQkjYVcxQMi5OnKIIH
+70,stickup,the honey cone,1971,,,,,,,,5glXTXNIkUMLIDJVMEBLFQ
+61,if,bread,1971,82,126,True,0.045,0.075,-0.4497,0.349,2uMTscYuCT3BZ0OCzH3MwN
+88,i woke up in love this morning,the partridge family,1971,85,238,True,0.259,0.019,0.9971,0.643,4NfNr2aOxfZkkDHue5gjKf
+73,wild world,cat stevens,1971,82,281,True,0.257,0.141,0.9936,0.708,6Xz7FeyE8HTP90HecgHV57
+84,wont get fooled again,the who,1971,126,306,False,0.157,0.113,0.8965,0.588,3S9PcjheJ0JZHawN261M0p
+51,yoyo,the osmonds,1971,122,368,True,0.369,0.03,0.999,0.668,3OZs6tgXsBmb3TWPn07YCF
+74,when youre hot youre hot,jerry reed,1971,170,404,True,0.113,0.051,0.9761,0.579,6sykijVtS1m8vxLnkKXrJ5
+79,woodstock,matthews southern comfort,1971,106,218,True,0.061,0.043,0.5994,0.514,6QgjcU0zLnzq5OrUoSZ3OK
+83,here comes that rainy day feeling again,the fortunes,1971,85,185,True,0.136,0.118,0.8237,0.541,2oWFcV6yOp5HmbzbCcQXKJ
+89,theme from shaft,isaac hayes,1971,60,87,False,0,0.129,-0.8225,0.31,7KMILVTQdVS4zQ8ilTcpRO
+80,amazing grace,judy collins,1971,74,96,True,0.356,0.126,0.9849,0.229,5C64H6dEsQ15bS9gp0D3Xr
+90,if i were your woman,gladys knight  the pips,1971,93,297,True,0.192,0.12,0.986,0.687,5jImDmchoWQjKdg2z37nD0
+81,i hear you knocking,dave edmunds,1971,53,132,True,0.068,0.05,0.527,0.598,2HMWCdOn8xL2M8WwPxHTQ1
+92,the wedding song there is love,paul stookey,1971,91,218,False,0.229,0.009,0.996,0.583,4Zibbwj1STIuxLT3WdEY67
+82,lonely days,bee gees,1971,37,138,True,0.106,0.222,-0.9504,0.732,3qLqAlhe4WKDim35hYeSS9
+94,love her madly,the doors,1971,51,163,True,0.029,0.41,-0.9979,0.687,3MFFDRC4wTN9JNGtzXsZlN
+98,one less bell to answer,the 5th dimension,1971,85,225,True,0.138,0.168,0.2685,0.622,5766QQQ0ssrdVAe7VGE2BM
+93,dont knock my love,wilson pickett,1971,,,,,,,,7cyLwgSVf3AnKXetNRWiTa
+96,sweet mary,wadsworth mansion,1971,84,276,True,0.17,0.007,0.9923,0.696,3X3XuCPTC95ARm9SguWsIa
+95,here comes the sun,richie havens,1971,45,193,True,0.128,0.012,0.9719,0.767,6dGnYIeXmHdcikdzNNDMm2
+2,alone again naturally,gilbert osullivan,1972,172,277,True,0.105,0.175,-0.9789,0.379,6vuEG9sZtC4W2zT64f7zLF
+100,somos novios its impossible,perry como,1971,79,156,False,0.023,0.167,-0.9771,0.494,5lstOIjzE0A70kuSKqSNKi
+3,american pie,don mclean,1972,322,842,True,0.105,0.133,-0.9773,0.618,2QgWuCtBpNIpl5trmKCxRf
+99,riders on the storm,the doors,1971,60,135,True,0.199,0.079,0.9509,0.556,14XWXWv5FoCbFzLksawpEe
+1,the first time ever i saw your face,roberta flack,1972,61,136,True,0.169,0.017,0.9726,0.551,0SxFyA4FqmEQqZVuAlg8lf
+97,right on the tip of my tongue,brenda  the tabulations,1971,,,,,,,,0EocUlMbfRJlO1ieFjgZGB
+4,without you,harry nilsson,1972,61,138,True,0.147,0.095,0.6889,0.558,6Pgkp4qUoTmJIPn7ReaGxL
+5,the candy man,sammy davis jr,1972,,,,,,,,7cW3WFkFn9TjUIllxPYGbj
+7,lean on me,bill withers,1972,84,265,True,0.221,0.064,0.9949,0.683,3M8FzayQWtkvOhqMn2V4T2
+99,get on the good foot,james brown,1972,106,318,True,0.242,0.017,0.9977,0.667,7eoNNyyusSxTQeCtWMWdr0
+100,pop that thang,the isley brothers,1972,65,204,True,0.009,0.01,-0.0387,0.681,5mcvfwYH5MwXzFqJhAbres
+97,id like to teach the world to sing in perfect harmony,the hillside singers,1972,,,,,,,,4k8UGch3UxAtG8jqjFxHjj
+98,walkin in the rain with the one i love,love unlimited,1972,117,296,False,0.329,0.003,0.9989,0.605,4Ev3gucC4JAUbHJrHpY70w
+1,tie a yellow ribbon round the ole oak tree,tony orlando and dawn,1973,87,292,True,0.071,0.07,-0.1935,0.702,12UzVR0M7asW2MHAZRJk0I
+2,bad bad leroy brown,jim croce,1973,128,314,True,0.068,0.175,-0.9896,0.592,7qFg0joTjCiYOvzrt9nNtg
+3,killing me softly with his song,roberta flack,1973,78,247,True,0.018,0.24,-0.9969,0.684,0Q0IVlqMV64kNLlwjPj0Hl
+7,crocodile rock,elton john,1973,111,353,True,0.034,0.087,-0.9608,0.686,6WCeFNVAXUtNczb7lqLiZU
+4,lets get it on,marvin gaye,1973,104,250,True,0.231,0.038,0.9951,0.584,0jHkgTtTaqg5LNCiYDQPUB
+9,youre so vain,carly simon,1973,116,292,True,0.108,0.144,-0.9487,0.603,2DnJjbjNTV9Nd5NOa1KGba
+6,why me,kris kristofferson,1973,65,141,True,0.207,0.041,0.9735,0.539,3DS5BKVLatgjEMYKqLxCFY
+8,will it go round in circles,billy preston,1973,52,336,True,0.181,0.02,0.9927,0.845,5YLVhkyMsAuYKOKihHJo21
+13,brother louie,stories,1973,75,163,True,0.083,0.107,-0.661,0.54,2U3rcQTEC3Ob8I0D73hZtB
+12,playground in my mind,clint holmes,1973,115,219,True,0.11,0.01,0.969,0.475,0ckaiscpV8eaZ9WWJLdFbs
+5,my love,paul mccartney  wings,1973,44,174,True,0.457,0.011,0.999,0.747,3kxfsdsCpFgN412fpnW85Y
+10,touch me in the morning,diana ross,1973,156,327,True,0.12,0.079,0.9438,0.523,4sIkDCqNjTubfb5UVs8lEA
+11,the night the lights went out in georgia,vicki lawrence,1973,197,473,True,0.063,0.122,-0.9864,0.584,2MiXC2LfpsoeUP5RvMGEQ3
+15,me and mrs jones,billy paul,1973,82,183,False,0.129,0.145,-0.5343,0.552,4sj8qFcEDnRPNv3tBbUVUf
+14,delta dawn,helen reddy,1973,82,109,True,0.083,0.04,0.7096,0.248,7GH8qNOm2gEKryVUyVzkmt
+16,frankenstein,edgar winter group,1973,1,1,False,0,0,0,0,4aK0vJsPXFsFdBUh8hPaDT
+20,halfbreed,cher,1973,89,132,True,0.031,0.113,-0.7577,0.326,2e1lf1z0NxVOs8emvamnW4
+22,pillow talk,sylvia,1973,111,228,True,0.133,0.122,0.2462,0.513,0alXWwTcr1reJRYkhjauN1
+17,drift away,dobie gray,1973,101,302,True,0.144,0.097,0.9555,0.666,0RFgvrhkf9FiDRLA0BhzpZ
+18,little willy,sweet,1973,70,264,True,0.059,0.061,-0.1759,0.735,5yGYWR0ZTgaQbjQVq1FFbW
+19,you are the sunshine of my life,stevie wonder,1973,70,162,True,0.209,0.08,0.9781,0.568,0n2pjCIMKwHSXoYfEbYMfX
+21,that lady,the isley brothers,1973,56,106,True,0.246,0,0.9812,0.472,378u8gf9qpJ4ZhxHEvrodl
+26,superstition,stevie wonder,1973,68,145,True,0.114,0.202,-0.9513,0.531,4dwrL3Z5U2RZ6MZiKE2PgL
+25,wildflower,skylark,1973,101,163,False,0.104,0.091,0.4939,0.38,1eYTN19ZXz0i9iuIX2TD5U
+24,right place wrong time,dr john,1973,90,204,False,0.073,0.258,-0.9936,0.559,0I2ELF6uHlL4ABu9aFiou7
+56,get it on,t rex,1972,76,278,True,0.215,0.082,0.9884,0.727,0jHkgTtTaqg5LNCiYDQPUB
+28,the morning after,maureen mcgovern,1973,75,182,True,0.114,0.011,0.9485,0.588,05R2BUnFy4KlkT4Ewg4Gnv
+29,rocky mountain high,john denver,1973,173,354,True,0.063,0.104,-0.9405,0.511,5tlyFGagMcqqpbqo2jYKU5
+27,loves me like a rock,paul simon,1973,61,245,True,0.413,0.049,0.9991,0.751,7oH43GUMu7wCKoFZMWhosG
+30,stuck in the middle with you,stealers wheel,1973,101,301,True,0.087,0.128,-0.9222,0.664,1b7LMtXCXGc2EwOIplI35z
+31,shambala,three dog night,1973,44,104,True,0.17,0.102,0.7506,0.577,4OLBx9wxBXhsZCUZiOXGtq
+32,love train,the ojays,1973,80,282,True,0.369,0.013,0.9991,0.716,28285KFbyCq8sJofn58qlD
+35,keep on truckin,eddie kendricks,1973,,,,,,,,2VMYmcCXe5BkbEVO8wVAZW
+37,dannys song,anne murray,1973,90,171,False,0.292,0.023,0.9949,0.474,5mnvqisoDJilY0uCEdT8rG
+34,say has anybody seen my sweet gypsy rose,tony orlando and dawn,1973,115,270,True,0.17,0.021,0.9925,0.574,1IbElKiARztcn0HvvKP28Z
+40,diamond girl,seals and crofts,1973,91,170,True,0.304,0.011,0.9945,0.465,3KH5aME71gFcHvReW54ew4
+38,monster mash,bobby boris pickett and the cryptkickers,1973,130,360,True,0.063,0.048,0.6808,0.639,0xxZY5C9xxij3D1HkzbnfC
+41,long train runnin,the doobie brothers,1973,84,205,False,0.139,0.023,0.9821,0.59,4nXkbcTj3nyww1cHkw5RAP
+39,natural high,bloodstone,1973,91,321,True,0.26,0.077,0.9962,0.717,73etijhz7pV4Wx7GTANLpq
+36,dancing in the moonlight,king harvest,1973,52,160,True,0.3,0.026,0.9925,0.675,0q21FNwES2bbtcduB6kjEU
+44,daddys home,jermaine jackson,1973,71,154,True,0.181,0.012,0.9809,0.539,030OCtLMrljNhp8OWHBWW3
+45,neither one of us wants to be the first to say goodbye,gladys knight  the pips,1973,97,213,True,0.078,0.075,0.4019,0.545,76Gcy0ltMutGaK8oizgdrF
+43,if you want me to stay,sly  the family stone,1973,90,195,True,0.164,0.08,0.9481,0.538,2BydLQAh7CUIFvSEqAMc4x
+42,give me love give me peace on earth,george harrison,1973,,,,,,,,4XMRt4xFqLzGs4wDKkSSeu
+47,could it be im falling in love,the spinners,1973,91,286,True,0.267,0.084,0.9978,0.682,5i0urffBRKl09GSX2Jhdeh
+49,midnight train to georgia,gladys knight  the pips,1973,122,578,True,0.134,0.041,0.9972,0.789,5k7VcffaUZqYLxI4DkIsST
+48,daniel,elton john,1973,81,157,True,0.049,0.109,-0.8692,0.484,1RMJOxR6GRPsBHL8qeC2ux
+33,im gonna love you just a little more baby,barry white,1973,110,283,False,0.124,0.242,-0.9929,0.611,2akOT20GHnC1qoYkRLvYhr
+46,im doin fine now,new york city,1973,59,196,False,0.169,0.04,0.9694,0.699,7KRVZ58n48XMX6qPso263I
+23,were an american band,grand funk railroad,1973,99,250,True,0.183,0,0.9921,0.604,3XcjIvaZVUFAIdIYZqY9bd
+51,the cover of the rolling stone,dr hook  the medicine show,1973,156,376,True,0.185,0.024,0.9964,0.585,3JYjHeKY0OSnkQGJGvw7P8
+52,behind closed doors,charlie rich,1973,75,165,True,0.139,0.065,0.9084,0.545,3wuJOi4N0Dd0QtBW0wZUwJ
+54,feelin stronger every day,chicago,1973,70,152,True,0.327,0.022,0.9935,0.539,1Z06wifemfFcbgWscqjMfs
+55,the cisco kid,war,1973,47,215,True,0.184,0,0.991,0.781,5DvGqOJAB0OUDc8R9cLN3H
+53,your mama dont dance,loggins and messina,1973,,,,,,,,36oetAab3pKoxcKuFhvSVo
+59,sing,the carpenters,1973,46,81,True,0.264,0,0.9745,0.432,6gBFPUFcJLzWGx4lenP6h2
+56,live and let die,paul mccartney  wings,1973,46,142,True,0.02,0.304,-0.9963,0.676,0rFWuqFgHAfuzE8uSB9TWR
+57,oh babe what would you say,hurricane smith,1973,72,177,True,0.154,0.007,0.9775,0.593,1J6uftsODa1a7gsxhPWvAI
+61,dueling banjos,eric weissberg  steve mandell,1973,,,,,,,,4xxn8GDqs7RUwgZTNznXNp
+58,i believe in you you believe in me,johnnie taylor,1973,143,409,True,0.21,0.059,0.9979,0.65,67aeyMdt7cgb8l9zg53Pfm
+65,superfly,curtis mayfield,1973,121,291,True,0.099,0.145,-0.9744,0.584,4XsH9zBWPOCdXoH9ZDdS8r
+66,get down,gilbert osullivan,1973,73,224,True,0.189,0.067,0.9769,0.674,2VNfJpwdEQBLyXajaa6LWT
+64,my maria,bw stevenson,1973,77,113,True,0.216,0.078,0.9638,0.319,09qzRI951OVkXGCc33gzcT
+68,reelin in the years,steely dan,1973,98,259,True,0.034,0.069,-0.6537,0.622,1I7zHEdDx8Ny5RxzYPqsU2
+69,hocus pocus,focus,1973,32,112,False,0,0,0,0.714,0w27VuUGExCqLg9bjQb3PF
+67,last song,edward bear,1973,80,254,True,0.105,0.167,-0.9439,0.685,39Q20GZHKK0IK8oKkhfxiJ
+62,higher ground,stevie wonder,1973,75,178,True,0.117,0.073,0.7323,0.579,7KT7VGnPU5QVXN3q1BOeqb
+70,yesterday once more,the carpenters,1973,111,211,True,0.203,0.064,0.9887,0.474,24Qo0pcx4gjBNQNp1cTOVw
+71,boogie woogie bugle boy,bette midler,1973,125,348,True,0.084,0.005,0.9732,0.641,2nDURQ5XAIIbzAmy1F1yKm
+72,clair,gilbert osullivan,1973,129,228,True,0.036,0.12,-0.9711,0.434,5u5aVJKjSMJr4zesMPz7bL
+73,do it again,steely dan,1973,106,214,True,0.074,0.08,0.3469,0.505,3iOpiHDobxZO7S4p9Y2Fgu
+74,kodachrome,paul simon,1973,86,216,True,0.126,0.052,0.9552,0.602,0UlwTmT01jdFp3BaofARtU
+75,why cant we live together,timmy thomas,1973,45,162,True,0.084,0.245,-0.9897,0.722,722E6CPY8biq4sUnf40u6Y
+63,here i am come and take me,al green,1973,106,302,False,0.115,0.086,0.8452,0.649,20wu6USlvWRghMOvUdfLgE
+76,so very hard to go,tower of power,1973,93,255,True,0.113,0.251,-0.9896,0.635,55iDwZfpaU7ytsadT7BDVE
+79,ramblin man,the allman brothers band,1973,67,201,True,0.139,0.029,0.9674,0.667,2Q7LpkYrS0PBpoq3iCqypa
+80,masterpiece,the temptations,1973,88,129,False,0.118,0.135,-0.3612,0.318,2NBQmPrOEEjA8VbeWOQGxO
+78,rockin pneumonia and the boogie woogie flu,johnny rivers,1973,48,141,True,0,0.111,-0.9371,0.66,20OVbaIrsu70Qab39PsE3X
+77,do you wanna dance,bette midler,1973,34,112,True,0.2,0,0.9652,0.696,6ISsdMYxWTaEsfUNZ1P3PS
+81,peaceful,helen reddy,1973,90,162,True,0.195,0.103,0.9637,0.444,40h65HAR8COEoqkMwUUQHu
+60,aint no woman like the one ive got,the four tops,1973,117,316,True,0.274,0.123,0.9954,0.63,2mhFroJn2fNDzWc7DUHSVR
+50,smoke on the water,deep purple,1973,67,122,True,0.018,0.216,-0.9825,0.451,5SAUIWdZ04OxYfJFDchC7S
+85,angie,the rolling stones,1973,74,162,True,0.151,0.153,0.561,0.543,1GcVa4jFySlun4jLSuMhiq
+83,funny face,donna fargo,1973,63,185,True,0.318,0.052,0.9956,0.659,27145diX1C7BE6m6FzONqb
+86,jambalaya on the bayou,blue ridge rangers,1973,108,264,True,0.115,0.061,0.9349,0.591,2ZvAYto4cSRgsUDFyAbDHf
+84,funky worm,ohio players,1973,123,224,False,0.153,0.048,0.9733,0.451,4SGcV28NuS1IdCaEsnYKi5
+87,dont expect me to be your friend,lobo,1973,107,234,True,0.174,0.129,0.952,0.543,2TtUTMm65xZeqmF721Txfk
+89,daisy a day,jud strunk,1973,118,285,True,0.127,0.095,0.9337,0.586,1Wv4xyM6kb46YJsA7BZ2WD
+90,also sprach zarathustra 2001,deodato,1973,34,38,False,0.079,0.079,0,0.105,0vQC6ticbFEDmZGFhOglEH
+88,break up to make up,the stylistics,1973,72,218,True,0.16,0.203,-0.8979,0.67,7kwPsdI7w4itKER0MyipGj
+91,stir it up,johnny nash,1973,69,198,True,0.229,0.056,0.991,0.652,3sqZDdEO5viqNqMCNem5m5
+93,gypsy man,war,1973,39,91,True,0.194,0,0.9423,0.571,1poVoJUgF0Brh8TgJc9MNv
+94,the world is a ghetto,war,1973,50,148,True,0.186,0.053,0.967,0.662,59Eo4gTUz4NpKbVoLFbwEj
+95,yes we can can,the pointer sisters,1973,85,897,True,0.241,0.003,0.9996,0.905,7FpGAivMuzzBcnOlHZnouD
+96,free ride,edgar winter group,1973,62,114,True,0.283,0.032,0.9861,0.456,4DhbiXEuV7JxSR0wuqetTa
+97,space oddity,david bowie,1973,128,233,True,0.055,0.036,0.5413,0.451,72Z17vmmeQKAg8bptWvpVG
+98,it never rains in southern california,albert hammond,1973,85,170,True,0.124,0,0.9592,0.5,6ygcYdLszK2DJUU7BWuCxx
+99,the twelfth of never,donny osmond,1973,56,114,True,0.228,0.129,0.9524,0.509,5qzEPQyH2AMrKokbl96IzC
+100,papa was a rollin stone,the temptations,1973,126,411,False,0.083,0.127,-0.9771,0.693,0oPgpXk3NDbPd273aaPUiT
+3,loves theme,love unlimited orchestra,1974,,,,,,,,5FFaUuv02cSOcqtlzPnHee
+5,dancing machine,the jackson 5,1974,80,240,True,0.125,0.044,0.9666,0.667,0xqb2Euq1PAxKHBA36NUnx
+1,the way we were,barbra streisand,1974,57,130,True,0.1,0.021,0.8807,0.562,1vZTgn4JXWMahR8r99ug5H
+6,the locomotion,grand funk railroad,1974,88,255,True,0.12,0,0.9813,0.655,5xzdDMhFYiuUONB0Mha9VS
+4,come and get your love,redbone,1974,60,296,True,0.37,0.011,0.9993,0.797,7GVUmCP00eSsqc4tzj1sDD
+8,the streak,ray stevens,1974,142,273,True,0.108,0.04,0.9575,0.48,5VhCVHASHPwS4DxcGZNqrE
+2,seasons in the sun,terry jacks,1974,123,375,True,0.227,0.059,0.9978,0.672,0X3d9gx7UDYgcwwkgTeNLR
+9,bennie and the jets,elton john,1974,90,171,True,0.108,0.084,0.8166,0.474,0dBatXn1vVUl0jLgXRClwD
+12,jungle boogie,kool  the gang,1974,34,207,True,0.035,0.04,-0.0258,0.836,5uZm7EFtP5aoTJvx5gv9Xf
+13,midnight at the oasis,maria muldaur,1974,94,180,True,0.078,0.12,-0.8151,0.478,5VBcEJ4mtXTmVEJtc7hx2g
+11,until you come back to me thats what im gonna do,aretha franklin,1974,,,,,,,,6ykYnj6kpUsaUur53jMnhN
+10,one hell of a woman,mac davis,1974,51,189,True,0.332,0.178,0.989,0.73,7Eq6uD4xcTs4Ddmyv6Ttjs
+14,you make me feel brand new,the stylistics,1974,94,187,True,0.292,0.047,0.995,0.497,3QgsPdDBXZKrpa2iQndFnZ
+15,show and tell,al wilson,1974,90,270,True,0.15,0.022,0.9876,0.667,2uoWHninMACac1KBFn8rXQ
+16,spiders and snakes,jim stafford,1974,110,276,True,0.17,0.125,0.9669,0.601,1VREN3iKxfXrN6koXcXWPM
+92,money,pink floyd,1973,86,128,True,0.108,0.123,-0.6124,0.328,2GGMabyHXnJmjY6CXhhB2e
+18,sunshine on my shoulders,john denver,1974,47,132,True,0.363,0.039,0.9942,0.644,3m8lTUL5GxGUNSaycI77ND
+19,sideshow,blue magic,1974,104,282,True,0.059,0.153,-0.9828,0.631,0fopVbPW7N5BK0sOybQCq2
+20,hooked on a feeling,blue swede,1974,83,189,True,0.299,0.033,0.996,0.561,6Ac4NVYYl2U73QiTt11ZKd
+22,band on the run,paul mccartney and wings,1974,110,256,True,0.052,0.018,0.6692,0.57,1H4idkmruFoJBg1DvUv2tY
+17,rock on,david essex,1974,58,141,True,0.051,0.023,0.7184,0.589,0vnCEYbnzh4g8peFJ6ZqKm
+23,the most beautiful girl,charlie rich,1974,68,199,True,0.149,0.115,0.9389,0.658,5kXmiepRVuKhhz0SxyCVeL
+25,annies song,john denver,1974,42,142,False,0.288,0.044,0.9903,0.704,5qxFudz7A6PGptviHsz4Yd
+21,billy dont be a hero,bo donaldson and the heywoods,1974,,,,,,,,4f4RRYN3R7glPElFjeoUnC
+7,tsop the sound of philadelphia,mfsb,1974,13,40,False,0.239,0,0.8402,0.675,6B9tR2OEurD4FsZM5btj3X
+24,time in a bottle,jim croce,1974,74,126,True,0.226,0.013,0.9753,0.413,1pmYAWY7Kwaj84U3xZxLML
+27,sundown,gordon lightfoot,1974,82,229,True,0.189,0.139,0.9169,0.642,0ipgd8PPFza3NNmN3Rn2uF
+29,rock me gently,andy kim,1974,84,262,True,0.24,0.133,0.9901,0.679,2qh2VGAOYFXLsMbdATRf6w
+28,youre having my baby,paul anka,1974,64,226,True,0.305,0,0.9979,0.717,5PuAFxKmqG72uKyoo11zpQ
+26,let me be there,olivia newtonjohn,1974,68,210,True,0.073,0.055,0.4215,0.676,2SS6MAZIFjrn1XNkjgJuV4
+30,boogie down,eddie kendricks,1974,77,220,True,0.268,0.045,0.9949,0.65,5lsV4GoS0WSC8UP2ycQyXR
+31,youre sixteen,ringo starr,1974,59,168,True,0.314,0,0.9964,0.649,5NOITvzXKvrqsRqJz5FgIJ
+34,best thing that ever happened to me,gladys knight  the pips,1974,74,179,True,0.249,0.062,0.9937,0.587,2wWDekufLETj4uktTJbtKc
+33,dark lady,cher,1974,145,337,True,0.118,0.068,0.9734,0.57,4ye3W4xNyQkIItKp01QbLM
+32,if you love me let me know,olivia newtonjohn,1974,95,211,True,0.242,0,0.9956,0.55,7IJm8SnejG2cFlKqh8lqpv
+36,just dont want to be lonely,the main ingredient,1974,52,108,True,0.216,0.034,0.9633,0.519,2sFPuANmnZ9jIjmpqJntRO
+35,feel like makin love,roberta flack,1974,55,164,True,0.34,0.01,0.9962,0.665,3KPwt1LBpt1jVSHz8GXERo
+37,nothing from nothing,billy preston,1974,57,124,False,0.081,0.069,0.1531,0.54,10VBBaul4zVD0reteuIHM2
+38,rock your baby,george mccrae,1974,41,127,True,0.103,0,0.9349,0.677,0SvxTjFJjTS4i7CecvjRrY
+40,the joker,steve miller band,1974,83,224,False,0.29,0.087,0.993,0.629,1bp2IO61zbQrbWNmKKxg3f
+41,ive got to use my imagination,gladys knight  the pips,1974,,,,,,,,5VvobV1R6mPta5t3J0pewu
+44,smokin in the boys room,brownsville station,1974,125,292,True,0.064,0.043,0.5187,0.572,0TiRPD1YD6Ox3bUujwXCQa
+45,living for the city,stevie wonder,1974,159,269,False,0.104,0.099,-0.1934,0.409,583YTL8Fl6pCWtZAi2GvVZ
+39,top of the world,the carpenters,1974,103,258,True,0.212,0.006,0.9947,0.601,6KuHjfXHkfnIjdmcIvt9r0
+42,the show must go on,three dog night,1974,83,199,False,0.078,0.314,-0.9966,0.583,3hU637WcAGM5ubSqeaTme5
+47,then came you,dionne warwick  the spinners,1974,,,,,,,,4IrSsxKVRUa8khIqbtDge0
+52,mockingbird,carly simon  james taylor,1974,74,256,True,0.188,0.127,0.953,0.711,561jH07mF1jHuk7KlaeF0s
+46,the night chicago died,paper lace,1974,115,313,True,0.079,0.185,-0.9867,0.633,4f4RRYN3R7glPElFjeoUnC
+49,waterloo,abba,1974,72,204,True,0.2,0.146,0.9356,0.647,0KGOBUQSvFzufIGbQabIxr
+48,the entertainer,marvin hamlisch,1974,1,1,False,0,0,0,0,60m29Z8TtocKOqDlQEbwUS
+51,rikki dont lose that number,steely dan,1974,84,217,True,0.175,0.059,0.9881,0.613,18a9EGG4xhRELv7bgAw5hb
+53,help me,joni mitchell,1974,90,172,True,0.297,0.165,0.9918,0.477,0KEneUU4ptOH6EBjbFdrQU
+55,never never gonna give you up,barry white,1974,114,430,True,0.121,0.038,0.9811,0.735,7GhIk7Il098yCjg4BQjzvb
+54,you wont see me,anne murray,1974,81,200,True,0.087,0.109,-0.347,0.595,4LLBKnNCrSRrSjSTuiwjE9
+64,radar love,golden earring,1974,122,250,True,0.206,0.044,0.9928,0.512,4Zau4QvgyxWiWQ5KQrwL43
+62,eres tu,mocedades,1974,72,334,False,0.225,0.045,0.9955,0.784,0h7bxysvuj8wjRVqeFNLAn
+56,tell me something good,rufus  chaka khan,1974,60,256,True,0.359,0.053,0.998,0.766,0AECVMjxepWdsjDb49JFRd
+60,be thankful for what you got,william devaughn,1974,51,278,False,0.208,0.036,0.9933,0.817,0Mm52YAVJcZSnpsN1YJwqu
+59,hollywood swinging,kool  the gang,1974,52,120,True,0.058,0.032,0.2263,0.567,6igsoAR6Co9u7Rq3U7mlOD
+57,you and me against the world,helen reddy,1974,73,139,True,0.069,0.073,0.0946,0.475,26WupilYCvGn1OEX2CqKjN
+65,please come to boston,dave loggins,1974,134,323,True,0.11,0.096,0.4263,0.585,1pfSKTDigM2xnWG2Y0AquA
+66,keep on smilin,wet willie,1974,96,237,True,0.077,0.104,-0.875,0.595,6sHrxsewgTMPs2Di4x636C
+67,lookin for a love,bobby womack,1974,56,164,True,0.274,0,0.9942,0.659,2zZuxnCPpUCfJ5STnZC19l
+61,hang on in there baby,johnny bristol,1974,,,,,,,,15q1ikYmVRhDT5o6pailtt
+58,rock and roll heaven,the righteous brothers,1974,96,234,False,0.101,0.133,-0.9157,0.59,160WtfT9YFSzZVNQKwrvte
+63,takin care of business,bachmanturner overdrive,1974,,,,,,,,5Lk0ZGm0xF3EvOg9xXiXcR
+68,put your hands together,the ojays,1974,86,338,True,0.25,0,0.9983,0.746,6LhXQZ3tyooLASS2yJa5oe
+70,oh very young,cat stevens,1974,77,183,True,0.129,0.057,0.9549,0.579,64ZT2WPsLdvB49GAEAG1C7
+72,goodbye yellow brick road,elton john,1974,103,207,True,0.039,0.038,0.0258,0.502,0dBatXn1vVUl0jLgXRClwD
+82,one of a kind love affair,the spinners,1973,129,344,True,0.385,0.1,0.9993,0.625,3LV2CK8sJiYjg1bV1aHQop
+79,tubular bells,mike oldfield,1974,22,26,True,0.102,0.082,0.1513,0.154,7ERSQrRptZVM7q3VOdM7OL
+74,oh my my,ringo starr,1974,87,265,True,0.029,0.049,-0.7506,0.672,5Hroj5K7vLpIG4FNCRIjbP
+43,rock the boat,the hues corporation,1974,83,261,True,0.231,0,0.9967,0.682,7fu3Tv5rcoGD1PZV7s57WW
+77,jet,paul mccartney and wings,1974,73,171,True,0.177,0.014,0.9782,0.573,2OsDoAzo5SGq10qwmKSQBv
+50,the air that i breathe,the hollies,1974,58,193,True,0.215,0.092,0.9843,0.699,6yLIqXX9edg1x0HZS7cZEv
+73,ive been searchin so long,chicago,1974,77,124,True,0.103,0.03,0.8399,0.379,3z9pBucv2HHp1gYaTcQwiI
+75,for the love of money,the ojays,1974,111,309,True,0.148,0.067,0.984,0.641,3p1JoOEhVkEnTaa4JzTMSk
+71,leave me alone ruby red dress,helen reddy,1974,97,293,False,0.232,0.235,-0.9727,0.669,2Uak7fGdGpwsgbIQWA8iCQ
+80,a love song,anne murray,1974,68,207,True,0.201,0.011,0.9918,0.671,09iyGiljLWRYXdRazFkdtJ
+76,i shot the sheriff,eric clapton,1974,84,252,True,0.108,0.16,-0.9591,0.667,4MGa3uO14yw16f8IPKnLZ6
+78,dont let the sun go down on me,elton john,1974,120,180,True,0.193,0.091,0.9576,0.333,11FcfHd3SOmmrWJPGe7Y30
+69,on and on,gladys knight  the pips,1974,120,492,True,0.148,0.02,0.9969,0.756,5274I4mUMnYczyeXkGDWZN
+77,im sorry,john denver,1975,77,139,True,0.056,0.133,-0.7506,0.446,3dqxngWDgh4tb0VSb83nvc
+67,feel like makin love,bad company,1975,50,237,True,0.594,0,0.9997,0.789,3KPwt1LBpt1jVSHz8GXERo
+53,the way we weretry to remember,gladys knight  the pips,1975,111,244,False,0.184,0.03,0.9918,0.545,0YJyGgl3Gt2aFALzsJgZdC
+81,cant get it out of my head,electric light orchestra,1975,74,217,True,0.019,0.177,-0.9868,0.659,1f94GhohgeVq9SNwyFI691
+54,midnight blue,melissa manchester,1975,67,185,True,0.109,0,0.9623,0.638,0GHlFvtU5ALfhCSNEtTE0T
+80,do it til youre satisfied,bt express,1975,56,229,True,0.284,0,0.9971,0.755,4lnQfs7AmQm6dqCaNMDJLr
+75,when will i see you again,the three degrees,1975,39,168,True,0.161,0.038,0.9694,0.768,3q0QmvdwHBETS89ZvelClL
+86,it only takes a minute,tavares,1975,114,378,True,0.345,0.039,0.9994,0.698,5DEy8wVNCdJdAGNsOWxmVQ
+48,youre the first the last my everything,barry white,1975,75,126,True,0.177,0.077,0.9383,0.405,3rqXP37YkEnizabzjM7uIu
+43,i can help,billy swan,1975,80,227,True,0.319,0.038,0.9971,0.648,4oW1lGOw5Q5OLvoJv92qoE
+3,disco lady,johnnie taylor,1976,86,340,True,0.07,0.155,-0.9578,0.747,1TIiWomS4i0Ikaf9EKdcLn
+13,i write the songs,barry manilow,1976,85,261,True,0.141,0.057,0.9666,0.674,5VU6nvX3BqkqBmOJ2d9vhW
+24,get up and boogie,silver convention,1976,6,112,True,0,0,0,0.946,72RKdk3FL1yHwvvEM2PhOZ
+28,right back where we started from,maxine nightingale,1976,68,157,False,0.303,0.045,0.9944,0.567,0Ar1ynkK5zEqFsw2vgez4w
+22,you sexy thing,hot chocolate,1976,71,317,True,0.389,0.044,0.9993,0.776,714hERk9U1W8FMYkoC83CO
+37,dream weaver,gary wright,1976,69,136,True,0.129,0.042,0.7964,0.493,74DrA5fFoGSy4xgkZarZtP
+36,let your love flow,the bellamy brothers,1976,93,243,True,0.333,0.012,0.9984,0.617,064SVQsmWl5EF0zahmzkQk
+42,deep purple,donny  marie osmond,1976,57,183,True,0.238,0,0.9926,0.689,5SAUIWdZ04OxYfJFDchC7S
+40,all by myself,eric carmen,1976,54,164,True,0.141,0.086,0.952,0.671,20EpQjfV7B4ZQJkIdHO1Tw
+41,love to love you baby,donna summer,1976,43,240,True,0.579,0.026,0.9997,0.821,70NxaxjB8IjX4YxXbT90iX
+45,thats the way i like it,kc and the sunshine band,1976,,,,,,,,1qiQduM84A0VeH8Y2uAbqi
+58,welcome back,john sebastian,1976,49,200,True,0.414,0.039,0.9988,0.755,2XQY54Im8VrO4sd2tAmiv4
+48,if you leave me now,chicago,1976,58,87,True,0.067,0.209,-0.8846,0.333,0KMGxYKeUzK9wc5DZCt3HT
+57,convoy,c w mccall,1976,263,653,True,0.158,0.037,0.997,0.597,6dGWq08LXuIw6T2oUeHECh
+56,fooled around and fell in love,elvin bishop,1976,88,228,True,0.232,0.23,0.9274,0.614,2hE5Lm5XOHR4t3xlhIFauP
+69,this masquerade,george benson,1976,67,153,True,0.037,0.244,-0.9871,0.562,7GkaclZPWxJujsylkMetsW
+81,shes gone,hall  oates,1976,102,289,True,0.124,0.195,-0.9781,0.647,5dFoWIiJ2814hRwMYDcFiU
+73,wake up everybody,harold melvin  the blue notes,1976,117,274,True,0.142,0.108,0.9434,0.573,763jJ8T1utfvNqz1WRDzx4
+86,whod she coo,ohio players,1976,20,187,True,0.013,0.014,-0.033,0.893,0XaKKWRNWX2TDQ8KgqvVfK
+1,tonights the night gonna be alright,rod stewart,1977,88,152,False,0.237,0.04,0.9843,0.421,10LRRKPmx8uHcSxLVWK0ct
+13,you make me feel like dancing,leo sayer,1977,97,333,True,0.225,0.029,0.9962,0.709,6gTrbqZnyljwXdYQTyBkSx
+74,summer,war,1976,96,215,True,0.165,0.01,0.9872,0.553,7p4vHnYXkxlzvfePJVpcTr
+12,dancing queen,abba,1977,84,165,True,0.068,0.032,0.7269,0.491,4NtUY5IGzHCaqfZemmAu56
+31,feels like the first time,foreigner,1977,80,215,True,0.224,0.028,0.9929,0.628,36xEjbl8DtevPJgw6i9IuY
+35,ive got love on my mind,natalie cole,1977,84,196,True,0.485,0.01,0.9993,0.571,7cmvEuNhRpJT7xVN79hvPL
+37,looks like we made it,barry manilow,1977,92,231,True,0.223,0.046,0.9942,0.602,3QqO9FxVrikwo7kS5ls3kQ
+72,because the night,patti smith group,1978,,,,,,,,5WCuoYligCr05q99p5D50S
+86,sweet talkin woman,electric light orchestra,1978,83,274,True,0.147,0.136,0.7674,0.697,0xAhbD6lCf5re1RXl5yiTm
+88,i love the nightlife,alicia bridges,1978,77,322,True,0.326,0.038,0.9984,0.761,6c0G8K6G2LlIfJTsRLJjfs
+87,lifes been good,joe walsh,1978,122,207,True,0.187,0.12,0.9685,0.411,2wvMC5EyaaYQwBfiwwY2xE
+91,native new yorker,odyssey,1978,119,316,True,0.164,0.037,0.9945,0.623,1jR4bgFyL3ut5ExAKDDNEZ
+90,its so easy,linda ronstadt,1978,46,166,True,0.469,0.013,0.9988,0.723,1pBvSBxDvp4NHdISc1GjHi
+89,you cant turn me off in the middle of turning me on,high inergy,1978,101,265,False,0.242,0.021,0.995,0.619,1DpOHHcm8SMFgyiUYE59FF
+94,turn to stone,electric light orchestra,1978,101,296,True,0.028,0.045,-0.4458,0.659,1Pd1h30mgU05QkWYhgFzwt
+92,flash light,parliament,1978,96,538,True,0.151,0.049,0.9962,0.822,6Ie9yuocD61v7hrh02moc6
+93,dont look back,boston,1978,103,269,True,0.089,0.04,0.9322,0.617,7CVYxHq1L0Z4G84jTDS6Jl
+96,ebony eyes,bob welch,1978,76,232,True,0.138,0.144,-0.1779,0.672,4OLRw2NSxCyNkfCs8Uwvwg
+95,i cant stand the rain,eruption,1978,67,216,True,0.105,0.035,0.9037,0.69,0CcL4kSHKIEwF3IW0BGgb6
+98,were all alone,rita coolidge,1978,79,172,True,0.126,0.135,0.2986,0.541,26ItBw3OZ9s9d51rNWCYhh
+97,the name of the game,abba,1978,107,425,True,0.138,0.037,0.9931,0.748,021oUsG0NYI7YuJK6c0ecG
+1,my sharona,the knack,1979,71,200,True,0.095,0.073,0.6921,0.645,1HOMkjp0nHMaTnfAkslCQj
+39,dust in the wind,kansas,1978,63,131,True,0.014,0.024,-0.0772,0.519,6zeE5tKyr8Nu882DQhhSQI
+2,bad girls,donna summer,1979,113,234,True,0.08,0.251,-0.9956,0.517,6nzXkCBOhb2mxctNihOqbb
+99,hollywood nights,bob seger  the silver bullet band,1978,127,293,True,0.076,0.033,0.9248,0.567,5VbePtZp1at8gH990zVyTI
+5,reunited,peaches  herb,1979,143,369,True,0.227,0.077,0.9966,0.612,2CxOJwC4jqWfPQdahEX9oH
+4,da ya think im sexy,rod stewart,1979,133,350,False,0.082,0.029,0.8846,0.62,4z7maGZkAonDlXlwo8q69f
+100,deacon blues,steely dan,1978,150,344,True,0.185,0.118,0.9669,0.564,7Hx2EA4wGaxtsiZCVVLV1i
+3,le freak,chic,1979,96,206,True,0.144,0.187,-0.8271,0.534,28NBmftocOzTPEb6OYA9fW
+8,ymca,village people,1979,113,351,True,0.194,0.023,0.9965,0.678,7Cp69rNBwU0gaFT8zxExlE
+6,i will survive,gloria gaynor,1979,140,553,True,0.152,0.135,0.9714,0.747,7cv28LXcjAC3GsXbUvXKbX
+7,hot stuff,donna summer,1979,81,316,True,0.25,0.006,0.9977,0.744,0I9KnKdIVz8envRSA6yGZL
+9,ring my bell,anita ward,1979,71,264,True,0.1,0.007,0.9783,0.731,7GK2KVYH8FrTC9zehmjVMd
+11,too much heaven,bee gees,1979,92,336,True,0.206,0.047,0.9966,0.726,0oaZmCfI71eezWKoTbPX2x
+10,sad eyes,robert john,1979,70,171,True,0.06,0.247,-0.9907,0.591,3w3rLh6wmne91BS2rwgcog
+12,macarthur park,donna summer,1979,80,195,False,0.077,0.073,0.2023,0.59,3yIF4ZfaHPnPxG8tDPoNls
+14,makin it,david naughton,1979,71,164,True,0.078,0.121,-0.8316,0.567,2khLTFePb4xHtaoHCJAzZb
+13,when youre in love with a beautiful woman,dr hook,1979,71,154,True,0.367,0.084,0.9967,0.539,1UiKUFbCfgbVjwY8W657Pv
+21,you dont bring me flowers,neil diamond  barbra streisand,1979,,,,,,,,1K1nzhbKCNmrNXi9B07mPF
+18,heart of glass,blondie,1979,82,221,True,0.369,0.138,0.9975,0.629,0P2fgmJp3a3PEu808hiQ1Y
+19,what a fool believes,the doobie brothers,1979,89,165,True,0.099,0.075,0.0511,0.461,2yBVeksU2EtrPJbTu4ZslK
+20,good times,chic,1979,107,366,True,0.315,0.05,0.9989,0.708,0QwZfbw26QeUoIy82Z2jYp
+23,stumblin in,suzi quatro  chris norman,1979,79,200,True,0.145,0.089,0.9383,0.605,0EA8k9iH93YEJFaBuRt7Tc
+17,a little more love,olivia newtonjohn,1979,62,270,True,0.274,0.068,0.9974,0.77,2akOT20GHnC1qoYkRLvYhr
+22,knock on wood,amii stewart,1979,75,228,True,0.364,0.019,0.9985,0.671,3YJx77Xx8JSwEoxqrkQO5c
+25,shake your body down to the ground,the jacksons,1979,,,,,,,,6lSVidZXCnOnYAWcgIqVDF
+24,lead me on,maxine nightingale,1979,93,286,True,0.144,0.21,-0.9745,0.675,0ME4uQYTQmovH1v9PbWqW2
+27,the logical song,supertramp,1979,110,197,False,0.17,0.058,0.9685,0.442,6mHOcVtsHLMuesJkswc0GZ
+26,dont cry out loud,melissa manchester,1979,105,223,True,0.107,0.107,0.2786,0.529,0m6bu7QJn8HJJUEfqYY5nI
+15,fire,the pointer sisters,1979,92,176,True,0.135,0.293,-0.986,0.477,1nX9KhK3Fff27SnrIor2Yb
+29,just when i needed you most,randy vanwarmer,1979,67,212,True,0.124,0.079,0.8714,0.684,55wl56WlKI85UBNZoFxe9P
+16,tragedy,bee gees,1979,75,383,True,0.084,0.304,-0.9983,0.804,7clyJIrLkEbXUDwj1tC9zz
+30,you cant change that,raydio,1979,81,431,True,0.284,0.008,0.9993,0.812,5vIvHVCP0n6EXTMH0fOpAp
+28,my life,billy joel,1979,107,260,True,0.097,0.085,0.4614,0.588,5tAa8Uaqr4VvA3693mbIhU
+31,shake your groove thing,peaches  herb,1979,101,431,True,0.096,0.203,-0.9775,0.766,7hzY0LHz8KdEr1PowHhbdu
+32,ill never love this way again,dionne warwick,1979,72,204,True,0.075,0.297,-0.995,0.647,25kYvXbKVoh3oQD3OwozhK
+37,i was made for dancin,leif garrett,1979,72,217,True,0.109,0.055,0.8724,0.668,3kovBaZ1LGLH1PL31qG7cL
+36,mama cant buy you love,elton john,1979,76,184,True,0.244,0.072,0.9935,0.587,5l3P3uJhABT0p3FUIQPgt1
+38,after the love has gone,earth wind  fire,1979,85,354,True,0.238,0.117,0.9968,0.76,3cfnGXJ9bmiWvFqEO6ff8B
+39,heaven knows,donna summer and brooklyn dreams,1979,71,215,True,0.161,0.086,0.9365,0.67,04w73SmPfQkkmEpKbcrHOL
+34,i want you to want me,cheap trick,1979,50,260,True,0.251,0.07,0.9917,0.808,3imITUqEhkebNbOoS1yrWm
+40,the gambler,kenny rogers,1979,160,407,True,0.029,0.046,-0.5859,0.607,5KqldkCunQ2rWxruMEtGh0
+44,hold the line,toto,1979,44,275,True,0.239,0,0.9979,0.84,4aVuWgvD0X63hcOCnZtNFA
+41,lotta love,nicolette larson,1979,,,,,,,,0hCB0YR03f6AmQaHbwWDe8
+43,heaven must have sent you,bonnie pointer,1979,95,202,True,0.259,0.024,0.9946,0.53,7jZOejyJGbQAw5d2jE5mVu
+85,get off,foxy,1978,84,460,True,0.121,0.053,0.9891,0.817,46eu3SBuFCXWsPT39Yg3tJ
+47,she believes in me,kenny rogers,1979,120,272,True,0.143,0.077,0.9695,0.559,5ggOAMsJCAYDHnyoqJ0xAD
+48,in the navy,village people,1979,132,447,True,0.193,0.003,0.9969,0.705,2LanD0VjejboQUDjuSHTEf
+42,lady,little river band,1979,93,254,True,0.218,0.03,0.9949,0.634,6QfS2wq5sSC1xAJCQsTSlj
+46,sharing the night together,dr hook  the medicine show,1979,,,,,,,,4M0m4FUdc4wD2guhUHogLF
+45,hes the greatest dancer,sister sledge,1979,112,292,True,0.436,0.031,0.9996,0.616,5MuNxNox3zTanAFIO5KcTl
+50,the devil went down to georgia,the charlie daniels band,1979,174,393,True,0.117,0.235,-0.9963,0.557,6gRACp2CvsIhc7hyw8CecQ
+54,rock n roll fantasy,bad company,1979,72,133,True,0.101,0,0.9118,0.459,71GMl3Q7U4JnrTqI9kfcoN
+57,boogie wonderland,earth wind  fire  the emotions,1979,77,256,True,0.184,0.039,0.9913,0.699,6ztstiyZL6FXzh4aG46ZPD
+49,music box dancer,frank mills,1979,1,1,False,0,0,0,0,3vfi5pADppMYJiRXMB9uyQ
+53,we are family,sister sledge,1979,86,183,True,0.176,0,0.9845,0.53,5IKLwqBQG6KU6MP2zP80Nu
+51,gold,john stewart,1979,82,303,True,0.028,0,0.8176,0.729,1PS1QMdUqOal0ai3Gt7sDQ
+55,every 1s a winner,hot chocolate,1979,,,,,,,,5kczO6LA5FGU3iEAxrAhN5
+56,take me home,cher,1979,74,272,True,0.249,0,0.9974,0.728,3dCZm5HrG0jIXAHfNkg2H0
+33,love you inside out,bee gees,1979,139,371,False,0.286,0.124,0.9979,0.625,1S9VJIS4unNB2D6SEf4BbD
+58,our love dont throw it all away,andy gibb,1979,112,370,True,0.047,0.366,-0.9996,0.697,1RsxUuB1Q5OdseLpHMBkEN
+59,what you wont do for love,bobby caldwell,1979,72,224,False,0.231,0.057,0.9941,0.679,7dL8FCLzEaWC2A3qWQuz1q
+60,new york groove,ace frehley,1979,75,245,True,0.065,0.038,0.787,0.694,1BvpeiApX8qhof8Pmi3YlH
+61,sultans of swing,dire straits,1979,158,259,True,0.111,0.052,0.9498,0.39,6cr6UDpkjEaMQ80OjWqEBQ
+63,chuck es in love,rickie lee jones,1979,130,268,True,0.2,0.047,0.9937,0.515,3F1MiFu5a1Y3Z9dQZhLTAo
+62,i want your love,chic,1979,81,138,True,0.337,0.044,0.9911,0.413,6HZKlK1mDDBsILMoNNncxL
+67,renegade,styx,1979,101,273,True,0.024,0.21,-0.9944,0.63,1CQqupcyMg7176PPmIVmSj
+64,i love the nightlife,alicia bridges,1979,77,322,True,0.326,0.038,0.9984,0.761,6c0G8K6G2LlIfJTsRLJjfs
+66,lonesome loser,little river band,1979,90,274,True,0.033,0.358,-0.999,0.672,3OZ40egQbNWeTe0BnR2QKa
+65,aint no stoppin us now,mcfadden  whitehead,1979,95,299,True,0.12,0.034,0.9564,0.682,6EOdY7I7Xm1vPP1cyaGbWZ
+69,got to be real,cheryl lynn,1979,28,147,False,0.341,0,0.9966,0.81,58r4JuwHhXLAkttkaUZfLw
+68,love is the answer,england dan  john ford coley,1979,109,274,True,0.357,0.066,0.9992,0.602,6tfr6QF7ALjl7wRNCzNvJr
+70,born to be alive,patrick hernandez,1979,57,273,True,0.259,0.005,0.9976,0.791,3XIEWK1V9n25PS9Vb6axj5
+52,goodnight tonight,wings,1979,26,123,True,0.169,0,0.9731,0.789,5AD7iwvIzbiABVsMndAmez
+73,shake it,ian matthews,1979,87,164,True,0.108,0.063,0.8449,0.47,6yz0Jndhv0QjKdpcEMbOjz
+75,i just wanna stop,gino vannelli,1979,66,190,True,0.053,0.188,-0.9752,0.653,5ljGmNLjvQZm2hw8cDJXNJ
+74,i was made for lovin you,kiss,1979,56,331,True,0.031,0.012,0.4588,0.831,07q0QVgO56EorrSGHC48y3
+72,i just fall in love again,anne murray,1979,67,145,True,0.211,0.052,0.9802,0.538,4KHRYJKDSpQgmUUATnLURO
+77,ooo baby baby,linda ronstadt,1979,62,119,True,0.075,0.16,-0.8433,0.479,5RoOpSqvVg2jPdSfwm22wh
+79,time passages,al stewart,1979,115,210,True,0.034,0.034,-0.0245,0.452,5zVKisBri6JH1fooBhUaVq
+78,september,earth wind  fire,1979,78,298,True,0.145,0,0.9927,0.738,5nNmj1cLH3r4aA4XDJ2bgY
+81,dont bring me down,electric light orchestra,1979,80,296,True,0.025,0.272,-0.9967,0.73,72ahyckBJfTigJCFCviVN7
+80,rise,herb alpert,1979,,,,,,,,3u1S1OmAUhx5DRlLrXqyp3
+82,promises,eric clapton,1979,92,252,True,0.094,0.243,-0.9941,0.635,5N5k9nd479b1xpDZ4usjrg
+85,suspicions,eddie rabbitt,1979,90,202,True,0.192,0.17,0.8864,0.554,19oPsdlHwigJm2Ewk1ypRb
+83,get used to it,roger voudouris,1979,85,209,True,0.356,0.084,0.998,0.593,4AMnUGvZUVJgDuY7rOPzUZ
+84,how much i feel,ambrosia,1979,122,293,True,0.169,0.082,0.9877,0.584,3GVhCuS4BRxCTvVj4Cmc8w
+29,guilty,barbra streisand  barry gibb,1981,91,355,True,0.167,0.095,0.981,0.744,6da04YB906XonC6IQNC44u
+69,master blaster jammin,stevie wonder,1981,148,446,True,0.101,0.027,0.9862,0.668,6NjYhDWaI8jKgcSU0ZsJuz
+58,this little girl,gary us bonds,1981,110,317,True,0.148,0.047,0.9885,0.653,245q31NvaFNkMw8QRVy23b
+31,elvira,the oak ridge boys,1981,73,205,True,0.102,0.12,0.4588,0.644,0mG66FLhO0iZ6XCAGdjpax
+46,hit me with your best shot,pat benatar,1981,70,190,True,0.294,0.072,0.9956,0.632,0vOkmmJEtjuFZDzrQSFzEE
+68,while you see a chance,steve winwood,1981,76,167,True,0.234,0.078,0.9805,0.545,3O454S9h7LuY4x6cBpnVDv
+66,games people play,the alan parsons project,1981,80,248,True,0.131,0.035,0.9766,0.677,2gQsUHVFY4tpXc3AFU2mcS
+76,the stroke,billy squier,1981,119,279,True,0.116,0.024,0.969,0.573,52KvuGmgcgRdrLMXOtda0E
+71,dont stand so close to me,the police,1981,92,243,True,0.04,0.133,-0.9739,0.621,4DIRsQfLk2mfcrIOQNgAlm
+81,hold on tight,electric light orchestra,1981,78,222,True,0.142,0.091,0.7109,0.649,1AhgsRpPaoqejpJi97I7f1
+85,what kind of fool,barbra streisand  barry gibb,1981,,,,,,,,2PU9BQnRNnarDJVaRF8Hg1
+88,smoky mountain rain,ronnie milsap,1981,107,243,True,0.041,0.096,-0.9464,0.56,0Jtp6dLT78aWIdnoteCSxv
+93,the beach boys medley,the beach boys,1981,205,565,True,0.284,0.002,0.9995,0.637,0Gf7KHyE7Okqe1huhCQ0oB
+4,ebony and ivory,paul mccartney and stevie wonder,1982,47,120,True,0.192,0.049,0.9618,0.608,1K6k5LE6oEo0XBYHdXoPGP
+100,time is time,andy gibb,1981,95,312,True,0.264,0.099,0.998,0.696,4z2XPrpHz1raJibarWFY7Z
+8,hurts so good,john cougar,1982,99,193,True,0.218,0.071,0.9858,0.487,67eX1ovaHyVPUinMHeUtIM
+6,dont you want me,the human league,1982,113,359,True,0.085,0.101,0.9595,0.685,3L7RtEcu1Hw3OXrpnthngx
+15,i cant go for that no can do,daryl hall  john oates,1982,51,338,True,0.107,0.332,-0.9983,0.849,41dDygR3r7e926oGUXfrLt
+25,we got the beat,the gogos,1982,73,230,True,0.063,0,0.9186,0.683,5kz9GDBTX846OXwqWoyKzF
+29,only the lonely,the motels,1982,66,128,True,0.174,0.211,-0.7216,0.484,7795WJLVKJoAyVoOtCWqXN
+34,open arms,journey,1982,75,108,True,0.161,0.069,0.8766,0.306,2jHDXNIbElEsxxPQ0EVspA
+31,hold me,fleetwood mac,1982,66,178,True,0.024,0.105,-0.8823,0.629,1Mza2sr6tPhy6jjI3HB9fW
+32,eye in the sky,the alan parsons project,1982,101,303,True,0.04,0.142,-0.9879,0.667,39qYD4J4BKvZMQgxfXl5bv
+38,ive never been to me,charlene,1982,165,364,True,0.241,0.06,0.9981,0.547,1iI3AdoaionwreBhAZQr4m
+39,65 love affair,paul davis,1982,99,308,True,0.212,0.086,0.9931,0.679,5nBp8F6tekSrnFg8G2Pvug
+48,young turks,rod stewart,1982,165,352,False,0.157,0.022,0.9942,0.531,5n1amEDwVKucAGMqePk9yN
+49,freezeframe,the j geils band,1982,,,,,,,,04cwY4RwINZj8Xlx60Ddvu
+52,cool night,paul davis,1982,76,252,True,0.174,0.014,0.9898,0.698,3fvMBLPWXD1snyrzGB2NoC
+3,i love rock n roll,joan jett and the blackhearts,1982,85,333,True,0.229,0.014,0.9978,0.745,2Cdvbe2G4hZsnhNMKyGrie
+53,caught up in you,38 special,1982,121,359,True,0.204,0.053,0.9968,0.663,3jYRpwbctfqB77uU7T7K3U
+50,keep the fire burnin,reo speedwagon,1982,89,276,True,0.162,0.098,0.9578,0.678,3WimzuWXQt4bnd4jcv0Gov
+51,do you believe in love,huey lewis and the news,1982,91,234,True,0.31,0.007,0.9978,0.611,43LjRHyyetSWnPpW7CWThG
+55,love in the first degree,alabama,1982,93,250,True,0.304,0.103,0.9978,0.628,1TFS02PcnGgERMwb0uXdIS
+57,wasted on the way,crosby stills  nash,1982,75,189,True,0.096,0.074,0.7639,0.603,42TFhl9RznJZi5Xcd2PZDb
+54,why do fools fall in love,diana ross,1982,54,159,True,0.184,0.15,0.8284,0.66,2xKfXRhw5xaUXfevJJspZf
+60,personally,karla bonoff,1982,63,212,True,0.067,0.011,0.8651,0.703,3EeMomQvxAQao6ZvQKdrg0
+58,think im in love,eddie money,1982,67,136,True,0.268,0.034,0.9885,0.507,3U1TuSqHIubBA10cVP7Sk6
+61,one hundred ways,quincy jones featuring james ingram,1982,107,208,True,0.238,0.038,0.9948,0.486,5SltMm0H5x0zoN7XFGYneH
+63,our lips are sealed,the gogos,1982,66,176,True,0.092,0.221,-0.9525,0.625,1GVnAD8Iz45rux6EC657Yv
+59,love is in control finger on the trigger,donna summer,1982,125,345,False,0.1,0.11,-0.7933,0.638,0DzA1nSAWUZqgEI8sMgTPE
+64,you could have been with me,sheena easton,1982,,,,,,,,4jRJWlkCn3pAwezfqFODU3
+62,blue eyes,elton john,1982,51,121,True,0.184,0.075,0.9393,0.579,2PuUFT13yCzUOZun94WOXv
+56,hooked on classics,royal philharmonic orchestra,1982,1,1,False,0,0,0,0,1J5ed0Pb8eaCDxKm0v7WR2
+68,somebodys baby,jackson browne,1982,103,266,True,0.066,0.017,0.8481,0.613,4SlCb8n5Jw52astU7GWPyV
+71,its gonna take a miracle,deniece williams,1982,74,216,True,0.397,0.091,0.9988,0.657,6AeOM7N0rK3tYOINY2k5qy
+67,i ran so far away,a flock of seagulls,1982,77,178,True,0.072,0,0.886,0.567,4OdhffpvG3HxDJMxYOKh97
+69,oh no,commodores,1982,64,123,True,0.128,0.233,-0.8535,0.48,1pHP4JeQV9wDx87D6qH9hD
+47,loves been a little bit hard on me,juice newton,1982,64,245,True,0.256,0.104,0.9955,0.739,37zpChlZkoFuScXLoiu0WE
+72,love will turn you around,kenny rogers,1982,114,252,True,0.122,0.03,0.986,0.548,1M2a5TNHqmr2zXZZcB7xTe
+74,comin in and out of your life,barbra streisand,1982,102,268,True,0.061,0.107,-0.8973,0.619,7h8JzycDOWRSRfurjiCjGA
+70,take it away,paul mccartney,1982,73,239,True,0.15,0.042,0.9578,0.695,5ZahQIsfOhgRoLS2UpUN7J
+78,crimson and clover,joan jett  the blackhearts,1982,37,84,True,0.227,0,0.9688,0.56,1vXuYPpkLjn1v06E2EsWQY
+75,gloria,laura branigan,1982,97,261,True,0.048,0.009,0.8817,0.628,7cv28LXcjAC3GsXbUvXKbX
+77,yesterdays songs,neil diamond,1982,,,,,,,,3glEfPyWNkYFl3Y5tCLLBU
+66,did it in a minute,daryl hall  john oates,1982,103,398,True,0.104,0.029,0.9833,0.741,6hHf43J8jIXM0q9DOZCYmp
+76,empty garden hey hey johnny,elton john,1982,116,347,False,0.167,0.08,0.9897,0.666,01PjrDX13iIjeHc5iJZmb3
+73,dont stop believin,journey,1982,94,183,True,0.087,0.046,0.7823,0.486,4bHsxqR3GMrXTxEPLuK5ue
+79,every little thing she does is magic,the police,1982,104,326,True,0.091,0.064,0.9091,0.681,5pDmunv6G71w7NSjOPXbYw
+80,here i am,air supply,1982,83,178,True,0.09,0.062,0.4617,0.534,5LqsH9S2zTsamP8qzoKgqu
+82,get down on it,kool  the gang,1982,58,802,True,0.018,0.009,0.5658,0.928,4yKZACkuudvfd600H2dQie
+81,i keep forgettin every time youre near,michael mcdonald,1982,,,,,,,,5GvWrvLIqoHroq7YvO260M
+84,make a move on me,olivia newtonjohn,1982,73,253,True,0.171,0,0.9917,0.711,1HKzbaJa69dMplZfb49TN1
+83,any day now,ronnie milsap,1982,78,173,True,0.208,0.084,0.9796,0.549,35ffrwjDSwCLzRiQrtO1DB
+85,take my heart you can have it if you want it,kool  the gang,1982,127,378,False,0.294,0.04,0.9988,0.664,7jHOi7ls5RjJaOtmMSxY8w
+86,mirror mirror,diana ross,1982,98,283,True,0.055,0.05,0.0969,0.654,05pdoheuKPSotkjMgIVX6I
+87,vacation,the gogos,1982,74,182,True,0.034,0.087,-0.8641,0.593,7yF0ULfXKAxBL04iMSHUxs
+88,oh pretty woman,van halen,1982,81,149,True,0.365,0.071,0.9957,0.456,48i055G1OT5KxGGftwFxWy
+90,hot in the city,billy idol,1982,100,211,True,0.067,0.048,0.4501,0.526,69eihm0ByPDKtOnZ2B9mA7
+93,whats forever for,michael murphey,1982,,,,,,,,5j2yIrnbgDW51GM95ZjqDj
+91,kids in america,kim wilde,1982,131,299,True,0.05,0.07,-0.6487,0.562,02SQcBSULnUUm3QHxbF8H9
+89,should i do it,the pointer sisters,1982,76,346,True,0.2,0.046,0.995,0.78,4aloxog6eatkPa34BFmj8G
+92,man on your mind,little river band,1982,130,301,True,0.032,0.092,-0.9591,0.568,5SgMhs9A3PSkJd0ruJwUsI
+94,waiting on a friend,the rolling stones,1982,64,176,True,0.299,0.032,0.9938,0.636,4Wd9pEtEnZNDjgiswGOpJb
+96,working for the weekend,loverboy,1982,67,185,True,0.156,0,0.9756,0.638,35k31HZI4z9PbBOioaI4dZ
+97,goin down,greg guidry,1982,77,127,True,0.11,0.153,-0.8153,0.394,2TfSHkHiFO4gRztVIkggkE
+99,through the years,kenny rogers,1982,110,259,True,0.196,0.091,0.9902,0.575,5eYwDBLucWfWI5KsV7oYX2
+1,every breath you take,the police,1983,72,333,True,0.072,0.189,-0.9928,0.784,2sXp9Qmvc7mRaDBjBgcGGi
+2,billie jean,michael jackson,1983,137,454,True,0.062,0.1,-0.9707,0.698,5ChkMS8OtdzJeqyybCc9R5
+100,edge of seventeen just like the white winged dove,stevie nicks,1982,149,430,False,0.197,0.03,0.9974,0.653,6N9AHcXtr6x89alPgmemZD
+98,arthurs theme best that you can do,christopher cross,1982,86,268,False,0.244,0.033,0.9977,0.679,5fnOrhQ4KgT5irGCjIccGH
+3,flashdance what a feeling,irene cara,1983,79,226,False,0.189,0.062,0.9776,0.65,0FIQjzPGk8eJd1cDRHRFWb
+4,down under,men at work,1983,84,293,True,0.157,0.013,0.9915,0.713,2TfSHkHiFO4gRztVIkggkE
+95,do i do,stevie wonder,1982,185,789,True,0.257,0.017,0.9995,0.766,5de9Ho64dovuQI8Uhn5gPD
+6,total eclipse of the heart,bonnie tyler,1983,132,450,True,0.196,0.033,0.9981,0.707,5prTs2HAw2G4idHZyeFp8o
+9,maniac,michael sembello,1983,116,273,True,0.15,0.233,-0.9833,0.575,0QKfiqpEU4h9ycPSzIFwYe
+5,beat it,michael jackson,1983,89,389,True,0.162,0.217,-0.6886,0.771,1OOtq8tRnDM8kG2gqUPjAj
+7,maneater,daryl hall  john oates,1983,92,333,True,0.078,0,0.98,0.724,4aKIs5t9TqP59btlCGPrgw
+13,come on eileen,dexys midnight runners,1983,125,345,True,0.074,0.075,0.6692,0.638,0EMmVUYs9ZZRHtlADB88uz
+8,baby come to me,patti austin and james ingram,1983,107,222,True,0.129,0.027,0.9787,0.518,3ir8K4Cba553mOjsl8ZCJ0
+10,sweet dreams are made of this,eurythmics,1983,43,234,True,0.117,0.095,-0.34,0.816,1TfqLAPs4K3s2rJMoCokcS
+11,do you really want to hurt me,culture club,1983,98,241,True,0.178,0.216,-0.9702,0.593,1I6q6nwNjNgik1Qe8Oi0Y7
+14,shame on the moon,bob seger  the silver bullet band,1983,92,169,True,0.068,0.176,-0.9652,0.456,1Gxaks4MTbjMCAQ20rx4Iy
+15,she works hard for the money,donna summer,1983,93,344,True,0.185,0.128,0.9933,0.73,3FlOciKDqFlTMPeC7t92Qy
+17,hungry like the wolf,duran duran,1983,86,358,True,0.127,0.082,0.936,0.76,39lSeqnyjZJejRuaREfyLL
+16,never gonna let you go,sergio mendes,1983,118,368,True,0.069,0.076,0.1026,0.679,3IpEGmh0LciSAxRwIuAMrg
+12,you and i,eddie rabbitt and crystal gayle,1983,54,154,True,0.385,0,0.9968,0.649,7FYH5AW3bVfZHJIQpq3UOA
+19,twilight zone,golden earring,1983,131,471,True,0.068,0.055,0.5405,0.722,3ztKHejzVoxJRKSZHFFMdJ
+18,lets dance,david bowie,1983,86,243,True,0.09,0.102,0.2382,0.646,5AgTL2WmiCvoObA8fpncKs
+21,jeopardy,the greg kihn band,1983,73,115,True,0.14,0.114,0.6517,0.365,57RpLj5SoWQeweNskxXfOp
+20,i know theres something going on,frida,1983,73,207,True,0.115,0.025,0.9734,0.647,6CT0MVgHnoAUXrSrnlwfWx
+22,electric avenue,eddy grant,1983,83,314,True,0.112,0.063,0.8997,0.736,0VleLqqjspjgHQeyOCbg0m
+27,up where we belong,joe cocker and jennifer warnes,1983,78,212,True,0.149,0.095,0.9455,0.632,0Co8hKbjUy273NrGliGdWZ
+25,little red corvette,prince,1983,157,474,True,0.155,0.048,0.9964,0.669,6X4JeTWCuKEzKOEHXDtyBo
+26,back on the chain gang,the pretenders,1983,98,208,True,0.101,0.1,-0.4404,0.529,4cMHCRLPNoEbpnl2rz6GS9
+30,der kommissar,after the fire,1983,141,379,True,0.071,0.07,-0.3622,0.628,0ROtxObpdDA25o5DriPSOk
+32,sexual healing,marvin gaye,1983,136,346,True,0.242,0.021,0.9974,0.607,3VZmChrnVW8JK6ano4gSED
+33,keep feeling fascination,the human league,1983,78,189,True,0.441,0.008,0.9987,0.587,0ZfZaT7NByalxa6bct5G67
+34,time clock of the heart,culture club,1983,69,301,False,0.176,0.013,0.9959,0.771,1tlrAb0CNqn2e8EMb4MWLW
+38,separate ways worlds apart,journey,1983,90,223,False,0.289,0.122,0.9951,0.596,4ECNtOnqzxutZkXP4TE3n3
+37,you cant hurry love,phil collins,1983,103,325,True,0.357,0.07,0.9992,0.683,1OppEieGNdItZbE14gLBEv
+23,she blinded me with science,thomas dolby,1983,76,230,True,0.147,0.057,0.9746,0.67,0KYTCmoVNHt4vEH65QW6wx
+41,1999,prince,1983,193,519,True,0.235,0.111,0.9973,0.628,05mAIVLkIWc2d1UBYZBCp8
+42,stray cat strut,stray cats,1983,88,202,True,0.094,0.106,-0.3257,0.564,5yogRsv5ggT6iCnFgvdpho
+40,weve got tonight,kenny rogers and sheena easton,1983,93,183,True,0.08,0.104,-0.2023,0.492,5vXsj8L4DK1gGQ43BBG028
+24,africa,toto,1983,141,308,True,0.13,0.064,0.9776,0.542,2374M0fQpWi3dLnB54qaLX
+44,stand back,stevie nicks,1983,102,295,True,0.113,0.048,0.9651,0.654,2GN8cwTiUEUBxc03fsA0C0
+43,allentown,billy joel,1983,120,204,True,0.076,0.084,0.3428,0.412,59xhCcRskqyMtKzdvLZDfV
+28,mr roboto,styx,1983,134,331,True,0.122,0.06,0.9627,0.595,7C0rG4oWO7VeZcffyW1sK9
+46,always something there to remind me,naked eyes,1983,74,217,True,0.09,0.077,0.7807,0.659,0KlJjhnfwAnPacNd7EH45J
+35,the safety dance,men without hats,1983,93,356,False,0.222,0.094,0.9943,0.739,4t5lrf5rFX6JWAUPKCDlKk
+31,puttin on the ritz,taco,1983,118,333,True,0.085,0.011,0.9682,0.646,1taGkdO3DQsNRIQrarhVvc
+36,mickey,toni basil,1983,93,505,True,0.223,0.049,0.9987,0.816,3GxGAhRowXixzk521JQpZu
+45,tell her about it,billy joel,1983,158,389,True,0.132,0.072,0.988,0.594,6kCJMxv445L2okuTiou1fR
+50,too shy,kajagoogoo,1983,45,143,True,0.031,0.287,-0.9766,0.685,27eoCHVL1mohdzR7c61KQ1
+39,one on one,daryl hall  john oates,1983,96,294,True,0.15,0.08,0.7355,0.673,3C3cr2JQwXIhqAHqOardVO
+48,dirty laundry,don henley,1983,130,449,True,0.057,0.121,-0.9851,0.71,0qgZvYWLIqDn0tXimF8gPa
+47,truly,lionel richie,1983,64,131,True,0.345,0.062,0.9941,0.511,0LpiKjWMfZTkPPHonlM8nB
+29,you are,lionel richie,1983,84,338,True,0.19,0.058,0.9956,0.751,7BqBn9nzAq8spo5e7cZ0dJ
+52,rock the casbah,the clash,1983,137,316,True,0.032,0.144,-0.9877,0.566,56KqaFSGTb7ifpt16t5Y1N
+54,overkill,men at work,1983,69,163,True,0.057,0.106,-0.886,0.577,1Krtfh550kyhfWPcRp6SnD
+53,our house,madness,1983,124,314,True,0.087,0.039,0.9432,0.605,2hitsKa8SthKhRJBXUHbIv
+57,affair of the heart,rick springfield,1983,98,298,True,0.129,0.02,0.9873,0.671,6sQhzyoKVtjB1xohOJRt06
+55,is there something i should know,duran duran,1983,110,236,False,0.119,0.276,-0.9908,0.534,3X4T0KunohTtDaecqBZ8vC
+58,shes a beauty,the tubes,1983,79,263,True,0.293,0,0.9983,0.7,6lnP51cMlqpZ8bwmyVlgvG
+59,solitaire,laura branigan,1983,108,236,True,0.102,0.147,-0.9205,0.542,3DxZfFYJLwKDJtUwnLEhkL
+62,china girl,david bowie,1983,115,279,True,0.072,0.115,-0.942,0.588,1bki22ZoLCkqb0QIJ5PtJF
+61,how am i supposed to live without you,laura branigan,1983,107,302,True,0.044,0.018,0.8176,0.646,3RMeOetCdXttthQK0clPuz
+63,come dancing,the kinks,1983,148,318,True,0.069,0.053,0.1027,0.535,2KtNeULMaw8sFkr8w13WWB
+64,promises promises,naked eyes,1983,68,163,True,0.391,0.009,0.9965,0.583,5N5k9nd479b1xpDZ4usjrg
+66,making love out of nothing at all,air supply,1983,141,495,True,0.098,0.052,0.9812,0.715,01MXkFA8sL7at6txavDErt
+60,dont let it end,styx,1983,111,249,True,0.115,0.089,0.7411,0.554,2Cr2aD7NuH4auhbjJACOwA
+65,the other guy,little river band,1983,80,275,True,0.036,0.021,0.2883,0.709,173r99cYlRApif8GLPrLqt
+68,wanna be startin somethin,michael jackson,1983,145,707,True,0.283,0.119,0.9991,0.795,2kulOHR2XY6YDZCWXb38hn
+67,family man,daryl hall  john oates,1983,104,366,True,0.05,0.218,-0.9943,0.716,2pkIwVznqEUs8v8clH0yDf
+69,i wont hold you back,toto,1983,62,217,True,0.026,0.166,-0.9894,0.714,7D4EtbE7LfQiH8CWj7fQoz
+49,the girl is mine,michael jackson and paul mccartney,1983,128,308,True,0.151,0.071,0.9832,0.584,1diEQsD8PJC9hXB5Gpfgtn
+70,all right,christopher cross,1983,93,357,True,0.059,0.04,0.796,0.739,6n9yCXvLhnYMgJIiIcMu7D
+74,im still standing,elton john,1983,101,276,True,0.32,0.079,0.9967,0.634,1jDJFeK9x3OZboIAHsY9k2
+77,ill tumble 4 ya,culture club,1983,79,269,False,0.042,0.386,-0.999,0.706,2QaTacWkV0bC68QYNCI3k6
+76,its a mistake,men at work,1983,105,210,True,0.128,0.206,-0.9388,0.5,1ArdfXwdvwzapms9p1wxEb
+79,your love is driving me crazy,sammy hagar,1983,71,195,True,0.337,0.099,0.9969,0.636,3OghNV9ZOUbAj62CZptOEP
+71,straight from the heart,bryan adams,1983,79,225,True,0.147,0.104,0.8126,0.649,5eaK7PLGwyDXmHfTdWZZuE
+56,gloria,laura branigan,1983,97,261,True,0.048,0.009,0.8817,0.628,7cv28LXcjAC3GsXbUvXKbX
+82,steppin out,joe jackson,1983,85,180,True,0.103,0.099,0.2259,0.528,2KY0QUeRY3IPuJI1gyU9BJ
+78,all this love,debarge,1983,97,367,True,0.45,0.031,0.9998,0.736,10unIjOu5Jurco3SDbV4HZ
+81,faithfully,journey,1983,100,140,True,0.16,0.056,0.9557,0.286,57ebBLITHpRgRKGrlbxMZS
+75,hot girls in love,loverboy,1983,107,297,True,0.159,0.019,0.9927,0.64,1pB5Y2BPLez1J49KKKewUE
+72,heart to heart,kenny loggins,1983,114,337,True,0.139,0.02,0.9909,0.662,2Cu5ExXidcoE4vF5hIYict
+84,shes sexy  17,stray cats,1983,,,,,,,,5x5FUXjs53WbPuTwT6WD8d
+86,dead giveaway,shalamar,1983,153,351,True,0.122,0.215,-0.9949,0.564,3Dokp9HlJVXPlpgxBmHyWt
+73,my love,lionel richie,1983,81,185,True,0.324,0.013,0.9978,0.562,3kxfsdsCpFgN412fpnW85Y
+83,take me to heart,quarterflash,1983,80,222,True,0.136,0,0.968,0.64,7rdtBpPpe4knfd7aD98h9X
+80,heartbreaker,dionne warwick,1983,117,309,True,0.054,0.235,-0.997,0.621,2Ow4Pmi0VOOLvbmJ8V70qo
+85,try again,champaign,1983,93,269,True,0.163,0.049,0.9895,0.654,4KPLiaQ0mwlszdymzNslhb
+90,photograph,def leppard,1983,90,256,True,0.183,0.028,0.9873,0.648,1HNkqx9Ahdgi1Ixy2xkKkL
+89,human nature,michael jackson,1983,90,289,True,0.052,0.006,0.9081,0.689,35lAjvsvS9k9HHuP1fjDT8
+87,lawyers in love,jackson browne,1983,99,135,True,0.08,0.097,-0.1556,0.267,2CzYQ2ktwSMGnA5ypH2a8w
+88,what about me,moving pictures,1983,118,284,True,0.155,0.07,0.9698,0.585,3JX0dOCIAiaR8MP3ryXWuM
+93,far from over,frank stallone,1983,52,112,True,0.107,0,0.8898,0.536,7we4F7WaGl3wb5Kw96Oeic
+91,pass the dutchie,musical youth,1983,118,570,True,0.129,0.039,0.9955,0.793,4s4KlGfd3tBaSflx18R5jX
+92,TRUE,spandau ballet,1983,82,317,False,0.255,0.014,0.998,0.741,4h8VwCb1MTGoLKueQ1WgbD
+94,ive got a rock n roll heart,eric clapton,1983,89,247,True,0.083,0.075,0.4628,0.64,0pEu81PfEP0L9u4iTY5zvI
+95,it might be you,stephen bishop,1983,95,210,True,0.102,0.027,0.943,0.548,3TRexXc7XRFVZA1WZPkOGY
+97,you got lucky,tom petty and the heartbreakers,1983,52,112,True,0.367,0.042,0.9952,0.536,1iN5keQmzqiCN2AwuYDcZ8
+99,breaking us in two,joe jackson,1983,87,235,True,0.102,0.083,0.7779,0.63,36lvQP8MgB6ZDJ0zgQ64Cn
+98,dont cry,asia,1983,74,244,True,0.091,0.282,-0.9966,0.697,5BQrp63SHCVf4bzCzJePne
+1,when doves cry,prince,1984,117,349,True,0.116,0.239,-0.9927,0.665,51H2y6YrNNXcy3dfc3qSbA
+4,footloose,kenny loggins,1984,122,248,True,0.061,0.197,-0.9839,0.508,6W2VbtvMrDXm5vYeB7amkO
+100,fall in love with me,earth wind  fire,1983,100,286,True,0.219,0.009,0.9968,0.65,6YQjQdymVA9tvE0Ygnpsdd
+2,whats love got to do with it,tina turner,1984,96,293,False,0.268,0.039,0.9983,0.672,6FcQD1qOpqV8NdhY45sKyI
+7,hello,lionel richie,1984,84,160,True,0.145,0.02,0.9549,0.475,4sPmO7WMQUAf45kwMOtONw
+6,jump,van halen,1984,66,173,True,0.097,0.016,0.923,0.618,2OvV4NjEBRE9v8Oo7QeUCq
+5,against all odds take a look at me now,phil collins,1984,95,258,False,0.07,0.066,0.4939,0.632,63CHa6rmamv9OsehkRD8oz
+3,say say say,paul mccartney and michael jackson,1984,92,295,True,0.168,0.079,0.987,0.688,27a1mYSG5tYg7dmEjWBcmL
+9,ghostbusters,ray parker jr,1984,83,204,True,0.159,0.114,0.8012,0.593,300zfRaCgTmEm5Eqe3HqZZ
+10,karma chameleon,culture club,1984,77,320,True,0.268,0.026,0.9982,0.759,2wSAWEYUHkt92X4SBAPqZE
+8,owner of a lonely heart,yes,1984,105,314,True,0.125,0.25,-0.9866,0.666,0GTK6TesV108Jj5D3MHsYb
+11,missing you,john waite,1984,110,278,True,0.236,0.079,0.9862,0.604,7Iu1U5AFLygCvCHMiRz2dE
+13,lets hear it for the boy,deniece williams,1984,86,348,True,0.161,0.04,0.9948,0.753,5kaF88lat4fWUiDXP6G48M
+16,the reflex,duran duran,1984,111,336,True,0.15,0.048,0.9841,0.67,4sz1Ng2Cgidfqqiy0pNL6R
+19,talking in your sleep,the romantics,1984,64,341,True,0.069,0,0.9639,0.812,7fRvtXvJMpGfTLdF0M09a1
+17,time after time,cyndi lauper,1984,85,253,True,0.031,0.112,-0.9536,0.664,1Jj6MF0xDOMA3Ut2Z368Bx
+18,jump for my love,pointer sisters,1984,96,359,True,0.208,0.026,0.9966,0.733,4k0bXm9Q4RaTuYi09i4lKK
+65,you can do magic,america,1982,96,295,True,0.064,0.076,-0.1535,0.675,5dXED6MP1v1qghkaniirb1
+14,dancing in the dark,bruce springsteen,1984,132,305,True,0.12,0.117,0.0519,0.567,0UyljEbX9dqI1K0sqdv6B6
+12,all night long all night,lionel richie,1984,110,426,True,0.198,0.017,0.9976,0.742,2SiXAy7TuUkycRVbbWDEpo
+24,joanna,kool  the gang,1984,89,259,True,0.227,0.007,0.9962,0.656,7r63gCX2EkN81DGBWRAICS
+20,self control,laura branigan,1984,98,319,True,0.034,0.087,-0.9391,0.693,5GUYJTQap5F3RDQiCOJhrS
+21,lets go crazy,prince and the revolution,1984,169,329,True,0.069,0.149,-0.9854,0.486,0QeI79sp1vS8L3JgpEO7mD
+22,say it isnt so,daryl hall  john oates,1984,122,405,True,0.111,0.069,0.964,0.699,5MCIbKkyD1O7OZzXhzI7Rl
+23,hold me now,thompson twins,1984,112,268,True,0.281,0.094,0.9963,0.582,0BJU4rYOfj43xHw6gvTIwE
+26,somebodys watching me,rockwell,1984,117,341,True,0.192,0.105,0.9873,0.657,6A4Jc8npNo79BOgsrPptLA
+28,99 luftballons,nena,1984,124,181,True,0,0.089,-0.9438,0.315,6HA97v4wEGQ5TUClRM0XLc
+25,i just called to say i love you,stevie wonder,1984,106,236,True,0.249,0.106,0.9951,0.551,6RNDeRnWsRMjPdNVgupZCs
+31,oh sherrie,steve perry,1984,72,226,True,0.254,0.008,0.9969,0.681,4zEi4tr3lEhiAvTRxEzbEz
+30,the glamorous life,sheila e,1984,121,382,True,0.262,0.024,0.9988,0.683,179SfVFJ0ZN41toTxnpgRD
+15,girls just want to have fun,cyndi lauper,1984,79,319,True,0.235,0.01,0.9974,0.752,4y1LsJpmMti1PfRQV9AWWe
+29,lovergirl,teena marie,1985,101,352,False,0.259,0.003,0.9985,0.713,13xKh7WqwxzEFYhYCJJwHg
+65,mandolin rain,bruce hornsby and the range,1987,130,335,True,0.067,0.095,-0.7395,0.612,3T8Ye4NB0MQhcEcxzMdAuH
+64,to be a lover,billy idol,1987,93,377,True,0.372,0.019,0.9994,0.753,4jx9WGJ2b7wdxEtAnRTSko
+66,breakout,swing out sister,1987,66,269,True,0.045,0.034,-0.237,0.755,5ecZWU5uQOiCVSnPxBZNmT
+67,stand by me,ben e king,1987,55,163,True,0.043,0.056,-0.2714,0.663,3SdTKo2uVsxFblQjpScoHy
+63,cant we try,dan hill featuring vonda shepard,1987,128,388,True,0.162,0.081,0.9879,0.67,0x1RspO36DgmXbZ9XmxvsN
+71,casanova,levert,1987,113,488,True,0.292,0.032,0.9993,0.768,4FC2oIKWbXNOq6NThyFxSQ
+69,someday,glass tiger,1987,17,22,False,0,0,0,0.227,7hm4HTk9encxT0LYC0J6oI
+68,tonight tonight tonight,genesis,1987,107,350,True,0.209,0.055,0.9961,0.694,7ELW8QMNYkoxWskwXMD3WW
+70,when smokey sings,abc,1987,120,264,True,0.192,0.096,0.9832,0.545,5IfSEpxmVAyu41B3xMqbZQ
+72,rhythm is gonna get you,gloria estefan and miami sound machine,1987,69,376,True,0.008,0.047,-0.8834,0.816,5KvIQUPOrWc4M3tWyH3x1i
+73,rock steady,the whispers,1987,86,293,True,0.065,0.043,0.8283,0.706,1YCsTFttuHAzgfEWKdOb9K
+74,wanted dead or alive,bon jovi,1987,95,218,True,0.112,0.229,-0.9895,0.564,2fY6tqgrlrg1ky9fgs0t5u
+76,the finer things,steve winwood,1987,106,263,True,0.075,0.074,0.3252,0.597,2GNkR4EfPnXi0zRl5A89ky
+79,diamonds,herb alpert,1987,68,180,True,0.305,0.126,0.9957,0.622,59fi7eaSe4DuCqfua35m2W
+75,big time,peter gabriel,1987,118,309,True,0.132,0.021,0.9876,0.618,7jslhIiELQkgW9IHeYNOWE
+80,point of no return,expose,1987,66,203,True,0.144,0.105,0.903,0.675,5KUiLOgwUB2Y8dzTBv8j7R
+77,let me be the one,expose,1987,96,369,True,0.203,0.031,0.9968,0.74,0T3xmp3KqDklZ12Ze0Nm13
+82,midnight blue,lou gramm,1987,134,244,True,0.099,0.096,-0.302,0.451,0GHlFvtU5ALfhCSNEtTE0T
+83,something so strong,crowded house,1987,62,120,True,0.332,0.057,0.994,0.483,0eDwzWuy2gf1RJzqWl0dkF
+81,big love,fleetwood mac,1987,41,85,True,0.305,0.032,0.9873,0.518,6eNeTj9NecqgP1VEqInpKg
+78,is this love,survivor,1987,133,279,True,0.293,0.067,0.9983,0.523,6eokVph5Yty6I3NnleHgmm
+84,heat of the night,bryan adams,1987,,,,,,,,22ML0MuFKfw16WejbxsLOy
+86,brilliant disguise,bruce springsteen,1987,128,245,True,0.195,0.103,0.9799,0.478,0nqbZ17t9v52SCemAm1QP0
+89,respect yourself,bruce willis,1987,101,190,True,0.224,0.028,0.9908,0.468,4lzTyLYXb3ED01TSLCJ1Hz
+85,nothings gonna change my love for you,glenn medeiros,1987,102,409,True,0.33,0.056,0.9995,0.751,0vB4Vd6PtkJSEnWsmqATnZ
+88,who will you run to,heart,1987,100,306,True,0.176,0.105,0.9844,0.673,2G7ttyDosjWmunOYsNRm0C
+87,just to see her,smokey robinson,1987,70,145,True,0.118,0.047,0.8639,0.517,7LOYcC6phKAVOckgmVZJJT
+90,cross my broken heart,the jets,1987,114,425,True,0.119,0.216,-0.9939,0.732,0lccZpdMhW10Qs5iP0j727
+91,victory,kool  the gang,1987,83,223,True,0.272,0.03,0.996,0.628,1KSqYYJFyfTecXFk9M0prc
+92,dont get me wrong,the pretenders,1987,100,164,True,0.215,0.054,0.982,0.39,6Wiamk8BAAP50gAAJopsy2
+95,ballerina girl,lionel richie,1987,92,169,True,0.234,0.017,0.9899,0.456,2fNx5nTZGjniOMT5FMcTyE
+93,doing it all for my baby,huey lewis and the news,1987,72,154,True,0.242,0.027,0.99,0.532,2GdWNthCTVMBnuw59WyIci
+96,meet me half way,kenny loggins,1987,63,122,False,0.088,0.02,0.8591,0.484,5CdX4HXMRxyldTVxXDrzSA
+94,right on track,breakfast club,1987,101,235,True,0.069,0.039,0.8493,0.57,2zfJ7nQiIGfy6BRuMuuLSX
+99,funkytown,pseudo echo,1987,27,77,True,0.055,0,0.4939,0.649,0KQh7AuuZvpTKWhcJa8Pbr
+97,ive been in love before,cutting crew,1987,56,158,True,0.323,0.04,0.9963,0.646,0rPImSYezi40zBhwvIvTrr
+98,you gotta fight for your right to party,beastie boys,1987,92,152,True,0.124,0.189,-0.8857,0.395,4TvVE0cxfD1XsqNxPAjbMK
+1,faith,george michael,1988,113,286,True,0.363,0.032,0.9989,0.605,0HEmnAUT8PHznIAAmVXqFJ
+100,love you down,ready for the world,1987,82,376,True,0.284,0.03,0.9991,0.782,3vWxQ6wOfMr8zH1u7pVFI6
+2,need you tonight,inxs,1988,73,227,True,0.043,0.032,0.3818,0.678,5eU8qMd0TpaLqTGDZJaLDs
+3,got my mind set on you,george harrison,1988,47,341,True,0.035,0,0.9022,0.862,6miUySWi347iIJyz7ETo6m
+6,so emotional,whitney houston,1988,80,165,True,0.185,0.067,0.9664,0.515,4l2Edgdj4vla02GCh7YyAv
+8,couldve been,tiffany,1988,84,158,True,0.231,0.062,0.9878,0.468,6lzLjIOyWTyTJvk0jraYee
+7,heaven is a place on earth,belinda carlisle,1988,89,292,True,0.327,0.009,0.9987,0.695,58mFu3oIpBa0HLNeJIxsw3
+9,hands to heaven,breathe,1988,88,199,True,0.288,0.141,0.9894,0.558,1gFCY09PA7I1iupBZhNMO6
+12,wishing well,terence trent darby,1988,75,144,True,0.52,0.064,0.9984,0.479,6bwCLBbmmnuxjzCMOt3zfX
+4,never gonna give you up,rick astley,1988,83,361,True,0.037,0.159,-0.995,0.77,7GhIk7Il098yCjg4BQjzvb
+5,sweet child o mine,guns n roses,1988,80,244,True,0.23,0.075,0.9929,0.672,4MhTFsyqIJnjsOweVcU8ug
+11,one more try,george michael,1988,108,284,True,0.087,0.146,-0.9606,0.62,5932kbyNt445gDTT2chRUS
+13,anything for you,gloria estefan and miami sound machine,1988,106,248,True,0.081,0.147,-0.9598,0.573,5fgb3Md1xjt3mxeBqguiIA
+16,seasons change,expose,1988,92,254,True,0.191,0.07,0.9843,0.638,34DFpyq5NJJ79GnGbbJH3p
+15,get outta my dreams get into my car,billy ocean,1988,89,282,False,0.198,0.034,0.9937,0.684,3v8vsQfMQio7ohYqFrEsaZ
+10,roll with it,steve winwood,1988,107,284,True,0.074,0.036,0.9238,0.623,7bNX2Fgb4MjPrYbkHaCNwV
+14,the flame,cheap trick,1988,95,293,True,0.026,0.181,-0.9939,0.676,5MoDQWMDMaAGDEiWsJfeCi
+19,pour some sugar on me,def leppard,1988,114,358,True,0.204,0.061,0.9956,0.682,0PdM2a6oIjqepoEfcJo0RO
+18,wild wild west,the escape club,1988,101,210,True,0.065,0.159,-0.9767,0.519,2bbeNsFmjZqdoDhjLsKNWe
+23,simply irresistible,robert palmer,1988,104,269,True,0.298,0.097,0.9971,0.613,0bSr5pybJSlgG5OZH441gF
+24,hold on to the nights,richard marx,1988,103,198,True,0.159,0.08,0.9513,0.48,3F2YXxSOC9dPmxXdrh6mYl
+25,hungry eyes,eric carmen,1988,47,102,True,0.134,0,0.8905,0.539,31H6au3jhblhr6MMJiXnCq
+17,is this love,whitesnake,1988,95,289,True,0.385,0.012,0.9994,0.671,6eokVph5Yty6I3NnleHgmm
+28,naughty girls need love too,samantha fox,1988,147,393,True,0.288,0.123,0.9986,0.626,1kCDxLOz1abPEbVtFBpkl1
+20,ill always love you,taylor dayne,1988,96,171,True,0.33,0.05,0.9965,0.439,3Zzb3YPzYL1vRtLF0IlDWp
+22,shake your love,debbie gibson,1988,94,395,True,0.43,0.186,0.9997,0.762,6gM3uxq9TPkms83bTSlK10
+21,man in the mirror,michael jackson,1988,146,535,True,0.104,0.068,0.9382,0.727,1kiNatIrwDusOZfR29W0LJ
+32,foolish beat,debbie gibson,1988,99,252,True,0.117,0.185,-0.9583,0.607,0KhiesN7gLBPEQhKsBmrI1
+26,shattered dreams,johnny hates jazz,1988,78,224,True,0.175,0.271,-0.9817,0.652,5KXKhCfPNS4342ly8tTf6w
+27,father figure,george michael,1988,142,409,True,0.245,0.087,0.9981,0.653,0L0T4tMAaGqLgIVj1MOj9t
+29,a groovy kind of love,phil collins,1988,69,167,True,0.186,0.006,0.9838,0.587,3BSi5qoJGLab7rn7zfmTPA
+31,endless summer nights,richard marx,1988,124,281,True,0.108,0.009,0.9812,0.559,2iXH35MhsqO5Ry8a7iptpJ
+30,love bites,def leppard,1988,105,320,True,0.334,0.068,0.9991,0.672,3Dfy8YIxq89i84t108TvMi
+33,where do broken hearts go,whitney houston,1988,113,326,True,0.244,0.077,0.9976,0.653,6HFywc5eQYRRYHYTatCb5Y
+38,make me lose control,eric carmen,1988,135,380,True,0.125,0.11,0.7506,0.645,31HhcRSNcS8Rgv9ldIfh66
+36,the way you make me feel,michael jackson,1988,113,503,True,0.062,0.062,-0.0627,0.775,0sKlV58cODrjxGFOyf9IXY
+37,dont worry be happy,bobby mcferrin,1988,90,262,True,0.225,0.196,0.4203,0.656,4hObp5bmIJ3PP3cKA9K9GY
+35,a hazy shade of winter,the bangles,1988,94,163,True,0.107,0.028,0.9018,0.423,2GB8OypbvrvCee61FKx5dp
+40,shes like the wind,patrick swayze featuring wendy fraser,1988,73,230,True,0.127,0.218,-0.9842,0.683,7BdXRaSlGAzhySfuW3y8h5
+39,red red wine,ub40,1988,147,659,True,0.149,0.083,0.9941,0.777,4uOKFydzAejjSFqYbv1XPt
+42,kokomo,the beach boys,1988,99,322,True,0.159,0.005,0.9934,0.693,2STQAr3BRiAeeveJ07gZh7
+34,angel,aerosmith,1988,87,186,True,0.254,0.083,0.989,0.532,0v2LUO8oTHnkjQ8MmKuXyk
+41,bad medicine,bon jovi,1988,149,647,True,0.227,0.26,-0.9913,0.77,72hcFp4tYkd3dbNA9dZ3Pv
+45,monkey,george michael,1988,107,477,True,0.276,0.027,0.9993,0.776,1D23GEeQ32aqLw5ZnY3Ivp
+46,devil inside,inxs,1988,76,240,True,0.065,0.353,-0.999,0.683,3m4OWJ3Ovl0pXwT79bw94N
+47,shouldve known better,richard marx,1988,107,218,True,0.245,0.172,0.9802,0.509,0EQuu6hyNACWI7LT7N5pRv
+49,the locomotion,kylie minogue,1988,89,356,True,0.111,0,0.9878,0.75,5xzdDMhFYiuUONB0Mha9VS
+44,together forever,rick astley,1988,84,272,True,0.178,0.01,0.9909,0.691,2pr6us08iPNzIex5q6fMvI
+43,i dont wanna go on with you like that,elton john,1988,122,354,True,0.221,0.031,0.9973,0.655,2Gd10PZnMktt3Cgo9s6yi0
+48,i dont wanna live without your love,chicago,1988,86,352,True,0.02,0.181,-0.9949,0.756,7egxDkaA0A2vXaB6p7zJvo
+55,dont you want me,jody watley,1988,99,331,True,0.231,0.096,0.9968,0.701,3L7RtEcu1Hw3OXrpnthngx
+50,what have i done to deserve this,pet shop boys with dusty springfield,1988,107,368,True,0.052,0.006,0.9091,0.709,5Knl7BTPCME3Kh5WxctWLU
+52,whats on your mind pure energy,information society,1988,,,,,,,,0sId1fkKRfPlyMMOSVShng
+53,tell it to my heart,taylor dayne,1988,91,289,True,0.114,0.02,0.9854,0.685,3YVPpVJvJG2EauXurPA90F
+51,make it real,the jets,1988,66,128,True,0.098,0.064,0.7627,0.484,4Xvcx48q8khat7M1YUYaYW
+56,desire,u2,1988,45,59,True,0.248,0.034,0.9313,0.237,4BhGTc3Cgay2U1QcTS7vQe
+59,i want to be your man,roger troutman,1988,,,,,,,,3C6xVHlZ8Z7cAzt63xdxH3
+58,sign your name,terence trent darby,1988,105,222,True,0.208,0.063,0.9884,0.527,3lIpkjFnRxJ6Uvm8DgtgfV
+62,123,gloria estefan and miami sound machine,1988,94,220,True,0.231,0.089,0.9912,0.573,0MHPgpKYfTVml3qEXspnLQ
+61,dirty diana,michael jackson,1988,157,345,True,0.069,0.324,-0.9987,0.545,4FC7GMnGwYeAjuvC83Srbs
+54,out of the blue,debbie gibson,1988,78,250,True,0.328,0,0.9983,0.688,2RlgNHKcydI9sayD2Df2xp
+60,girlfriend,pebbles,1988,142,585,True,0.14,0.169,-0.9267,0.757,5m7on0zpnmeAXy72ANrmfU
+32,unskinny bop,poison,1990,107,288,True,0.239,0.071,0.9951,0.628,1Z6lKdYhwp8WYoBqGCKxlM
+25,if wishes came true,sweet sensation,1990,98,275,True,0.351,0.067,0.9987,0.644,5gAdATsfINRIljv4LbrKX2
+28,love will lead you back,taylor dayne,1990,94,296,True,0.248,0.031,0.9979,0.682,3HLgjHYaEhKFvV4SSvI9Te
+26,the power,snap,1990,120,546,True,0.074,0.033,0.9688,0.78,2olVm1lHicpveMAo4AUDRB
+50,no more lies,michelle,1990,46,97,True,0.383,0.055,0.9922,0.526,1Oz5bcZyzhiaEa3F06EiPY
+60,cant stop,after 7,1990,99,356,True,0.318,0.017,0.9991,0.722,3ZOEytgrvLwQaqXreDs2Jx
+58,something happened on the way to heaven,phil collins,1990,99,367,True,0.137,0.126,0.8144,0.73,4ziqqoW1o3P5EhNqK6CPb1
+62,the humpty dance,digital underground,1990,284,855,True,0.155,0.058,0.9981,0.668,3OcQkcvTcohs8vO8Rd3sKF
+69,girls nite out,tyler collins,1990,90,233,True,0.151,0.047,0.9734,0.614,4ovTQ6ir7tACaRx9V6vChb
+71,what kind of man would i be,chicago,1990,96,300,True,0.098,0.034,0.9526,0.68,5qR3pYQIC10S7aD2YBjgui
+70,king of wishful thinking,go west,1990,88,338,True,0.009,0.195,-0.9935,0.74,4UQLQJu3DNvVkMVglwElU2
+83,whip appeal,babyface,1990,98,430,True,0.243,0.06,0.9985,0.772,4D13ulAZI1V7PG7Zg1Ar7r
+81,everybody everybody,black box,1990,79,267,True,0.153,0.171,0.0142,0.704,3GVkPk8mqxz0itaAriG1L7
+1,everything i do i do it for you,bryan adams,1991,86,233,True,0.162,0.124,0.922,0.631,6eBK3edMW7bEzecF1eCezc
+11,motownphilly,boyz ii men,1991,110,299,True,0.173,0,0.9942,0.632,4LxIGAVfcQIw0zAQRyFhU8
+12,because i love you the postman song,stevie b,1991,66,136,False,0.152,0.138,0.7339,0.515,5133Vr9T5jaSNBlqSQRJDx
+13,someday,mariah carey,1991,118,358,True,0.064,0.081,-0.6633,0.67,7hm4HTk9encxT0LYC0J6oI
+87,we cant go wrong,the cover girls,1990,80,228,True,0.266,0.099,0.9951,0.649,1DTLJp3baHKyTYZMWD4zgp
+15,from a distance,bette midler,1991,87,221,True,0.271,0.067,0.9938,0.606,3rDuYJzkBZw9jbbrRatwWu
+17,right here right now,jesus jones,1991,70,190,True,0.096,0.046,0.8658,0.632,61Jk4NuavJPhDBvVZes5iB
+22,emotions,mariah carey,1991,78,232,True,0.291,0.013,0.9959,0.664,4SyotGg4HWmpMVGmsj3FoL
+21,justify my love,madonna,1991,84,228,True,0.356,0.027,0.9981,0.632,6BWRvw630R8z2vNMok6quI
+20,good vibrations,marky mark and the funky bunch featuring loleatta holloway,1991,151,417,False,0.188,0.037,0.9952,0.638,5t9KYe0Fhd5cW6UYT4qP8f
+18,i adore mi amor,color me badd,1991,93,248,True,0.348,0.036,0.998,0.625,05R2lE5g9hnaSmxIrUl3C0
+25,hold you tight,tara kemp,1991,79,159,True,0.224,0.029,0.983,0.503,4hIY051enSBBJ5fzZUzTSU
+9,the first time,surface,1991,87,208,True,0.164,0.071,0.974,0.582,0LG2cFomCi8Fb664Lvr3Nu
+19,love will never do without you,janet jackson,1991,87,260,True,0.266,0.073,0.9974,0.665,1SkJ8HjZUZRPYT3R2rh5sA
+23,joyride,roxette,1991,123,272,True,0.395,0.068,0.9989,0.548,3doVAxeH3SgWtlRMqR4eLi
+16,all the man that i need,whitney houston,1991,66,210,True,0.256,0.025,0.9971,0.686,07M76e7IXxYdnC1BBiJxEX
+26,i dont wanna cry,mariah carey,1991,109,292,False,0.097,0.09,0.876,0.627,1hFtJ5rV3aAm58ErijHdFO
+30,touch me all night long,cathy dennis,1991,84,264,True,0.261,0.076,0.9965,0.682,4M47py84j3Fvm8F2llipkK
+28,every heartbeat,amy grant,1991,93,267,True,0.229,0.021,0.9969,0.652,53SqGkNJAYLss9AgbduTqQ
+24,romantic,karyn white,1991,133,391,True,0.31,0.024,0.9991,0.66,7IBSffWIu7P2MC7kMwy2FM
+14,high enough,damn yankees,1991,77,176,True,0.075,0.045,0.5106,0.562,76resiPGue5Cum9rLUKCj0
+29,sensitivity,ralph tresvant,1991,133,496,True,0.179,0.098,0.9935,0.732,3lRgzwd3g1TewI4zjgbh9V
+33,losing my religion,rem,1991,96,264,True,0.092,0.111,-0.7096,0.636,31AOj9sFz2gM0O3hMARRBx
+27,youre in love,wilson phillips,1991,95,276,True,0.327,0.079,0.9987,0.656,3LHVU0OJqrB6JZyrPHzcjQ
+34,coming out of the dark,gloria estefan,1991,97,295,True,0.246,0.039,0.9975,0.671,5x9MJycRilBm2SNavzt9yF
+31,ive been thinking about you,londonbeat,1991,66,111,True,0.089,0.084,0.5656,0.405,02KLiEs31kxh1krQJezlTL
+32,do anything,natural selection,1991,165,385,True,0.204,0.067,0.9968,0.571,5fgb3Md1xjt3mxeBqguiIA
+35,here we go,cc music factory,1991,224,768,True,0.14,0.033,0.9971,0.708,717z018DWodjJnW6DE7t4z
+36,it aint over til its over,lenny kravitz,1991,72,256,True,0.147,0.208,-0.9404,0.719,6VnpKLtfNH4Dk09YSGPSyR
+38,summertime,dj jazzy jeff  the fresh prince,1991,259,526,True,0.124,0.014,0.9959,0.508,4j3GWI86JvSaF0BLdmgcfF
+39,wind of change,scorpions,1991,91,294,True,0.231,0,0.997,0.69,3ovjw5HZZv43SxTwApooCM
+37,where does my heart beat now,celine dion,1991,107,245,True,0.101,0.11,-0.5142,0.563,0mwD7yFzUPWPlQsfBB9Zws
+40,passion,rythm syndicate,1991,,,,,,,,5mCPDVBb16L4XQwDdbRUpz
+42,im your baby tonight,whitney houston,1991,120,491,True,0.156,0.08,0.9892,0.756,0qilV2pyNYLPryWllKwAIL
+41,the promise of a new day,paula abdul,1991,72,373,True,0.332,0.022,0.9987,0.807,5m8xVZhlM7E2mL9uuxZpF6
+46,hole hearted,extreme,1991,83,198,True,0.081,0.04,0.8482,0.581,1cItNpcJskTVETprljc7HV
+48,impulsive,wilson phillips,1991,87,211,True,0.074,0.227,-0.9911,0.588,2lxfnTyWxW381PXDm9Mg77
+44,fading like a flower every time you leave,roxette,1991,92,285,False,0.107,0.136,-0.0258,0.677,2ACAoQvkZytv4DvDYEIv7v
+43,love of a lifetime,firehouse,1991,77,144,True,0.235,0,0.9857,0.465,2kDH08boXJyhKMl5hnZbrE
+49,love is a wonderful thing,michael bolton,1991,113,287,True,0.468,0.021,0.9996,0.606,6vNYzKRCHP6LcRh0RprXLi
+45,this house,tracie spencer,1991,101,466,True,0.121,0.063,0.9878,0.783,1Cy1mZ5KVGh4lU5gyBEmpq
+52,i touch myself,divinyls,1991,67,256,True,0.197,0.149,0.6705,0.738,6oNvmplQGUkmAh441Teows
+53,toms diner,dna featuring suzanne vega,1991,122,247,False,0.047,0.048,-0.1027,0.506,7rQtCINCHFjFgLscYheSMq
+51,things that make you go hmmm,cc music factory,1991,281,904,False,0.057,0.047,0.8409,0.689,5MYHIN8nrGFt842skhaki4
+54,iesha,another bad creation,1991,194,366,True,0.128,0.032,0.9836,0.47,6wqqfVsedLcg6JEQFvMovB
+50,rhythm of my heart,rod stewart,1991,112,331,True,0.128,0.12,0.8316,0.662,6pceknxOgA22HKs99yPEm1
+57,play that funky music,vanilla ice,1991,262,664,True,0.172,0.122,0.9935,0.605,5uuJruktM9fMdN9Va0DUMl
+61,3 am eternal,the klf,1991,85,390,False,0.088,0.004,0.9833,0.782,413adkV8KrZQUPvU0iD9Dj
+56,after the rain,nelson,1991,94,255,True,0.113,0.148,-0.7073,0.631,1Zm94tzqt9ylN5wgBWRePJ
+58,temptation,corina,1991,117,235,True,0.211,0.059,0.9925,0.502,7L9g4cPfohScjJ8mGwLQWr
+59,cant stop this thing we started,bryan adams,1991,,,,,,,,753VOnELPOptUFMm7H10Vc
+60,i cant wait another minute,hifive,1991,,,,,,,,1CeGBbkJeKPojRmlo2gIwq
+63,sadeness part i,enigma,1991,1,1,False,0,0,0,0,01ZcGaInwbGQ851SwRKnNE
+62,time love and tenderness,michael bolton,1991,109,432,True,0.429,0.073,0.9998,0.748,3ascnOSOR5MX901ylGuhcl
+65,ill be there,the escape club,1991,77,252,True,0.101,0.211,-0.9874,0.694,083Qf6hn6sFL6xiOHlZUyn
+66,cream,prince and the new power generation,1991,80,211,True,0.196,0.02,0.9873,0.621,03ThZweiBWFP8tOGsk6QMO
+64,around the way girl,ll cool j,1991,220,589,True,0.091,0.095,0.9398,0.626,6jL1SnyXcXiKOmw4M2RnmT
+69,love takes time,mariah carey,1991,84,222,True,0.123,0.186,-0.8518,0.622,7022xokeCJFSeZxw2npVkn
+68,show me the way,styx,1991,106,228,True,0.149,0.06,0.9687,0.535,6BD1X1PeV5UzYUdiVaD2yL
+70,cry for help,rick astley,1991,93,277,True,0.372,0.083,0.9987,0.664,1gdzFNA4N7zY7k453ZDM4Y
+67,now that we found love,heavy d  the boyz,1991,246,756,False,0.221,0.054,0.9995,0.675,1KONmY3enP3r3nIPQidWAy
+73,signs,tesla,1991,146,308,True,0.073,0.044,0.8396,0.526,6Na5uKk5SsqZimk0hAWo8y
+71,the way you do the things you do,ub40,1991,69,372,True,0.132,0,0.9935,0.815,3496rr5XSGD6n1Z1OKXovb
+72,here i am come and take me,ub40,1991,64,232,False,0.156,0.024,0.9865,0.724,20wu6USlvWRghMOvUdfLgE
+55,something to talk about,bonnie raitt,1991,82,162,True,0.196,0.057,0.9857,0.494,7ptJYMKI7Y1iWdqEZtBMGE
+76,ill give all my love to you,keith sweat,1991,90,248,True,0.199,0.107,0.9846,0.637,4L9VA69sfZKK5HAs5zP22I
+74,too many walls,cathy dennis,1991,110,301,True,0.144,0.128,0.5615,0.635,3uJBcTWsHWoxnUkrLOx4JP
+79,wicked game,chris isaak,1991,65,274,True,0.221,0.175,0.9844,0.763,390AWnOn2rfe9FzQjYmxIH
+77,place in this world,michael w smith,1991,73,221,True,0.11,0,0.9761,0.67,73OX8GdpOeGzKC6OvGSbsv
+78,something to believe in,poison,1991,193,403,True,0.167,0.166,-0.3551,0.521,6L3VWDPDTQkQFkqvmpAUMU
+75,crazy,seal,1991,126,347,True,0.031,0.125,-0.9667,0.637,2rxQMGVafnNaRaXlRMWPde
+80,get here,oleta adams,1991,91,247,True,0.109,0.068,0.33,0.632,6s9ICeczYOfbHHIaSMq9jd
+82,silent lucidity,"queensr""yche",1991,131,257,False,0.179,0.082,0.9798,0.49,6OSyCAmXT4Gkd3OQ2aPOaF
+81,round and round,tevin campbell,1991,103,438,True,0.151,0.031,0.9934,0.765,7nMwW8hKct1yCCOpaNmMaY
+83,im not in love,will to power,1991,74,182,True,0.064,0.184,-0.9841,0.593,5HQEmiV2lKnSO6qa2fsR7x
+87,everybody plays the fool,aaron neville,1991,112,264,True,0.23,0.184,0.9259,0.576,3DkqEHCCqlkknDfksHWWu0
+86,just another dream,cathy dennis,1991,97,351,True,0.239,0.027,0.9977,0.724,2SELUL4Jt8KtvYdV7Rc1RR
+88,strike it up,black box,1991,92,306,True,0.091,0.112,0.0258,0.699,1ZMCV2gvlyUjZZYpVPjEJD
+84,piece of my heart,tara kemp,1991,66,116,True,0.083,0.039,0.2728,0.431,1xKQbqQtQWrtQS47fUJBtl
+90,disappear,inxs,1991,93,269,True,0.093,0.305,-0.9971,0.654,4VM6WUdnRnBv6cHAjyzxcK
+89,rico suave,gerardo,1991,239,370,False,0.105,0.083,0.913,0.354,6PGYkB4tLbqsYPBZ4gozDI
+94,opp,naughty by nature,1991,276,847,True,0.128,0.051,0.9962,0.674,53VbeBh3PQuIToDogqdakd
+85,real real real,jesus jones,1991,71,240,True,0.203,0.019,0.9949,0.704,5vnpANH92iEajvGwE2oQ6r
+91,groove is in the heart,deeelite,1991,143,280,True,0.122,0.035,0.9707,0.489,2UVLuddklEVak5PXgC7baA
+97,miles away,winger,1991,105,261,True,0.087,0.072,0.7393,0.598,1iy9FLjmcGQdjAXWi1y4D1
+92,all this time,sting,1991,,,,,,,,48FuVo0KwE3N7Fqmc8cT4r
+95,freedom 90,george michael,1991,191,608,False,0.241,0.046,0.9993,0.686,3tyTt5pEWblt96j1HsXiV5
+96,i saw red,warrant,1991,109,272,True,0.142,0.042,0.978,0.599,0bhGTfpajLMjcYGMwWHy9p
+93,the one and only,chesney hawkes,1991,108,246,True,0.088,0.013,0.9618,0.561,1BPmVDqR4cX9aFC0Qx0eWn
+4,save the best for last,vanessa williams,1992,100,232,True,0.28,0.02,0.9973,0.569,7okbmgA8lRBGl5limZ7LFM
+99,the motown song,rod stewart,1991,120,378,False,0.153,0.013,0.9932,0.683,53Ttk5sOEtlJvOZmv16aQn
+5,babybabybaby,tlc,1992,110,370,False,0.254,0,0.9988,0.703,7qxhPZ2Oi3KFZriGpbIuRq
+3,jump,kris kross,1992,177,556,True,0.053,0.017,0.9457,0.682,2OvV4NjEBRE9v8Oo7QeUCq
+98,do you want me,saltnpepa,1991,,,,,,,,1eduDdsjMO7Or4EXnMf2iS
+1,end of the road,boyz ii men,1992,150,513,True,0.103,0.075,0.8886,0.708,5ZJ0Uew5KIJHCpbddC3uTc
+2,baby got back,sir mixalot,1992,306,714,True,0.145,0.09,0.9839,0.571,1SAkL1mYNJlaqnBQxVZrRl
+8,under the bridge,red hot chili peppers,1992,96,260,True,0.28,0.093,0.9958,0.631,3d9DChrdc6BOeFsbrZ3Is0
+6,tears in heaven,eric clapton,1992,63,155,True,0.205,0.027,0.9825,0.594,612VcBshQcy4mpB2utGc3H
+9,all 4 love,color me badd,1992,116,420,True,0.259,0.029,0.9986,0.724,68BTFws92cRztMS1oQ7Ewj
+7,my lovin youre never gonna get it,en vogue,1992,106,545,False,0.117,0.084,0.9779,0.806,3R97rNX7JnmshCWBwOSFet
+84,runaway,janet jackson,1996,109,235,True,0.401,0.022,0.9986,0.536,6W4f0lzPGSIKsbTRhNk8VI
+83,you remind me of something,r kelly,1996,110,563,True,0.23,0.029,0.9976,0.805,01rYWOpu72uFQORnWN84C3
+82,this is your night,amber,1996,88,397,True,0.24,0.006,0.9985,0.778,5p0rUHicpwMZil8RlNGGth
+85,set u free,planet soul,1996,75,218,False,0.268,0.035,0.9958,0.656,3lX3jXOthWEzahVB1JSC2D
+87,no one else,total,1996,80,176,True,0.066,0.087,-0.7166,0.545,6ctPCGmPl2mALYgkgXENrN
+86,hit me off,new edition,1996,151,395,True,0.095,0.073,0.4588,0.618,0yNCFwihschpOwSgK31f2O
+90,that girl,maxi priest featuring shaggy,1996,145,436,True,0.138,0.111,0.9593,0.667,77hjM9bMmgfTGJXv14UFmi
+89,get money,junior mafia featuring the notorious big,1996,267,488,True,0.036,0.061,-0.927,0.453,53oWwSxPuyH2cjYKXH8fgO
+91,po pimp,do or die featuring twista,1996,349,873,True,0.104,0.104,-0.9324,0.6,66AMCAjrOk7c957i3ej06f
+92,until it sleeps,metallica,1996,87,266,True,0.03,0.244,-0.9964,0.673,63aVbch5VRXtQnCITdeDTZ
+88,my boo,ghost town djs,1996,109,326,True,0.201,0.035,0.994,0.666,68vgtRHr7iZHpzGpon6Jlo
+96,i got id,pearl jam,1996,99,186,False,0.107,0.087,0.7208,0.468,454wC5PPsU0mPltiJqxDbz
+93,hay,crucial conflict,1996,310,682,True,0.069,0.089,-0.9714,0.545,3IPJg1sdqLj12kFIndaonN
+94,beautiful life,ace of base,1996,100,391,True,0.434,0.004,0.9997,0.744,54s6sdPuMjVtdB5d5KFzTC
+95,back for good,take that,1996,109,358,True,0.236,0.088,0.9906,0.696,6HHmmFTXewcI25nRAbiQRJ
+99,only wanna be with you,hootie  the blowfish,1996,119,302,True,0.111,0.11,0.0453,0.606,1OFKUn2VLafrHj7ybnap0Q
+100,dont cry,seal,1996,129,331,True,0.266,0.092,0.9967,0.61,5BQrp63SHCVf4bzCzJePne
+1,something about the way you look tonight  candle in the wind 1997,elton john,1997,,,,,,,,5LjSxAIKwyZvQqJ04ZQ0Da
+3,ill be missing you,puff daddy featuring faith evans and 112,1997,163,501,True,0.109,0.155,-0.9756,0.675,3QHONiXGMGU3z68mQInncF
+4,unbreak my heart,toni braxton,1997,89,318,True,0.189,0.152,0.978,0.72,3X8feysVQ8Saawbv4uqqMC
+5,cant nobody hold me down,puff daddy featuring mase,1997,301,582,True,0.076,0.122,-0.9864,0.483,1EM23A621Z0QyTlWKu7T1l
+7,dont let go love,en vogue,1997,104,330,False,0.097,0.112,-0.8116,0.685,06TuMCjDEYjTOJScCRzmjf
+8,return of the mack,mark morrison,1997,115,424,True,0.07,0.193,-0.9963,0.729,3jDdpx9PMlfMBS5tOBHFm9
+11,quit playing games with my heart,backstreet boys,1997,86,313,False,0.112,0.083,0.8763,0.725,1nRwyxNsqCLeA17qR8Nfxx
+10,wannabe,spice girls,1997,119,510,False,0.285,0.077,0.9986,0.767,1Je1IMUlBXcx1Fz0WE7oPT
+6,i believe i can fly,r kelly,1997,90,369,True,0.053,0,0.9536,0.756,2RzJwBCXsS1VnjDm2jKKAa
+9,how do i live,leann rimes,1997,66,279,True,0.039,0.071,-0.1195,0.763,7BD50ATrF3Vab5FQy7vtK8
+12,mmmbop,hanson,1997,88,318,True,0.036,0.029,0.6359,0.723,2HNZxbvFvasRtlOJ9M6DgR
+97,soon as i get home,faith evans,1996,105,328,True,0.193,0.133,0.9795,0.68,6SkGfPa77E4giShVbk9N6R
+17,semicharmed life,third eye blind,1997,191,472,False,0.089,0.054,0.2846,0.595,2UjFkoQt8xphw7gKY771jA
+18,barely breathing,duncan sheik,1997,131,314,True,0.144,0.125,0.7414,0.583,75HZ6Wxnw8xbgz6HU9kKCS
+15,bitch,meredith brooks,1997,125,291,True,0.138,0.22,-0.9847,0.57,0NTMtAO2BV4tnGvw9EgBVq
+98,macarena,los del r'io,1996,59,399,True,0,0,0,0.852,67OeF21snQIQRrjPtfbP5L
+16,nobody,keith sweat,1997,92,358,True,0.252,0.059,0.997,0.743,6VnqGxiMNexOe0kRmIsBw4
+14,you make me wanna,usher,1997,121,571,True,0.029,0.032,0.3329,0.788,47TqCCnEliDp8NRDyIQoQq
+19,hard to say im sorry,az yet featuring peter cetera,1997,76,188,False,0.102,0.037,0.8885,0.596,07TnWCHrFkvF61GzJuLVt0
+13,for you i will,monica,1997,113,399,True,0.257,0.023,0.9982,0.717,3kZC0ZmFWrEHdUCmUqlvgZ
+21,the freshmen,the verve pipe,1997,105,356,False,0.092,0.167,-0.9735,0.705,21jEuMn2lf37715rwjow2M
+20,mo money mo problems,the notorious big featuring puff daddy and mase,1997,271,695,False,0.156,0.11,0.9645,0.61,4INDiWSKvqSKDEu7mh8HFz
+28,say youll be there,spice girls,1997,109,298,True,0.281,0.082,0.9973,0.634,1yTQ39my3MoNROlFw3RDNy
+26,every time i close my eyes,babyface,1997,92,275,True,0.33,0.053,0.9984,0.665,2ezqQeBiC72gwMJoO4w1hA
+25,hypnotize,the notorious big,1997,309,734,True,0.126,0.088,0.9858,0.579,7KwZNVEaqikRSBSpyhXK2j
+23,no diggity,blackstreet featuring dr dre,1997,245,647,True,0.129,0.109,0.9513,0.621,6MdqqkQ8sSC0WB4i8PyRuQ
+27,in my bed,dru hill,1997,127,268,True,0.131,0.104,0.6029,0.526,0IBgCsG8dRnUtveiIaoFHF
+24,i belong to you every time i see your face,rome,1997,,,,,,,,1nP6feYWJVpbO41aezFtm2
+31,ghettout,changing faces,1997,104,373,True,0.023,0.165,-0.9945,0.721,1cMt10DFYWj2qzNgGIUo0D
+22,i want you,savage garden,1997,118,520,True,0.097,0.133,-0.9911,0.773,0bYg9bo50gSsH3LtXe2SQn
+29,do you know what it takes,robyn,1997,91,309,True,0.17,0.028,0.9944,0.706,0idCpkJ2pspfAILbanmERu
+30,4 seasons of loneliness,boyz ii men,1997,146,406,False,0.176,0.053,0.9964,0.64,027tq4cWr0kRxLTfdxvM1L
+34,da dip,freak nasty,1997,244,827,False,0.153,0.066,0.9969,0.705,76YDsWGWezclVy9Z6sDGhf
+32,honey,mariah carey,1997,139,518,True,0.197,0.049,0.9982,0.732,5QTdOvIF2ehBMZpSIIGzIo
+33,i believe in you and me,whitney houston,1997,87,210,True,0.237,0.08,0.9896,0.586,1kwNHkKXJ4c4MchgATAOBJ
+35,2 become 1,spice girls,1997,100,312,True,0.315,0.026,0.9988,0.679,36AWdhZIGLUTkWpJDhe7va
+37,cupid,112,1997,100,342,True,0.172,0.164,0.8562,0.708,3kVIFDE3G89I2RPVkiRaRj
+38,where have all the cowboys gone,paula cole,1997,124,254,True,0.073,0.048,0.8271,0.512,2ck13qfgRZ1msyEJlDqzvk
+41,ooh aah just a little bit,gina g,1997,99,358,True,0.137,0.053,0.9886,0.723,7kyMLaXepcGHIrsLqoiTB8
+40,its your love,tim mcgraw and faith hill,1997,92,255,True,0.182,0.028,0.9928,0.639,7nEdCj0MFbGWOxwjlpPesa
+39,sunny came home,shawn colvin,1997,85,189,True,0.153,0.044,0.967,0.55,4mOxpj82q6n3EO7HBZCelX
+36,all for you,sister hazel,1997,82,349,True,0.023,0.138,-0.9891,0.765,0bYg9bo50gSsH3LtXe2SQn
+61,doin it,ll cool j,1996,247,530,False,0.144,0.08,0.9847,0.534,4WMBl2wiGUSGa5C7tfQEAo
+43,all cried out,allure featuring 112,1997,122,266,True,0.122,0.279,-0.9947,0.541,6n7rJUcwmQDestMYXoSoZF
+44,im still in love with you,new edition,1997,99,382,True,0.386,0.065,0.9996,0.741,6SMHgPgNkhe9lneNTbgtel
+46,not tonight,lil kim featuring da brat left eye missy elliott and angie martinez,1997,339,756,False,0.099,0.114,-0.9736,0.552,15fZHvjZXoAILTvmt4EXIk
+45,invisible man,98 degrees,1997,124,335,True,0.254,0.023,0.9984,0.63,0h15VlXIzD1MwKwNi12ois
+49,all by myself,celine dion,1997,53,136,True,0.164,0.038,0.9625,0.61,20EpQjfV7B4ZQJkIdHO1Tw
+47,look into my eyes,bone thugsnharmony,1997,,,,,,,,4ISp82TYvp9G3HTA2dPzQu
+48,get it together,702,1997,91,354,True,0.164,0.037,0.9949,0.743,7y6c07pgjZvtHI9kuMVqk1
+50,its all coming back to me now,celine dion,1997,144,636,True,0.169,0.069,0.997,0.774,2JRicL2f8tJl9TiQlH7vbJ
+51,my love is the shhh,somethin for the people featuring trina  tamara,1997,113,465,True,0.315,0.174,0.9988,0.757,3TS25nchaYIPb2Y2fw6cbb
+53,i finally found someone,barbra streisand and bryan adams,1997,106,254,True,0.13,0.005,0.9844,0.583,2WthqeuPLwn0CHwCMrlt6L
+52,where do you go,no mercy,1997,94,370,True,0.178,0.043,0.9919,0.746,4uMj5lh4vOqoP50l4efCss
+54,ill be,foxy brown featuring jayz,1997,245,583,True,0.062,0.147,-0.9953,0.58,5SLRJa1DnCSY0M5w6cj9a1
+56,never make a promise,dru hill,1997,134,302,True,0.245,0.138,0.9907,0.556,5MYmYqVtTgQ41HYJTwAmcf
+55,if it makes you happy,sheryl crow,1997,114,249,True,0.228,0.106,0.9857,0.542,5XrfFo0JFOnWD9ZMNXGkQh
+57,when you love a woman,journey,1997,78,215,True,0.297,0.031,0.997,0.637,2Ie2PTlhSYqE7WG5l6QzrB
+58,up jumps da boogie,timbaland  magoo featuring missy elliott and aaliyah,1997,308,834,True,0.141,0.111,0.9776,0.631,6HjfKZlZ7aYvPDc41OV82Z
+61,cold rock a party,mc lyte,1997,235,647,True,0.165,0.054,0.9978,0.637,1iVdwLsbPsKnqUoZOWlEqv
+62,pony,ginuwine,1997,97,275,True,0.036,0.024,0.1083,0.647,6mz1fBdKATx6qP4oP1I65G
+60,everyday is a winding road,sheryl crow,1997,99,274,True,0.169,0.031,0.985,0.639,0t6DAi9KEiaWOtgTTXGhD2
+63,building a mystery,sarah mclachlan,1997,112,250,True,0.176,0.086,0.9731,0.552,3ozomn4PrGEKEuusxX2HpC
+68,my baby daddy,brock and the bizz,1997,,,,,,,,7yE5wxYOfJhLFs8EXkccAQ
+64,i love you always forever,donna lewis,1997,101,339,True,0.247,0.006,0.9983,0.702,1PEqh7awkpuepLBSq8ZwqD
+69,tubthumping,chumbawamba,1997,49,340,False,0.1,0.042,0.9567,0.856,5YScXJKtefsgdskIy60N7A
+72,the jock jam,various artists,1997,141,459,False,0.142,0.013,0.9949,0.693,4ufsFMT6W3QoWJVdPB4I6z
+70,gotham city,r kelly,1997,90,290,True,0.245,0.043,0.9971,0.69,2whKOvkZ8mNLbinpYsKt3X
+66,c u when u get there,coolio featuring 40 thevz,1997,297,763,False,0.1,0.064,0.9819,0.611,4gf05qWuOT4JmtVGBlIXRO
+67,change the world,eric clapton,1997,73,147,True,0.206,0.041,0.9816,0.503,5imShWWzwqfAJ9gXFpGAQh
+65,your woman,white town,1997,113,269,True,0.143,0.047,0.9806,0.58,4ACxa9buEUnOdYEoPcnMpi
+73,big daddy,heavy d,1997,232,502,True,0.109,0.02,0.9832,0.538,1fLibtVj3MrNTwRZq5yUOs
+71,last night,az yet,1997,96,326,True,0.261,0.025,0.9982,0.706,3SUusuA9jH1v6PVwtYMbdv
+74,what about us,total,1997,93,495,True,0.109,0.01,0.9903,0.812,0Qh38w01QRXK6KHIv0e3hb
+42,mouth,merril bainbridge,1997,82,343,True,0.21,0.135,0.945,0.761,3cfOd4CMv2snFaKAnMdnvK
+76,whats on tonight,montell jordan,1997,111,352,True,0.063,0.021,0.9221,0.685,1q3C05jegoKRuU1biZtVxv
+77,secret garden,bruce springsteen,1997,86,162,True,0.052,0.02,0.7311,0.469,68uuz61IqrSJjO6ffO3yHc
+79,fly like an eagle,seal,1997,58,209,True,0.223,0,0.9862,0.722,3e0FzZjTXOUtiJGSClOBrI
+83,on  on,erykah badu,1997,232,617,False,0.125,0.106,0.9173,0.624,7eBqSVxrzQZtK2mmgRG6lC
+78,the one i gave my heart to,aaliyah,1997,74,323,True,0.193,0.058,0.9942,0.771,04XwCSFOS6LQlJNhR7NcPs
+81,naked eye,luscious jackson,1997,104,336,True,0.13,0.053,0.9778,0.69,6YtkOhiHmf46w1noltVnF2
+80,no time,lil kim featuring puff daddy,1997,252,841,True,0.095,0.179,-0.9973,0.7,5pHJv0bgNsT9nPoK2BjNBn
+82,macarena bayside boys mix,los del r'io,1997,59,399,False,0,0,0,0.852,44N4NkJ5LWFr7W34JOwvjj
+85,i shot the sheriff,warren g,1997,155,309,True,0.035,0.159,-0.9874,0.498,4MGa3uO14yw16f8IPKnLZ6
+84,dont wanna be a player,joe,1997,116,389,True,0.044,0.081,-0.8604,0.702,4JyMoznkRseonxgmyrbkuN
+86,you should be mine dont waste your time,brian mcknight featuring mase,1997,188,513,False,0.2,0.061,0.9971,0.634,7HP2lzaK7F55mj7J79bjf4
+88,someone,swv and puff daddy,1997,182,441,True,0.251,0.043,0.999,0.587,2JqnpexlO9dmvjUMCaLCLJ
+89,go the distance,michael bolton,1997,115,232,True,0.173,0.118,0.876,0.504,2rm72l5pjfby1cWvPMUojI
+87,dont cry for me argentina,madonna,1997,128,238,True,0.158,0.107,0.9431,0.462,0bLRXQaWzmSXRXPmP6JnEF
+93,twisted,keith sweat,1997,109,208,True,0.135,0.119,0.1801,0.476,2gZUPNdnz5Y45eiGxpHGSc
+91,butta love,next,1997,169,526,True,0.278,0.054,0.9993,0.679,6fRLVZ4jKzuqyDPlIdbq9q
+92,coco jambo,mr president,1997,100,416,True,0.114,0.014,0.9933,0.76,3UGxdEF53mlLSHkWgcSeJG
+90,one more time,real mccoy,1997,68,409,True,0.142,0.113,0.9158,0.834,3MjUtNVVq3C8Fn0MP3zhXa
+97,i like it,the blackout allstars,1997,29,303,True,0.565,0,0.9995,0.904,58q2HKrzhC3ozto2nDdN4z
+96,let me clear my throat,dj kool,1997,218,713,True,0.221,0.051,0.9991,0.694,7k3sn5TIQ3qRVJ8FPTG9kx
+95,when youre gone  free to decide,the cranberries,1997,,,,,,,,1Ju1n9V6nkCaT1ZepextXi
+75,smile,scarface featuring 2pac and johnny p,1997,31,56,True,0.258,0.13,0.7783,0.446,41zXlQxzTi6cGAjpOXyLYH
+100,let it go,ray j,1997,103,369,True,0.252,0.095,0.9971,0.721,13HVjjWUZFaWilh2QUJKsP
+99,you must love me,madonna,1997,68,135,True,0.204,0.112,0.9538,0.496,7DekM9fvrVFCVoyI7NtT6e
+1,too close,next,1998,107,470,True,0.245,0.061,0.9983,0.772,5IFCyWplye09HytIP80RCF
+4,truly madly deeply,savage garden,1998,101,296,True,0.261,0.126,0.9896,0.659,013AWvizllIUEC2FOBzOnh
+3,youre still the one,shania twain,1998,82,261,True,0.235,0,0.9966,0.686,7wCH9DbgRs7ujHeqNy6oAS
+2,the boy is mine,brandy and monica,1998,173,607,True,0.111,0.108,0.6335,0.715,6sHsXIJoEN5JpdkGMQDJxt
+6,together again,janet,1998,110,413,True,0.208,0.049,0.9962,0.734,1GrikfH0jDejDvrxo84n4P
+9,nice  slow,usher,1998,159,470,False,0.143,0.105,0.9477,0.662,5L0KDoZklMgs9GPoonneEl
+5,how do i live,leann rimes,1998,66,279,True,0.039,0.071,-0.1195,0.763,7BD50ATrF3Vab5FQy7vtK8
+11,hows it going to be,third eye blind,1998,95,257,True,0.067,0.067,-0.0428,0.63,3Uvx1TO0Kg5HgGPk58lHXv
+7,all my life,kci  jojo,1998,,,,,,,,5GorFaKkP2mLREQvhSblIg
+10,i dont want to wait,paula cole,1998,127,321,True,0.097,0.104,0.7673,0.604,5MDQNJ7SZTytJwCbWKqJDL
+14,gettin jiggy wit it,will smith,1998,223,589,True,0.066,0.027,0.9345,0.621,0weAUscowxeqDtpCgtbpgp
+8,candle in the wind 1997,elton john,1998,108,267,False,0.082,0.077,0.5296,0.596,3DUcaEvPO72PijivCjtZcU
+15,you make me wanna,usher,1998,121,571,True,0.029,0.032,0.3329,0.788,47TqCCnEliDp8NRDyIQoQq
+20,adia,sarah mclachlan,1998,98,247,True,0.246,0.081,0.9942,0.603,0rl84FuazRHYmK72krdmA1
+13,my heart will go on,celine dion,1998,72,166,True,0.114,0,0.9526,0.566,3oEHQmhvFLiE7ZYES0ulzv
+19,been around the world,puff daddy featuring the notorious big and mase,1998,433,1149,True,0.1,0.208,-0.9995,0.623,1siDRjAa8MdxNoCHTiiQ7B
+18,the first night,monica,1998,115,587,True,0.048,0.083,-0.9634,0.804,5D30yNI3b0HAuaBWAGOImI
+16,my way,usher,1998,115,350,True,0.059,0.096,-0.9644,0.671,1vvNmPOiUuyCbgWmtc6yfm
+22,everybody backstreets back,backstreet boys,1998,70,179,False,0.294,0.071,0.9893,0.609,5WTxbyWTpoqhdxEN2szOnl
+21,crush,jennifer paige,1998,100,282,True,0.047,0.206,-0.987,0.645,4wCD0qOFNRu1Q6O3N6ycm4
+17,my all,mariah carey,1998,77,157,True,0.116,0.065,0.8683,0.51,22L7bfCiAkJo5xGSQgmiIO
+25,this kiss,faith hill,1998,103,291,True,0.453,0.045,0.9996,0.646,038jgLNIvp7QQNf5vILf5d
+26,i dont ever want to see you again,uncle sam,1998,161,541,False,0.285,0.069,0.9995,0.702,4oJEy4qDPwDk5ac26yEMeL
+23,i dont want to miss a thing,aerosmith,1998,92,349,True,0.116,0.119,0.8776,0.736,225xvV8r1yKMHErSWivnow
+28,sex and candy,marcy playground,1998,58,185,True,0.338,0,0.9963,0.686,5mkGfmJGFZpwK9nA5amOhv
+31,what you want,mase featuring total,1998,208,804,True,0.102,0.028,0.9922,0.741,1GwMQaZz6Au3QLDbjbMdme
+35,tubthumping,chumbawamba,1998,49,340,False,0.1,0.042,0.9567,0.856,5YScXJKtefsgdskIy60N7A
+27,lets ride,montell jordan featuring master p and silkk the shocker,1998,225,517,True,0.175,0.031,0.9975,0.565,4UZlEcQmkAeh4mYokk8TNs
+33,gone till november,wyclef jean,1998,136,476,False,0.048,0.287,-0.9994,0.714,6Gd123r71KDdpH8JRdYvrh
+30,a song for mama,boyz ii men,1998,124,359,False,0.197,0.054,0.9952,0.655,6FuJokk9FHx0E00SZ8ib8X
+32,frozen,madonna,1998,75,208,True,0.023,0.138,-0.9805,0.639,0qcr5FMsEO85NAQjrlDRKo
+36,deja vu uptown baby,lord tariq and peter gunz,1998,335,684,True,0.177,0.137,0.9886,0.51,33i1NxhGadaXhPgJaiD6ad
+34,my body,lsg,1998,128,579,True,0.105,0.022,0.9918,0.779,1KDYN3odJHnj9pqGHN3FVs
+40,make em say uhh,master p featuring fiend silkk the shocker mia x and mystikal,1998,382,940,True,0.08,0.212,-0.9988,0.594,28JpsyZlA4ochxwxMMJGWt
+39,they dont know,jon b,1998,103,284,True,0.152,0.052,0.9854,0.637,4T5Z4mbTe7kuGqgLpaRtTh
+38,when the lights go out,five,1998,149,482,True,0.098,0.109,-0.7706,0.691,4a8lx8cdmLa5atKjUpDvVV
+37,i want you back,n sync,1998,82,252,True,0.139,0.028,0.9414,0.675,4CbUtLtAcgLJ7mAIeooJS8
+41,make it hot,nicole featuring missy elliott and mocha,1998,169,462,True,0.187,0.077,0.9936,0.634,74nsOZqzZzyvFVvBy12I7Y
+42,never ever,all saints,1998,158,807,True,0.107,0.18,-0.9981,0.804,7cEZShpmZ7dencnV8ibyUS
+43,i get lonely,janet jackson featuring blackstreet,1998,89,427,False,0.131,0.186,-0.9893,0.792,5xLDmkobOw674TLTBBmnuN
+46,kiss the rain,billie myers,1998,107,271,True,0.14,0.043,0.984,0.605,31qNACH7nd93EmGfMD3BZh
+44,feel so good,mase featuring kelly price,1998,264,661,True,0.109,0.175,-0.9955,0.601,7hfRrdFJgFKK3cJ4rmkecE
+45,say it,voices of theory,1998,79,391,True,0.209,0.005,0.9979,0.798,2Gyc6e2cLxA5hoX1NOvYnU
+47,come with me,puff daddy featuring jimmy page,1998,,,,,,,,2kWowW0k4oFymhkr7LmvzO
+48,romeo and juliet,sylke fyne featuring chill,1998,,,,,,,,6jT3etAOkvMUw0zsEw5QnR
+50,i will come to you,hanson,1998,87,324,True,0.042,0.145,-0.9777,0.731,6ZIuoDs3i1KjKurJf9miSs
+49,its all about me,m'ya and sisqo,1998,92,420,True,0.062,0.053,0.4486,0.781,4Wtk0YYWUcx1JYicaq5Jd0
+29,show me love,robyn,1998,93,353,True,0.27,0.041,0.9986,0.737,6AAShoDuz7fpM912cmuY4r
+52,swing my way,k p  envyi,1998,,,,,,,,35KcXRWo7BTYdJiyMOy2Zu
+51,one week,barenaked ladies,1998,242,582,True,0.13,0.137,-0.107,0.584,29hBRadFZf9QTGRHZmxm65
+53,the arms of the one who loves you,xscape,1998,95,340,True,0.222,0.054,0.9967,0.721,6Zyk31Yyk7AUU1TTJn7plb
+55,daydreamin,tatyana ali,1998,193,369,False,0.115,0.029,0.9868,0.477,50M2QjfSM82wkJ1d0iV4mh
+12,no no no,destinys child,1998,168,597,True,0.289,0.275,0.9816,0.719,04MLEeAMuV9IlHEsD8vF6A
+54,my love is the shhh,somethin for the people featuring trina  tamara,1998,113,465,True,0.315,0.174,0.9988,0.757,3TS25nchaYIPb2Y2fw6cbb
+60,looking through your eyes,leann rimes,1998,98,249,True,0.16,0.012,0.9875,0.606,5es9FeUsKa8P8bB5iuN2co
+59,lookin at me,mase featuring puff daddy,1998,254,713,True,0.063,0.068,0.0374,0.644,2dieHErJLwG7fOzD8WAtFO
+57,semicharmed life,third eye blind,1998,191,472,False,0.089,0.054,0.2846,0.595,2UjFkoQt8xphw7gKY771jA
+56,were not making love no more,dru hill,1998,112,180,True,0.192,0.132,0.947,0.378,0fW2lTbzO1dcd2uahQUtwV
+66,cruel summer,ace of base,1998,81,300,True,0.035,0.489,-0.9998,0.73,0wnJdLDUi9fkDl5nxhDlqO
+62,quit playing games with my heart,backstreet boys,1998,86,313,False,0.112,0.083,0.8763,0.725,1nRwyxNsqCLeA17qR8Nfxx
+67,i got the hook up,master p featuring sons of funk,1998,174,747,True,0.081,0.072,0.8892,0.767,3qEEoMccf3U90pM47dbQtX
+65,are you jimmy ray,jimmy ray,1998,84,367,True,0.089,0.037,0.9229,0.771,6VWFrHAnLDyNUEJbJvpkZA
+69,too much,spice girls,1998,117,367,True,0.086,0.121,-0.9512,0.681,5oyUurs28XRagLa8lgm6V3
+61,lately,divine,1998,98,253,True,0.146,0.086,0.9461,0.613,5GsDw8rD0LJ9XF4dEzUPDK
+71,how deep is your love,dru hill featuring redman,1998,109,679,True,0.263,0.041,0.9996,0.839,22mek4IiqubGD9ctzxc69s
+58,i do,lisa loeb,1998,86,255,True,0.055,0.152,-0.9807,0.663,5de9Ho64dovuQI8Uhn5gPD
+63,i still love you,next,1998,113,460,True,0.122,0.161,-0.9801,0.754,7neOIVKDsLaUXV5y84jGuY
+70,ghetto supastar that is what you are,pras michel featuring ol dirty bastard and m'ya,1998,295,529,True,0.114,0.115,-0.3457,0.442,31bf9SEOppLU6lQ85d8om6
+68,victory,puff daddy featuring the notorious big and busta rhymes,1998,412,900,False,0.081,0.225,-0.9995,0.542,1KSqYYJFyfTecXFk9M0prc
+72,friend of mine,kelly price featuring r kelly and ron isley,1998,75,302,True,0.146,0.247,-0.9902,0.752,4QK4pMWEwlXxwg1zp08xpl
+64,time after time,inoj,1998,82,244,True,0.013,0.097,-0.9499,0.664,1Jj6MF0xDOMA3Ut2Z368Bx
+74,ill be,edwin mccain,1998,90,238,True,0.257,0.22,0.9468,0.622,5SLRJa1DnCSY0M5w6cj9a1
+49,blue da ba dee,eiffel 65,2000,74,424,True,0.012,0,0.6124,0.825,2yAVzRiEQooPEJ9SYx11L3
+10,independent women,destinys child,2001,151,567,False,0.125,0.037,0.9934,0.734,69XUpOpjzDKcfdxqZebGiI
+13,stutter,joe featuring mystikal,2001,109,251,True,0.114,0.209,-0.9696,0.566,7jgBTiVeF54ccOHGTBkibB
+9,again,lenny kravitz,2001,76,296,True,0.106,0.181,-0.9594,0.743,3sA7HKGzcKTVscdiTCrWpX
+11,hit em up style oops,blu cantrell,2001,155,496,False,0.108,0.068,0.9744,0.688,4zYTZvtcww7OWKie7fxA9E
+12,it wasnt me,shaggy featuring rikrok,2001,183,559,True,0.036,0.069,-0.9584,0.673,0OaunKfsxkgBvPv68jBbmm
+14,its been awhile,staind,2001,96,261,True,0.146,0.037,0.9849,0.632,25CMmGsl22APKhfuj4Tp7j
+15,u remind me,usher,2001,106,293,True,0.063,0.059,0.3141,0.638,2QsZVnbWVSjKMXK6K3uRBL
+19,follow me,uncle kracker,2001,86,343,True,0.214,0.079,0.9927,0.749,4KoecuyOpZaNFZ0UqVsllc
+17,angel,shaggy,2001,121,428,True,0.22,0.044,0.9984,0.717,0v2LUO8oTHnkjQ8MmKuXyk
+16,where the party at,jagged edge featuring nelly,2001,215,643,True,0.122,0.045,0.9925,0.666,5mNV8Mz59bzyuQ53gTw0c0
+18,ride wit me,nelly featuring city spud,2001,283,898,False,0.088,0.099,-0.9795,0.685,06iMqWThw4w8fTFyccvOwr
+20,peaches  cream,112,2001,129,563,False,0.102,0.042,0.9878,0.771,2SLZ2rX5773RS16mcqBxG7
+24,lady marmalade,christina aguilera lil kim m'ya and pink,2001,,,,,,,,7GQqj9jRtDkMp8zByehXQI
+21,drive,incubus,2001,81,183,True,0.02,0.237,-0.9926,0.557,1DMEzmAoQIikcL52psptQL
+22,what would you do,city high,2001,172,598,True,0.048,0.097,-0.9849,0.712,1tJkic0TURTCXw3rBhYgWu
+23,survivor,destinys child,2001,128,637,True,0.232,0.076,0.9989,0.799,2Mpj1Ul5OFPyyP4wB62Rvi
+25,ms jackson,outkast,2001,265,698,True,0.127,0.151,-0.976,0.62,0I3q5fE6wg7LIfHGngUTnV
+33,south side,moby featuring gwen stefani,2001,73,187,True,0.165,0.024,0.9802,0.61,5ifixZpz6rilPfj0kO4RQf
+28,he loves u not,dream,2001,133,442,True,0.298,0.005,0.9995,0.699,0ainPEu96ZusWisaFmIoeU
+29,butterfly,crazy town,2001,204,575,True,0.147,0.121,0.976,0.645,2cYqizR4lgvp4Qu6IQ3qGN
+26,love dont cost a thing,jennifer lopez,2001,161,604,True,0.154,0.088,0.9954,0.733,1fgvJXlcZ7uIddMpqsqw0L
+31,family affair,mary j blige,2001,145,413,False,0.153,0.045,0.993,0.649,3aw9iWUQ3VrPQltgwvN9Xu
+30,put it on me,ja rule featuring lil mo and vita,2001,198,683,True,0.121,0.204,-0.9966,0.71,0OvwzS8FX73Bw7ykMRmffU
+32,i hope you dance,lee ann womack,2001,118,276,True,0.292,0.068,0.9977,0.572,65B1tEOv5W294uCKbmEcFV
+27,the way you love me,faith hill,2001,67,274,True,0.353,0.019,0.9991,0.755,4SEgyVuHzincvWDvypjasT
+35,get ur freak on,missy elliott,2001,151,531,True,0.041,0.231,-0.9988,0.716,6zsk6uF3MxfIeHPlubKBvR
+34,dont tell me,madonna,2001,73,246,True,0.105,0.184,-0.9522,0.703,6vzR3sLeGKyEILZq5Top3r
+37,fill me in,craig david,2001,200,465,True,0.079,0.022,0.9801,0.57,4mIgMODzoKcvBnHeehLctZ
+39,with arms wide open,creed,2001,90,221,True,0.183,0.126,0.9431,0.593,0eKyHwckh9vQb8ncZ2DXCs
+36,crazy,kci  jojo,2001,,,,,,,,2rxQMGVafnNaRaXlRMWPde
+38,someone to call my lover,janet,2001,172,702,True,0.278,0.108,0.9993,0.755,3cNtjgYi1Z6zR35fOiNtuZ
+42,bootylicious,destinys child,2001,148,551,True,0.035,0.135,-0.9923,0.731,31CsLSgn0HdZEVC8Bnnmvr
+43,im like a bird,nelly furtado,2001,84,477,True,0.185,0.083,0.9956,0.824,2tP7ZekzXfduShx8C6cbll
+41,all or nothing,otown,2001,123,381,True,0.127,0.05,0.9837,0.677,7LP4Es66zdY7CyjepqmvAg
+8,thank you,dido,2001,104,238,True,0.228,0.07,0.9945,0.563,4ut9fdC5ncgcvCo0KaphNY
+44,kryptonite,3 doors down,2001,100,271,True,0.145,0.117,0.6808,0.631,6ZOBP3NvffbU4SZcrnt1k6
+46,when its over,sugar ray,2001,69,395,True,0.074,0.011,0.9753,0.825,3Wn52FjoUJClQOXwKePPp3
+47,jaded,aerosmith,2001,,,,,,,,4c2xt1trwYZpMqPWY35Xi9
+48,promise,jagged edge,2001,118,451,True,0.32,0.039,0.9992,0.738,7lRlq939cDG4SzWOF4VAnd
+50,differences,ginuwine,2001,140,645,False,0.304,0.079,0.9997,0.783,0Uyh92tLyb9JawG8lmWCzJ
+49,missing you,case,2001,96,296,True,0.229,0.07,0.9932,0.676,7Iu1U5AFLygCvCHMiRz2dE
+52,izzo hova,jayz,2001,214,596,False,0.112,0.096,0.8807,0.641,39sUeHQoIGY6BEIcgTMRXW
+51,this i promise you,n sync,2001,96,272,True,0.235,0.064,0.9941,0.647,46n2EGFnPC3tzWCN1Aqe26
+54,crazy for this girl,evan and jaron,2001,80,148,True,0.039,0.087,-0.7495,0.459,2gdt70w8DOCWGq1HdkgSUd
+55,nobody wants to be lonely,ricky martin and christina aguilera,2001,99,363,True,0.113,0.228,-0.9934,0.727,45cVyfWuMAg8RNxmkcpmy9
+57,one minute man,missy elliott featuring ludacris,2001,153,504,True,0.103,0.116,-0.5499,0.696,0jG92AlXau21qgCQRxGLic
+58,danger been so long,mystikal featuring nivea,2001,198,556,False,0.107,0.155,-0.9912,0.644,0e42i89bY2NmPuVDtey8pg
+56,i just wanna love u give it 2 me,jayz,2001,228,660,False,0.212,0.125,0.9971,0.655,449uOmbsC2dYlvbwKrUMei
+45,fiesta,r kelly featuring jayz,2001,272,644,True,0.211,0.093,0.9984,0.578,3UizT8ymYQqyFar48nWDPO
+59,only time,enya,2001,40,114,True,0.157,0.041,0.9552,0.649,6FLwmdmW77N1Pxb1aWsZmO
+64,heard it all before,sunshine anderson,2001,185,624,True,0.071,0.207,-0.9983,0.704,0xikWgPgYN9BEes0ieZ8Co
+63,irresistible,jessica simpson,2001,100,262,True,0.198,0.068,0.9912,0.618,3znPiywA0q1VK2jgAZFDoI
+65,the space between,dave matthews band,2001,137,280,True,0.166,0.201,-0.8937,0.511,6RD9GItAGZ3gbUbx14okHF
+62,stranger in my house,tamia,2001,120,456,True,0.132,0.123,0.942,0.737,08GOEVXupC6ECbulhPGQKm
+66,there youll be,faith hill,2001,85,264,True,0.119,0.07,0.9118,0.678,1yTQ39my3MoNROlFw3RDNy
+61,never had a dream come true,s club 7,2001,106,341,True,0.08,0.144,-0.9431,0.689,1rzssdgfZiGs7VAMsYN9SF
+69,no more baby ima do right,3lw,2001,165,401,True,0.153,0.093,0.9831,0.589,5zn1hpm9N0ylKB7kOtpCw2
+60,i do,toya,2001,158,623,True,0.023,0.068,-0.9784,0.746,5de9Ho64dovuQI8Uhn5gPD
+73,im already there,lonestar,2001,122,266,True,0.172,0.073,0.9867,0.541,34Vn9nKfztyLco9lJazy4j
+70,turn off the light,nelly furtado,2001,132,517,True,0.084,0.04,0.9737,0.745,5FN3Dh76G155e72RQjLkUZ
+71,aint nothing bout you,brooks  dunn,2001,99,325,True,0.209,0.047,0.9969,0.695,6CkydK3NOAMScIhViRzXoB
+68,its over now,112,2001,129,449,True,0.09,0.133,-0.9546,0.713,1Ho9GnoEXLcl60ZmdOfxzQ
+72,play,jennifer lopez,2001,104,444,True,0.226,0.015,0.9979,0.766,03fT3OHB9KyMtGMt2zwqCT
+76,austin,blake shelton,2001,146,280,True,0.092,0.042,0.9636,0.479,0LpiKjWMfZTkPPHonlM8nB
+75,beautiful day,u2,2001,131,264,True,0.168,0.05,0.9888,0.504,1VuBmEauSZywQVtqbxNqka
+77,southern hospitality,ludacris,2001,229,677,True,0.092,0.123,-0.9634,0.662,4cNhx6OO1XpvwT6xZnb83B
+79,livin it up,ja rule featuring case,2001,235,722,True,0.1,0.157,-0.9923,0.675,4pFNWAU8e8F32NQkMyLAZi
+67,love,musiq soulchild,2001,122,332,True,0.31,0.159,0.9981,0.633,4S8d14HvHb70ImctNgVzQQ
+74,my baby,lil romeo,2001,210,570,True,0.119,0.008,0.993,0.632,6VnqGxiMNexOe0kRmIsBw4
+81,contagious,the isley brothers featuring r kelly and chante moore,2001,230,596,True,0.092,0.151,-0.9887,0.614,1N3OTRDeaeTcybizwQ6vB3
+78,grown men dont cry,tim mcgraw,2001,140,298,True,0.196,0.031,0.9951,0.53,4RtDZMumlKxsN7IL3AJPUx
+85,dont happen twice,kenny chesney,2001,77,211,True,0.16,0.017,0.9857,0.635,04ccQGJ1i8gL7JoeCPiJbv
+80,loverboy,mariah carey featuring cameo,2001,249,747,True,0.193,0.113,0.9969,0.667,35k31HZI4z9PbBOioaI4dZ
+82,who i am,jessica andrews,2001,90,312,True,0.153,0.106,0.9644,0.712,4O1uCappFiU3bisYUdUBWy
+86,one more day,diamond rio,2001,68,141,True,0.157,0.029,0.9565,0.518,5mcWdITson4DJcYtH5xo0f
+84,i wanna be bad,willa ford,2001,84,342,True,0.096,0.257,-0.9967,0.754,6f67kjvFmXZTA47K8JNVBU
+88,its a great day to be alive,travis tritt,2001,139,310,True,0.218,0.085,0.995,0.552,3oW6SWwGqiZSPTiAp7ZQoH
+89,im a thug,trick daddy,2001,197,630,True,0.051,0.164,-0.998,0.687,6j2aNuhJJUnRj6UHcvn5PI
+90,heres to the night,eve 6,2001,77,181,True,0.086,0.123,-0.7554,0.575,4tgeQrPu5xkrnwErym2JsJ
+92,get over yourself,edens crush,2001,119,456,True,0.168,0.074,0.9936,0.739,0sr84SDJ9VN4EB7p2mWGur
+2,foolish,ashanti,2002,131,478,False,0.151,0.09,0.9866,0.726,6zMUIb4uce1CzpbjR3vMdN
+96,be like that,3 doors down,2001,108,301,True,0.164,0.02,0.9893,0.641,3PbHle8KhJp6GuO1jLdEmQ
+91,you shouldnt kiss me like this,toby keith,2001,107,243,True,0.171,0.116,0.9338,0.56,5ueUywJbmAZY2MF9hdJS2y
+1,how you remind me,nickelback,2002,95,364,True,0.122,0.216,-0.986,0.739,0gmbgwZ8iqyMPmXefof8Yf
+87,i wish,r kelly,2001,247,848,True,0.199,0.113,0.9969,0.709,2EWpa5XnAuSn0sIkSSIhYk
+94,so fresh so clean,outkast,2001,210,763,True,0.486,0.038,1,0.725,6glsMWIMIxQ4BedzLqGVi4
+100,hemorrhage in my hands,fuel,2001,80,203,False,0.155,0.12,0.9686,0.606,3E8eSqBoqLs8ELbrK3NJHs
+97,most girls,pink,2001,107,489,True,0.135,0.058,0.9947,0.781,10GJQkjRJcZhGTLagFOC62
+98,oochie wally,nas and bravehearts,2001,334,904,True,0.093,0.133,-0.9961,0.631,0LAlDN9m1VodUMl6Ww1cm1
+99,hero,enrique iglesias,2001,79,232,True,0.189,0.141,0.9208,0.659,4CbKVDZkYKdv69I4bCaKUq
+93,dance with me,debelah morgan,2001,93,325,True,0.141,0.045,0.9896,0.714,2tUBqZG2AbRi7Q0BIrVrEj
+5,wherever you will go,the calling,2002,96,236,True,0.084,0.152,-0.9169,0.593,5QpaGzWp0hwB5faV8dkbAz
+7,in the end,linkin park,2002,149,410,True,0.066,0.1,-0.5416,0.637,7uVkYr8gxcPEgqohvynpdN
+6,a thousand miles,vanessa carlton,2002,79,263,True,0.026,0.062,-0.6942,0.7,4w1lzcaoZ1IC2K5TwjalRP
+3,hot in herre,nelly,2002,210,684,False,0.095,0.043,0.9848,0.693,04KTF78FFg8sOHC1BADqbY
+4,dilemma,nelly featuring kelly rowland,2002,175,692,False,0.121,0.073,0.9812,0.747,0ARK753YaiJbpLUk7z5yIM
+95,ei,nelly,2001,282,615,True,0.069,0.084,-0.9143,0.541,5tz69p7tJuGPeMGwNTxYuV
+83,music,erick sermon featuring marvin gaye,2001,165,446,True,0.209,0.083,0.9961,0.63,2SL6oP2YAEQbqsrkOzRGO4
+53,hey ma,camron featuring juelz santana and freekey zekey,2002,209,547,True,0.126,0.04,0.9854,0.618,22oEJW6r2rMb9z4IntfyEa
+19,drift away,uncle kracker featuring dobie gray,2003,96,333,True,0.121,0.091,0.9292,0.712,0RFgvrhkf9FiDRLA0BhzpZ
+21,pimp,50 cent,2003,233,790,True,0.068,0.257,-0.9996,0.705,0N3W5peJUQtI4eyR6GJT5O
+22,bump bump bump,b2k and p diddy,2003,204,643,True,0.117,0.049,0.9918,0.683,74jMwg2zsFMICzW3Wems6h
+18,im with you,avril lavigne,2003,85,245,True,0.096,0.097,0.3946,0.653,6Qwuw0eOeszVlewLpu24gR
+16,beautiful,christina aguilera,2003,91,234,True,0.205,0.133,0.9725,0.611,4VUwkH455At9kENOfzTqmF
+17,i know what you want,busta rhymes and mariah carey featuring flipmode squad,2003,39,352,True,0.086,0.112,-0.9393,0.889,0YImOCkIJ2PWhCXaURCZnY
+25,mesmerize,ja rule featuring ashanti,2003,157,412,False,0.292,0.046,0.9991,0.619,2iclfHORMqpR3TxuhwVRhD
+20,magic stick,lil kim featuring 50 cent,2003,215,573,True,0.033,0.075,-0.9698,0.625,0aULRU35N9kTj6O1xMULRR
+23,into you,fabolous featuring tamia,2003,250,613,True,0.196,0.062,0.9985,0.592,2meEiZKWkiN28gITzFwQo5
+24,cant let you go,fabolous featuring lil mo and mike shorey,2003,244,643,False,0.109,0.129,-0.9854,0.621,6lrRIfQDcikJ5y5DtyZPuJ
+28,lose yourself,eminem,2003,337,822,True,0.141,0.121,0.973,0.59,5Z01UMMf7V1o0MzF86s6WJ
+29,rock wit u awww baby,ashanti,2003,97,525,False,0.261,0.019,0.9992,0.815,6pWzCKTrKrwbUPzY8RLCoP
+27,the game of love,santana featuring michelle branch,2003,94,290,True,0.197,0.058,0.9929,0.676,3ctALmweZBapfBdFiIVpji
+30,cry me a river,justin timberlake,2003,140,494,True,0.087,0.256,-0.9987,0.717,7Lf7oSEVdzZqTA0kEDSlS5
+26,where is the love,the black eyed peas,2003,250,655,True,0.317,0.112,0.9997,0.618,3CNqo3gYrfexdrtjFmC9he
+31,how you gonna act like that,tyrese,2003,180,673,True,0.121,0.14,-0.9633,0.733,3OUApyz3jDB3syGUNGqB1d
+34,frontin,pharrell featuring jayz,2003,149,446,True,0.188,0.101,0.9936,0.666,0iFOG4Ki9aDmJUYUFHQlPG
+33,no letting go,wayne wonder,2003,77,240,True,0.261,0.131,0.9926,0.679,5dWfl2PBpKHpBVdz95wxK1
+15,all i have,jennifer lopez featuring ll cool j,2003,201,685,True,0.147,0.153,0.3677,0.707,4mnoPyJHlmMYPJsib5tfn0
+35,landslide,dixie chicks,2003,81,175,True,0.157,0,0.9796,0.537,5ihS6UUlyQAfmp48eSkxuQ
+36,work it,missy elliott,2003,267,779,True,0.101,0.052,0.9871,0.657,3BUWNzPWz2mDbptZmGEXpB
+39,so gone,monica,2003,127,410,True,0.26,0.018,0.9989,0.69,3fyMH1t6UPeR5croea9PrR
+37,03 bonnie  clyde,jayz featuring beyonce,2003,,,,,,,,3B9Py8YkCax0UnGCTQX9s2
+40,air force ones,nelly featuring st lunatics,2003,330,1042,True,0.076,0.051,0.9846,0.683,7kAFSrTIOiVZ0gnHBuAH3l
+41,never leave you uh oooh uh oooh,lumidee,2003,216,518,False,0.145,0.043,0.9929,0.583,1AjQE5MtP5jHQMyDepbvLI
+43,gossip folks,missy elliott featuring ludacris,2003,366,743,False,0.047,0.158,-0.9979,0.507,75DjPjiIp2fvJDjtt41Jfs
+44,miss independent,kelly clarkson,2003,129,291,True,0.209,0.157,0.9896,0.557,34ceTg8ChN5HjrqiIYCn9Q
+46,damn,youngbloodz featuring lil jon,2003,283,881,True,0.244,0.125,0.9991,0.679,7KXjTSCq5nL1LoYtL7XAwS
+42,beautiful,snoop dogg featuring pharrell and charlie wilson,2003,201,677,True,0.218,0.035,0.9988,0.703,4VUwkH455At9kENOfzTqmF
+49,headstrong,trapt,2003,88,344,True,0.073,0.115,-0.959,0.744,1AEYT6VxrxXPMoQUxsY0E4
+50,in those jeans,ginuwine,2003,126,515,True,0.239,0.033,0.9989,0.755,5ojJNnX5ND2gMGojPd3NiO
+51,stand up,ludacris featuring shawnna,2003,220,621,True,0.173,0.092,0.9863,0.646,2CtCwQhY0ZLvr8L2l8Bo6e
+48,your body is a wonderland,john mayer,2003,107,225,True,0.08,0.094,-0.485,0.524,7vFv0yFGMJW3qVXbAd9BK9
+52,the remedy i wont worry,jason mraz,2003,155,415,False,0.13,0.119,0.1729,0.627,4tK4ARuilOrBzwVQK73E0Y
+47,this is the night,clay aiken,2003,91,205,True,0.179,0,0.9907,0.556,3SUusuA9jH1v6PVwtYMbdv
+54,excuse me miss,jayz,2003,259,681,True,0.077,0.064,-0.1883,0.62,1zpu1PZ8ecmcX525Z3X8cl
+55,jenny from the block,jennifer lopez featuring jadakiss and styles p,2003,166,672,True,0.055,0.132,-0.9941,0.753,4ZOyH6KjomjlqCz3oFqglr
+53,why dont you  i,santana featuring alex band,2003,,,,,,,,3H2OWez1soN1GT4me4j53A
+61,thoia thoing,r kelly,2003,177,557,True,0.059,0.031,0.9559,0.682,5uj2AfrbHQREGXVxhqhvyU
+59,underneath it all,no doubt featuring lady saw,2003,131,299,True,0.338,0.054,0.9991,0.562,4Ctmbw1hJks6cPrr6x8FbC
+56,are you happy now,michelle branch,2003,82,159,True,0.186,0.079,0.9625,0.484,3zLj05WcNEHrGjj70OcTug
+57,forever and for always,shania twain,2003,89,340,True,0.155,0.021,0.9911,0.738,3IvywxLUIb30oVLH8DWfh6
+45,calling all angels,train,2003,109,312,True,0.106,0.037,0.9574,0.651,0E29BKKGCJHcb7b9oIWgGB
+38,dont mess with my man,nivea featuring jagged edge,2003,124,572,True,0.021,0.159,-0.9967,0.783,39YovPslPCXbFYhlYjsZ2Y
+62,here without you,3 doors down,2003,95,248,True,0.126,0.066,0.9645,0.617,3NLrRZoMF0Lx6zTlYqeIo4
+60,if youre not the one,daniel bedingfield,2003,118,368,True,0.166,0.04,0.9932,0.679,4gJoAvFpDvaeqm2EKYGmhb
+63,wanksta,50 cent,2003,227,655,True,0.077,0.082,-0.7684,0.653,6rpNe6gSkmiYW6BfSFATi5
+65,its five oclock somewhere,alan jackson featuring jimmy buffett,2003,166,368,True,0.118,0.128,-0.4497,0.549,5oHHMDcVOmPSFrCgdbHPdb
+67,cant hold us down,christina aguilera featuring lil kim,2003,233,724,True,0.063,0.064,0.5219,0.678,0cv1Mnb47oMvjVKMc2cyZw
+66,like glue,sean paul,2003,205,806,True,0.113,0.089,0.9133,0.746,0JcKdUGNR7zI4jJDLyYXbi
+68,my front porch looking in,lonestar,2003,130,362,True,0.225,0.047,0.9972,0.641,2CVJECHIdpe8otFH0XFI4F
+58,i can,nas,2003,278,766,True,0.107,0.144,-0.9742,0.637,0VhgEqMTNZwYL1ARDLLNCX
+70,she hates me,puddle of mudd,2003,99,270,False,0.231,0.145,0.9873,0.633,1uwTmwkjv7wFImfzegvdI6
+71,dont wanna try,frankie j,2003,183,423,True,0.138,0.076,0.9565,0.567,5eLpZ8zv4yncE0RFZlRpD2
+69,angel,amanda perez,2003,115,370,True,0.217,0.136,0.9922,0.689,0v2LUO8oTHnkjQ8MmKuXyk
+72,the jump off,lil kim featuring mr cheeks,2003,279,647,True,0.09,0.06,0.9748,0.569,6UZS3KgNc0NF13bbtQTzD6
+73,intuition,jewel,2003,104,321,True,0.156,0.032,0.9911,0.676,08uGhvS5MfBk7crUCpnjva
+74,hell yeah,ginuwine featuring baby,2003,192,675,True,0.224,0.158,0.9902,0.716,2qABxQZhfAthNxszLiSsUw
+77,suga suga,baby bash featuring frankie j,2003,152,552,True,0.122,0.025,0.9928,0.725,6Nq5lE0CeOAAAqN4qhkbZU
+76,holidae in,chingy featuring ludacris and snoop dogg,2003,338,680,False,0.106,0.108,-0.5992,0.503,0FmCLEHfINGqwlyzvklNqy
+79,fighter,christina aguilera,2003,173,517,True,0.211,0.131,0.9944,0.665,5OUSPcqhYTOzpbXzoEvKim
+81,clocks,coldplay,2003,102,193,True,0.06,0.057,-0.12,0.472,2fXwCWkh6YG5zU1IyvQrbs
+75,beer for my horses,toby keith featuring willie nelson,2003,129,331,True,0.09,0.136,-0.9682,0.61,7E2DqvnVtbIrFrL5X6YH9Q
+80,thugz mansion,2pac,2003,292,721,False,0.188,0.149,0.9915,0.595,3eBBbAEBQdr6tkUUd8gyuQ
+82,put that woman first,jaheim,2003,147,511,True,0.167,0.1,0.9921,0.712,3OQu3z3okKVmWxSXTTHak5
+84,19 somethin,mark wills,2003,138,281,False,0.04,0.04,0.2382,0.509,0ElpjZyX8YBiXuYcDC1Ci9
+85,cant stop wont stop,young gunz,2003,275,807,True,0.141,0.074,0.9971,0.659,3skPCcteHhoPV6GkzxVl2p
+83,rain on me,ashanti,2003,122,452,True,0.038,0.17,-0.996,0.73,52LjL3x9tNh6C4eI6SMceX
+87,what was i thinkin,dierks bentley,2003,162,419,True,0.1,0.06,0.9263,0.613,0r8iDf65NHgFgZOGLwj5r8
+86,red dirt road,brooks  dunn,2003,122,334,True,0.078,0.068,0.8116,0.635,5QHElgktygMkgRdpPhXfn2
+88,flying without wings,ruben studdard,2003,120,228,True,0.159,0.02,0.9878,0.474,30ngg6jCMqOBcvj5fLgfBe
+90,have you forgotten,darryl worley,2003,139,325,True,0.072,0.185,-0.9912,0.572,5JWuz7zukN8z9JLNm29U5K
+92,come over,aaliyah,2003,97,393,True,0.076,0.07,0.5282,0.753,0S0vWvyZ6Rc79TXkWxT9QA
+91,no shoes no shirt no problems,kenny chesney,2003,73,155,True,0.052,0.282,-0.978,0.529,208bYsadJ56km31IENM2qS
+98,superman,eminem,2003,282,936,True,0.189,0.138,0.9924,0.699,4woTEX1wYOTGDqNXuavlRC
+96,like a stone,audioslave,2003,98,221,True,0.139,0.174,-0.8934,0.557,3YuaBvuZqcwN3CEAyyoaei
+95,i want you,thal'ia featuring fat joe,2003,141,455,True,0.141,0.048,0.9762,0.69,0bYg9bo50gSsH3LtXe2SQn
+97,dont know why,norah jones,2003,66,138,True,0.058,0.087,-0.5789,0.522,6ybViy2qrO9sIi41EgRJgx
+89,sing for the moment,eminem,2003,352,835,False,0.086,0.178,-0.9984,0.578,3CpoeW0cZSDzIRv5z34F87
+93,sick of being lonely,field mob,2003,181,505,True,0.198,0.152,0.9877,0.642,0Nv2fnDgOR1ld5SN670Jst
+94,step in the name of love,r kelly,2003,178,652,True,0.357,0.02,0.9999,0.727,7lrAsaTw9CTh5uSr0fvHOd
+99,real good man,tim mcgraw,2003,107,200,True,0.224,0.143,0.9466,0.465,4ns2xaym21aBOOUN1vaBPJ
+1,yeah,usher featuring lil jon and ludacris,2004,201,597,True,0.288,0.042,0.9992,0.663,5rb9QrpfcKFHM1EUbSIurX
+3,if i aint got you,alicia keys,2004,90,251,True,0.204,0.026,0.9901,0.641,3XVBdLihbNbxUwZosxcGuJ
+6,the reason,hoobastank,2004,75,222,True,0.04,0.091,-0.9108,0.662,69vToJ9BMbbLlFZo7k7A7B
+5,the way you move,outkast featuring sleepy brown,2004,196,543,True,0.347,0.047,0.9997,0.639,5z7mYFfhw6N6f23VwrokJD
+7,i dont wanna know,mario winans featuring enya and p diddy,2004,151,412,True,0.084,0.05,0.9322,0.633,2yr2HnFYl7XvqJk4fXoQBt
+4,this love,maroon 5,2004,115,302,True,0.181,0.089,0.9897,0.619,6ECp64rv50XVz93WvxXMGF
+8,hey ya,outkast,2004,91,167,True,0.144,0.034,0.9625,0.455,2PpruBYCo4H7WOBJ7Q2EwM
+2,burn,usher,2004,166,590,True,0.054,0.107,-0.9895,0.719,0j7pdNXDzEVQST5Zcoh5xo
+9,goodies,ciara featuring petey pablo,2004,192,535,True,0.094,0.104,-0.9299,0.641,7uKcScNXuO3MWw6LowBjW1
+11,tipsy,jkwon,2004,204,568,True,0.091,0.043,0.9787,0.641,2lVDc57IMK6nypg2iuEWVR
+12,confessions part ii,usher,2004,245,836,False,0.044,0.102,-0.9915,0.707,7wBThXx7BGZHJJ3aN3OPvv
+10,lean back,terror squad,2004,193,394,True,0.055,0.091,-0.9111,0.51,2Ozc0me9PV5vlt8cokwdvI
+16,slow jamz,twista featuring kanye west and jamie foxx,2004,243,775,False,0.217,0.024,0.999,0.686,32UioUCnMFsr2UN7SvDyXj
+17,someday,nickelback,2004,95,317,True,0.147,0.049,0.9833,0.7,7hm4HTk9encxT0LYC0J6oI
+100,say yes,floetry,2003,76,323,True,0.089,0,0.9744,0.765,2fE4MbwX3QGMzNaMjGVhtw
+13,slow motion,juvenile featuring soulja slim,2004,235,817,True,0.126,0.106,0.8667,0.712,4NYwy0R3NdvORX2B6OZXBT
+19,my immortal,evanescence,2004,94,239,False,0.097,0.193,-0.961,0.607,4UzVcXufOhGUwF56HT7b8M
+22,move ya body,nina sky,2004,15,37,False,0,0,0,0.595,2ndnVdR8si7CW9T8vJRHyW
+21,dirt off your shoulder,jayz,2004,218,648,True,0.119,0.146,-0.9626,0.664,7dvd3b2oz7AFgXrPBIIYxR
+20,sunshine,lil flip featuring lea,2004,185,617,True,0.183,0.044,0.9985,0.7,05wIrZSwuaVWhcv5FfqeH0
+23,dip it low,christina milian,2004,114,467,True,0.075,0.087,-0.8873,0.756,4L55p6txv9vuCWhpNnY6eY
+24,my boo,usher and alicia keys,2004,118,502,True,0.097,0.049,0.9788,0.765,68vgtRHr7iZHpzGpon6Jlo
+25,one call away,chingy featuring jweav,2004,237,993,True,0.083,0.026,0.9946,0.761,7soJgKhQTO8hLP2JPRkL5O
+26,me myself and i,beyonce,2004,155,644,True,0.165,0.142,0.9686,0.759,40YcuQysJ0KlGQTeGUosTC
+27,turn me on,kevin lyttle,2004,128,440,True,0.177,0.061,0.9957,0.709,3aLWuWKHaTV4Ok7LKvXRYn
+30,my place,nelly featuring jaheim,2004,196,647,True,0.233,0.079,0.9992,0.697,33iv3wnGMrrDugd7GBso1z
+29,you dont know my name,alicia keys,2004,119,296,True,0.148,0.046,0.9875,0.598,6LGwYMXXgURfaequXipzHx
+31,overnight celebrity,twista,2004,270,858,True,0.137,0.057,0.9966,0.685,2tOZtdbkAMQASWokLvSlzj
+28,the first cut is the deepest,sheryl crow,2004,61,242,True,0.246,0.144,0.9922,0.748,7gN24J8E0pR3G2nsbhkcjw
+32,hotel,cassidy featuring r kelly,2004,168,600,True,0.132,0.028,0.9954,0.72,33471tzU1VghDg9zNgGRpz
+35,she will be loved,maroon 5,2004,147,349,True,0.185,0.071,0.9943,0.579,4llK75pXNWZz6KAho2Gp16
+15,here without you,3 doors down,2004,95,248,True,0.126,0.066,0.9645,0.617,3NLrRZoMF0Lx6zTlYqeIo4
+34,diary,alicia keys featuring tony toni tone,2004,94,231,True,0.195,0.071,0.9886,0.593,0faXHILILebCGnJBPU6KJJ
+36,white flag,dido,2004,98,277,True,0.038,0.17,-0.992,0.646,2ph6BRhGcUzc2W9wIulG5k
+37,heaven,los lonely boys,2004,67,123,True,0.23,0.101,0.9565,0.455,1HXy5I3HTWq8OvxCn0z7G7
+18,naughty girl,beyonce,2004,80,313,True,0.189,0.103,0.9839,0.744,0YGQ3hZcRLC5YX7o0hdmHg
+38,its my life,no doubt,2004,52,138,True,0.202,0.044,0.9599,0.623,0v1XpBHnsbkCn7iJ9Ucr1l
+41,milkshake,kelis,2004,97,434,True,0.208,0.082,0.9962,0.776,2s0ouHqJebHfiQ6C1GUFJd
+39,pieces of me,ashlee simpson,2004,107,288,True,0.203,0.049,0.9931,0.628,6kBU9uWqar0Fw2Ws0he11A
+40,leave get out,jojo,2004,146,451,False,0.072,0.124,-0.9753,0.676,3xjTuTBaihydhSC7ByNoSb
+33,numb,linkin park,2004,90,287,True,0.087,0.177,-0.9825,0.686,01TnVDiet1DFTsyWKUKovl
+42,splash waterfalls,ludacris,2004,200,741,False,0.109,0.112,0.2101,0.73,2T8hXV9LUZMDBKR5RALGEa
+43,jesus walks,kanye west,2004,239,553,True,0.118,0.195,-0.9966,0.568,62r62ArmWq38cu6QCVgyTc
+46,suga suga,baby bash featuring frankie j,2004,152,552,True,0.122,0.025,0.9928,0.725,6Nq5lE0CeOAAAqN4qhkbZU
+45,stand up,ludacris featuring shawnna,2004,220,621,True,0.173,0.092,0.9863,0.646,2CtCwQhY0ZLvr8L2l8Bo6e
+47,all falls down,kanye west featuring syleena johnson,2004,238,540,True,0.127,0.112,0.8553,0.559,5yFSF6qQA1rcLsQRnBsZgb
+32,rock your body,justin timberlake,2003,143,566,True,0.126,0.06,0.9907,0.747,1AWQoqb9bSvzTjaLralEkT
+48,toxic,britney spears,2004,86,263,True,0.087,0.103,-0.6705,0.673,6I9VzXrHxO9rA9A5euc8Ak
+44,locked up,akon featuring styles p,2004,129,463,True,0.073,0.032,0.9157,0.721,0YUrjFy4qFKOO5NhM9tYdV
+51,meant to live,switchfoot,2004,67,207,True,0.043,0.143,-0.9732,0.676,79cAPxneo5AvbNgR6ch3Cj
+53,sorry 2004,ruben studdard,2004,143,421,True,0.112,0.18,-0.7287,0.66,2u34ZVPVlr7hfN7vDr1512
+57,walked outta heaven,jagged edge,2004,129,551,True,0.231,0.122,0.9971,0.766,06ZDLodo1UDVavc3MXREZ3
+58,lose my breath,destinys child,2004,142,577,True,0.052,0.201,-0.9983,0.754,4dvQg9sD8k9y4qiEURuj8v
+52,i like that,houston featuring chingy nate dogg and i20,2004,181,651,True,0.235,0.088,0.9981,0.722,0KKkJNfGyhkQ5aFogxQAPU
+55,on fire,lloyd banks,2004,204,454,True,0.061,0.23,-0.9984,0.551,0ntQJM78wzOLVeCUAW7Y45
+61,through the wire,kanye west,2004,229,400,True,0.143,0.139,0.1636,0.427,4mmkhcEm1Ljy1U9nwtsxUo
+56,roses,outkast,2004,210,594,True,0.216,0.213,-0.977,0.646,3ZhTT6yjZwpPph5MIJ53XY
+50,with you,jessica simpson,2004,105,253,True,0.229,0.047,0.995,0.585,0iwsQWgtjSq2kUXuZwTDAL
+59,my band,d12,2004,343,1003,True,0.11,0.147,-0.9923,0.658,4XHQyvbrBsQaaBUW1VvmsL
+62,why,jadakiss,2004,187,425,True,0.085,0.14,-0.9821,0.56,4UKCKdYiLN6IMA5ZESUTL7
+64,read your mind,avant featuring snoop dogg,2004,140,470,True,0.221,0.019,0.9984,0.702,6cR1U61DMpYbS2TtNTlSvo
+63,fuck it i dont want you back,eamon,2004,,,,,,,,1p5kC161fWMA2QlwV3Vi4W
+60,im still in love with you,sean paul featuring sasha,2004,150,519,True,0.268,0.064,0.9993,0.711,6SMHgPgNkhe9lneNTbgtel
+65,game over flip,lil flip,2004,178,513,True,0.078,0.124,-0.9916,0.653,79lmvU7Qmc8QpXilbSk37z
+66,one thing,finger eleven,2004,69,342,True,0.036,0.072,-0.8872,0.798,6zvsh5ev7zJ8gz96bfBnZx
+68,damn,youngbloodz featuring lil jon,2004,283,881,True,0.244,0.125,0.9991,0.679,7KXjTSCq5nL1LoYtL7XAwS
+69,baby boy,beyonce featuring sean paul,2004,173,565,True,0.187,0.051,0.9976,0.694,35zkqY6kIGshmm8HhE3eSi
+70,get low,lil jon  the east side boyz featuring ying yang twins,2004,207,853,True,0.047,0.237,-0.9994,0.757,0r2Bul2NuCViraT2zX1l5j
+71,drop it like its hot,snoop dogg featuring pharrell,2004,260,775,True,0.175,0.083,0.997,0.665,2NBQmPrOEEjA8VbeWOQGxO
+72,u shouldve known better,monica,2004,125,414,True,0.119,0.107,0.951,0.698,0EQuu6hyNACWI7LT7N5pRv
+54,my happy ending,avril lavigne,2004,102,385,True,0.19,0.079,0.9953,0.735,6sqNctd7MlJoKDOxPVCAvU
+74,breakaway,kelly clarkson,2004,123,309,True,0.151,0.175,-0.8809,0.602,3xrn9i8zhNZsTtcoWgQEAd
+79,breaking the habit,linkin park,2004,95,258,True,0.035,0.153,-0.95,0.632,4HcDu9IGRCvSTJE4yW5Ugv
+80,gigolo,nick cannon featuring r kelly,2004,249,722,True,0.102,0.044,0.9863,0.655,3iDPALl8BoUbuXZgy6EOWY
+67,headsprung,ll cool j,2004,159,597,False,0.045,0.035,0.4337,0.734,1GIN41bLhiKeEPeC2vXH8i
+78,step in the name of love,r kelly,2004,178,652,True,0.357,0.02,0.9999,0.727,7lrAsaTw9CTh5uSr0fvHOd
+76,are you gonna be my girl,jet,2004,80,260,True,0.193,0,0.9939,0.692,305WCRhhS10XUcH6AEwZk6
+75,why dont you  i,santana featuring alex band,2004,,,,,,,,3H2OWez1soN1GT4me4j53A
+73,on the way down,ryan cabrera,2004,81,233,True,0.179,0.041,0.9878,0.652,1GwVi2ceNb8dMFA3DZGnnY
+77,100 years,five for fighting,2004,107,257,False,0.059,0.076,-0.5272,0.584,0B5KeB25moPkcQUnbDvj3t
+81,live like you were dying,tim mcgraw,2004,136,356,False,0.173,0.067,0.9866,0.618,7B1QliUMZv7gSTUGAfMRRD
+85,dude,beenie man,2004,159,855,True,0.195,0.134,0.9601,0.814,6gQUbFwwdYXlKdmqRoWKJe
+83,everytime,britney spears,2004,72,191,True,0.151,0.066,0.9403,0.623,0WdR2AyLW1Drd3OUdwezM0
+86,wanna get to know you,gunit featuring joe,2004,272,761,True,0.131,0.094,0.9843,0.643,1dHJETCn2X1R1YwVlMvSza
+87,holidae in,chingy featuring ludacris and snoop dogg,2004,338,680,False,0.106,0.108,-0.5992,0.503,0FmCLEHfINGqwlyzvklNqy
+82,remember when,alan jackson,2004,100,187,True,0.119,0.082,0.8963,0.465,1nCSr7oGeUv7sUEoYuAJFF
+93,youll think of me,keith urban,2004,140,382,True,0.157,0.079,0.9908,0.634,0lZxd99ZIjA0zUdQAY3FXr
+92,dont tell me,avril lavigne,2004,123,329,False,0.102,0.111,-0.6444,0.626,6vzR3sLeGKyEILZq5Top3r
+90,american soldier,toby keith,2004,137,281,True,0.195,0.053,0.9896,0.512,4WygRabom8WGpPb44r40sK
+91,change clothes,jayz,2004,223,636,True,0.241,0.082,0.9991,0.649,3yTSjO0wkP5PeFAOTohwsM
+84,southside,lloyd featuring ashanti,2004,180,609,True,0.116,0.088,0.9761,0.704,5lf3ajySox32qFvGEf2TFM
+97,redneck woman,gretchen wilson,2004,147,365,True,0.118,0.172,-0.9866,0.597,5pQtfVIaQvINzl0XIGKNrC
+49,salt shaker,ying yang twins featuring lil jon  the east side boyz,2004,195,635,True,0.128,0.272,-0.9991,0.693,4Kd0FzFpOgIGxlBl4HXuFn
+89,when the sun goes down,kenny chesney featuring uncle kracker,2004,93,347,True,0.155,0,0.9935,0.732,0ZRrJTPXDToRJ2iLo9oLrW
+95,hey mama,the black eyed peas,2004,213,632,True,0.114,0.063,0.9875,0.663,46OFHBw45fNi7QNjSetITR
+88,lets get it started,the black eyed peas,2004,167,536,False,0.08,0.07,-0.0364,0.688,3qK8x4GZcIkzTz9JEqvIF5
+98,just lose it,eminem,2004,260,700,True,0.11,0.104,0.3666,0.629,0qcjuYtMWhBjXg0Xwt5SzS
+94,happy people,r kelly,2004,238,919,True,0.326,0.03,0.9999,0.741,1v2zyAJrChw5JnfafSkwkJ
+96,over and over,nelly featuring tim mcgraw,2004,119,493,True,0.066,0.15,-0.9952,0.759,09IOPhEh1OMe0HD9b36FJk
+88,we be burnin,sean paul,2005,169,593,True,0.119,0.047,0.9946,0.715,4kOTDj4SiZPkW1p96WMDNv
+50,get it poppin,fat joe featuring nelly,2005,223,662,True,0.076,0.109,-0.9833,0.663,3zdDxhDo5SycC7XSAPfdjv
+96,chariot,gavin degraw,2005,106,166,True,0.092,0.014,0.8481,0.361,4dygMGhvfENVhwRXmAscbl
+57,speed of sound,coldplay,2005,115,307,True,0.016,0.017,-0.0644,0.625,7clUVcSOtkNWa58Gw5RfD4
+89,just the girl,the click five,2005,107,211,True,0.093,0.108,-0.1401,0.493,1JURww012QnWAw0zZXi6Aa
+48,over and over,nelly featuring tim mcgraw,2005,119,493,True,0.066,0.15,-0.9952,0.759,09IOPhEh1OMe0HD9b36FJk
+59,mockingbird,eminem,2005,329,898,True,0.122,0.118,0.3638,0.634,561jH07mF1jHuk7KlaeF0s
+46,laffy taffy,d4l,2006,209,621,True,0.074,0.165,-0.9953,0.663,2ajhenDRiiAnCHHjsIOHhJ
+50,dont forget about us,mariah carey,2006,146,520,True,0.19,0.065,0.9974,0.719,2hQU8LNZFUcXLUwqeABX3K
+49,savin me,nickelback,2006,80,298,False,0.081,0.166,-0.9826,0.732,0n2RMFCf3wfKJ9h3E3BKO8
+48,dirty little secret,the allamerican rejects,2006,,,,,,,,5lDriBxJd22IhOH9zTcFrV
+51,sexy love,neyo,2006,99,372,True,0.236,0.012,0.9984,0.734,10aWGOqSDBqvNzJ9NeKDbK
+53,far away,nickelback,2006,90,287,True,0.125,0.032,0.9836,0.686,0ADZ5dmXhlfzjMw6lefoPl
+52,u and dat,e40 featuring tpain and kandi girl,2006,202,662,False,0.082,0.059,0.9724,0.695,7g7M96UGiA7OR79H86gV4m
+59,shoulder lean,young dro featuring ti,2006,217,692,True,0.027,0.026,0.1283,0.686,2OqYarizUUGzSSNHPrDEii
+68,sugar were goin down,fall out boy,2006,92,415,False,0.037,0.169,-0.996,0.778,2TfSHkHiFO4gRztVIkggkE
+60,unpredictable,jamie foxx featuring ludacris,2006,177,484,True,0.163,0.014,0.9977,0.634,5Gz1PxujU62sfecQpB0Stm
+65,chain hang low,jibbs,2006,168,625,True,0.083,0.05,0.957,0.731,0tYPj0NYa7vjlJaqlRSnJb
+66,smack that,akon featuring eminem,2006,193,577,True,0.069,0.066,0.1935,0.666,2kQuhkFX7uSVepCD3h29g5
+72,too little too late,jojo,2006,114,428,True,0.089,0.103,-0.0744,0.734,7oUMJhQp5Bqu6HqxSZs02v
+63,pullin me back,chingy featuring tyrese,2006,226,713,True,0.073,0.08,0.6208,0.683,5hF2LnbkpnXCkksMSeWcxZ
+55,so what,field mob featuring ciara,2006,202,659,True,0.095,0.133,-0.982,0.693,6qYGUxPjQt5PJtWdiNppZx
+57,black horse and the cherry tree,kt tunstall,2006,111,357,False,0.203,0.33,-0.9867,0.689,0qAMjeQFyd1qD0LDiV8gWp
+70,i know you see it,yung joc,2006,186,614,True,0.115,0.057,0.9505,0.697,6giYNaycmjkbf7UmZ6RGtL
+56,do it to it,cherish featuring sean p,2006,159,719,True,0.043,0.045,0.6369,0.779,1ysAvOdJgUjc6CqOQxepaz
+64,bossy,kelis featuring too short,2006,205,745,True,0.073,0.144,-0.9975,0.725,167SAJLX60K44uGKb8KLxK
+54,whats left of me,nick lachey,2006,107,294,True,0.12,0.039,0.9686,0.636,1bPqAXwNiVcM6zjJU1Z4Cd
+69,gimme that,chris brown featuring lil wayne,2006,145,491,True,0.175,0.015,0.9977,0.705,7BWXAPR8TxPR3ppVUqvotE
+62,shake that,eminem featuring nate dogg,2006,283,755,True,0.073,0.245,-0.9993,0.625,0fGh0trRN1xz3s41r7V5ce
+67,one wish,ray j,2006,202,877,True,0.361,0.042,0.9999,0.77,6QON2WlAI1QayzhgebwvWd
+74,rompe,daddy yankee,2006,159,383,True,0.077,0.038,0.926,0.585,2Q85xwXagilpHKTfdrbC7M
+73,touch it,busta rhymes,2006,210,687,True,0.021,0.122,-0.9912,0.694,7MGRcJy1saXKiphwqJBnRb
+75,dej`a vu,beyonce featuring jayz,2006,194,407,False,0.13,0.053,0.987,0.523,3AB54ha91tDWJN6fpxhbzi
+76,life is a highway,rascal flatts,2006,129,342,True,0.077,0.023,0.8902,0.623,2Fs18NaCDuluPG1DHGw1XG
+61,my love,justin timberlake featuring ti,2006,199,712,True,0.259,0.034,0.9997,0.721,3kxfsdsCpFgN412fpnW85Y
+79,show stopper,danity kane featuring yung joc,2006,165,576,True,0.089,0.014,0.9905,0.714,5FRIqUXfTazrtRmYEGO4G0
+77,call me when youre sober,evanescence,2006,83,185,True,0.163,0.157,0.05,0.551,663Karu2rvKLdnY0eo1n3M
+78,jesus take the wheel,carrie underwood,2006,126,284,True,0.087,0.055,0.8666,0.556,3lec3CzDPAxsZokPph5w87
+82,hate me,blue october,2006,177,409,True,0.123,0.171,-0.976,0.567,4pXiV088jJbJzQgU9XcZXQ
+85,i think they like me,dem franchize boyz featuring jermaine dupri da brat and bow wow,2006,379,790,True,0.14,0.1,0.9855,0.52,5a4AQWs84xeEyYUd1iC2Pn
+91,hung up,madonna,2006,88,473,True,0.007,0.078,-0.9868,0.814,6OB7Xp69uSWA4vDwcKgEDA
+58,there it go the whistle song,juelz santana,2006,147,461,False,0.073,0.038,0.8482,0.681,50UkypyQJbSQLaXHke5Yep
+84,beep,pussycat dolls featuring william,2006,121,591,False,0.383,0.026,0.9997,0.795,5TXNLJ2EENAt3Tf9MX4kT2
+87,waiting on the world to change,john mayer,2006,106,278,True,0.055,0.061,-0.3691,0.619,5imShWWzwqfAJ9gXFpGAQh
+88,soul survivor,young jeezy featuring akon,2006,239,692,True,0.143,0.138,-0.8072,0.655,0Ss50OU9tCozI7JIywkv14
+47,what you know,ti,2006,227,717,True,0.049,0.087,-0.9787,0.683,6jrMVRReY24qzCfe1BRrww
+94,when youre mad,neyo,2006,111,349,True,0.141,0.183,-0.9601,0.682,5FXOEdfNW7nYQrBWtW49Cl
+81,we be burnin,sean paul,2006,169,593,True,0.119,0.047,0.9946,0.715,4kOTDj4SiZPkW1p96WMDNv
+90,when im gone,eminem,2006,308,907,True,0.127,0.102,0.9656,0.66,42YNobZ4HN3tRVEA47wLT6
+2,umbrella,rihanna featuring jayz,2007,160,496,True,0.101,0.078,0.8724,0.677,49FYlytm3dAAraYgpoJZux
+4,big girls dont cry,fergie,2007,127,357,True,0.22,0.053,0.997,0.644,3Q4WeJmzxuDpzMu9QjQqbM
+86,say goodbye,chris brown,2006,165,719,True,0.051,0.101,-0.9878,0.771,75KdMdPqZGO3FGNtpByM1p
+92,stay fly,three 6 mafia featuring young buck and 8ball  mjg,2006,303,696,True,0.073,0.13,-0.9951,0.565,5MYFw4T2gy52pOGBN4EYHS
+99,do i make you proud,taylor hicks,2006,80,282,True,0.127,0.016,0.9844,0.716,2jv9Ppwz9u3lqWfXV0q2sW
+3,the sweet escape,gwen stefani featuring akon,2007,129,463,False,0.307,0.091,0.9991,0.721,66ZcOcouenzZEnzTJvoFmH
+10,glamorous,fergie featuring ludacris,2007,189,469,True,0.276,0.066,0.9987,0.597,4KTtYhxFtFL7mBwnjkKfLm
+11,dont matter,akon,2007,143,644,True,0.172,0.221,-0.983,0.778,7I6DceMT3utDOHjcYCbrr4
+17,its not over,daughtry,2007,98,279,True,0.129,0.152,-0.8328,0.649,0wIhWLNLIOmzQ89B3rtTd3
+95,why you wanna,ti,2006,206,857,False,0.176,0.062,0.9988,0.76,1g0oI97rPdYuWDIpkbtQdv
+5,buy u a drank shawty snappin,tpain featuring yung joc,2007,,,,,,,,2aIdVb8v9KTpEZnftkz2mD
+7,hey there delilah,plain white ts,2007,176,401,True,0.137,0.052,0.9921,0.561,4RCWB3V8V0dignt99LZ8vH
+97,feel good inc,gorillaz,2006,129,252,False,0.218,0.114,0.9844,0.488,0d28khcov6AiegSCpG5TuT
+6,before he cheats,carrie underwood,2007,111,272,True,0.07,0.135,-0.9645,0.592,0ZUo4YjG4saFnEJhdWp9Bt
+96,stupid girls,pink,2006,129,408,True,0.148,0.178,-0.9754,0.684,2fB3nWTsj1Aba2oJsAiTck
+14,party like a rockstar,shop boyz,2007,138,559,False,0.564,0.016,0.9999,0.753,5kGCh49aqeRMkEOhQ9mcrW
+19,fergalicious,fergie featuring william,2007,182,802,True,0.181,0.065,0.9987,0.773,1D066zixBwqFYqBhKgdPzp
+15,smack that,akon featuring eminem,2007,193,577,True,0.069,0.066,0.1935,0.666,2kQuhkFX7uSVepCD3h29g5
+13,makes me wonder,maroon 5,2007,112,359,True,0.065,0.129,-0.9746,0.688,1lHXlGlve5Zx8tXLhyjDwM
+1,irreplaceable,beyonce,2007,136,508,True,0.05,0.078,-0.9698,0.732,6RX5iL93VZ5fKmyvNXvF1r
+71,who says you cant go home,bon jovi featuring jennifer nettles,2006,139,504,True,0.19,0.007,0.9972,0.724,5439qJTu5mVH9aeriwp03u
+12,girlfriend,avril lavigne,2007,114,539,True,0.063,0.216,-0.9972,0.788,5m7on0zpnmeAXy72ANrmfU
+80,get up,ciara featuring chamillionaire,2006,198,624,True,0.116,0.077,0.9664,0.683,7p2ewixAShLpjDZrnzZK7c
+83,you and me,lifehouse,2006,76,244,True,0.068,0.011,0.9161,0.689,0815caqt2Lytro5EIzMufT
+20,crank that soulja boy,soulja boy tell em,2007,,,,,,,,66TRwr5uJwPt15mfFkzhbi
+18,the way i are,timbaland featuring keri hilson,2007,112,354,True,0.224,0.009,0.9976,0.684,2bLqfJjuC5syrsgDsZfGmn
+28,we fly high,jim jones,2007,225,481,True,0.085,0.086,-0.4939,0.532,5rXkgeY6rpcHcsolCpXZHR
+16,this is why im hot,mims,2007,225,838,True,0.04,0.055,-0.9264,0.732,0AA6zq5ArZ1sSH7VIMi4NK
+27,stronger,kanye west,2007,171,533,True,0.074,0.076,0.6046,0.679,6C7RJEIUDqKkJRZVWdkfkH
+23,cupids chokehold,gym class heroes featuring patrick stump,2007,215,634,False,0.141,0.032,0.9977,0.661,6ajyEEzWZbw8ycDcJAN099
+21,give it to me,timbaland featuring nelly furtado and justin timberlake,2007,181,599,True,0.144,0.056,0.996,0.698,5eXlvP0dxI3Xo2ngmNoj9X
+38,what ive done,linkin park,2007,60,176,True,0.085,0.081,0.1672,0.659,18lR4BzEs7e3qzc0KVkTpU
+33,bartender,tpain featuring akon,2007,,,,,,,,5kxddRG1RZaZROadk7iC4D
+29,u  ur hand,pink,2007,133,427,True,0.113,0.103,0.8951,0.689,6cSQSGa2tFufkTdlKs2TKN
+32,this aint a scene its an arms race,fall out boy,2007,118,337,False,0.106,0.259,-0.9949,0.65,1oagRT7LfpVlNJN6FSZDGp
+36,rockstar,nickelback,2007,223,565,True,0.154,0.063,0.9934,0.605,0e7ipj03S05BNilyu5bRzt
+35,runaway love,ludacris featuring mary j blige,2007,237,567,True,0.232,0.11,0.9987,0.582,3x5VSzCT9x9LB6uPomLZXs
+98,im sprung,tpain,2006,,,,,,,,0F7rEdewJ6cSLylOZZpDu7
+50,if everyone cared,nickelback,2007,82,277,True,0.276,0.172,0.9922,0.704,44w63XqGr3sATAzOnOySgF
+31,beautiful girls,sean kingston,2007,148,375,True,0.126,0.229,-0.9958,0.605,1hGy2eLcmC8eKx7qr1tOqx
+100,for you i will confidence,teddy geiger,2006,106,292,False,0.133,0.016,0.9856,0.637,2ijMU9lYFCvGBzgwJ8Sd8q
+45,ice box,omarion featuring timbaland,2007,109,688,False,0.157,0.064,0.9946,0.842,5qhlC4Rzals34zxovrPzKp
+37,thnks fr th mmrs,fall out boy,2007,115,340,False,0.253,0.075,0.9975,0.662,3Zwu2K0Qa5sT6teCCHPShP
+46,lips of an angel,hinder,2007,94,279,True,0.168,0.074,0.9889,0.663,40LQiUUUKXVGyNs09lHVjW
+25,home,daughtry,2007,94,297,True,0.206,0.051,0.9946,0.684,7w5cxTEzp1rfV3KCy0Bd5N
+39,summer love,justin timberlake,2007,145,461,True,0.238,0.013,0.9991,0.685,1QC6VpD6q6TJrl30969QM9
+89,pump it,the black eyed peas,2006,179,512,True,0.055,0.032,0.9087,0.65,4S8d14HvHb70ImctNgVzQQ
+30,walk it out,unk,2007,146,719,True,0.033,0.043,-0.8316,0.797,77Uka9VwManFDJGX1C2l50
+48,lost without u,robin thicke,2007,95,359,False,0.261,0.079,0.998,0.735,4V2F0DZrAXOWq9hkwMMG3x
+42,last night,diddy featuring keyshia cole,2007,129,475,True,0.133,0.106,0.9365,0.728,3SUusuA9jH1v6PVwtYMbdv
+43,make it rain,fat joe featuring lil wayne,2007,174,691,True,0.058,0.154,-0.9972,0.748,5puU24G3lHVsUXPAWW2ZpV
+47,waiting on the world to change,john mayer,2007,106,278,True,0.055,0.061,-0.3691,0.619,5imShWWzwqfAJ9gXFpGAQh
+26,my love,justin timberlake featuring ti,2007,199,712,True,0.259,0.034,0.9997,0.721,3kxfsdsCpFgN412fpnW85Y
+34,pop lock  drop it,huey,2007,210,769,False,0.037,0.141,-0.9969,0.727,6vs9xToxh23nXF8sucqnfP
+9,say it right,nelly furtado,2007,64,161,True,0.104,0.092,0.4838,0.602,5AtFypwxB2ShXSxNj12dEd
+40,you,lloyd featuring lil wayne,2007,173,525,True,0.314,0.014,0.9995,0.67,60SdxE8apGAxMiRrpbmLY0
+93,love,keyshia cole,2006,97,279,True,0.127,0.037,0.9829,0.652,4S8d14HvHb70ImctNgVzQQ
+44,make me better,fabolous featuring neyo,2007,200,646,True,0.317,0.034,0.9997,0.69,0YkJU6TjjwzsVXUPRIO0DB
+17,whistle,flo rida,2012,144,441,True,0.127,0.085,0.9644,0.673,7HWmJ1wBecOAMNGjC6SmKE
+91,please dont go,mike posner,2011,72,291,True,0.215,0.048,0.995,0.753,3cNjgVBKTJ1SvKhunrCdVy
+18,one more night,maroon 5,2012,107,409,True,0.147,0.206,-0.985,0.738,4XNrMwGx1SqP01sqkGTDmo
+19,drive by,train,2012,134,400,True,0.138,0.143,0.4244,0.665,1kEINOBYcSCQ5RwkP65g2A
+20,the motto,drake featuring lil wayne,2012,232,527,True,0.125,0.054,0.9847,0.56,4Kz4RdRCceaA9VgTqBhBfa
+22,everybody talks,neon trees,2012,92,256,True,0.132,0.066,0.9535,0.641,3528IXKpbb7OMjdjWYlbfD
+21,where have you been,rihanna,2012,46,232,True,0.101,0.018,0.9628,0.802,5WQQIDU3HRaMyPkob8mpFb
+23,take care,drake featuring rihanna,2012,169,388,True,0.143,0.195,-0.9806,0.564,4Kz4RdRCceaA9VgTqBhBfa
+24,titanium,david guetta featuring sia,2012,94,243,True,0.117,0.172,-0.9441,0.613,77TT8Xvx637TpzV8kKGkUw
+25,i wont give up,jason mraz,2012,128,294,True,0.19,0.031,0.9939,0.565,05pKAafT85jeeNhZ6kq7HT
+26,it will rain,bruno mars,2012,129,298,False,0.071,0.192,-0.9905,0.567,4rMNgxEwGWoPHIUcvB5BrB
+28,boyfriend,justin bieber,2012,132,396,True,0.152,0.021,0.993,0.667,0171XsIM2xyeXRr6wsugEI
+16,good feeling,flo rida,2012,176,524,True,0.378,0.027,0.9994,0.664,3I09LQbHS3NSU46Ly3tPpR
+30,too close,alex clare,2012,80,206,True,0.225,0.133,0.9827,0.612,5IFCyWplye09HytIP80RCF
+29,party rock anthem,lmfao featuring lauren bennett and goonrock,2012,130,424,False,0.137,0.083,0.9737,0.693,0IkKz2J93C94Ei4BvDop7P
+31,part of me,katy perry,2012,104,383,True,0.062,0.031,0.9079,0.728,1nZzRJbFvCEct3uzu04ZoL
+33,we are never ever getting back together,taylor swift,2012,121,363,False,0.208,0.053,0.997,0.667,7AEAGTc8cReDqcbPoY9gwo
+34,as long as you love me,justin bieber featuring big sean,2012,162,477,True,0.354,0.132,0.9996,0.66,0pwYLVXVknPSGUQb39cePC
+35,turn me on,david guetta featuring nicki minaj,2012,89,404,True,0.178,0.084,0.9909,0.78,3aLWuWKHaTV4Ok7LKvXRYn
+37,blow me one last kiss,pink,2012,147,502,True,0.128,0.24,-0.9971,0.707,6LS6pltO7YBgjwNVhxMwtp
+39,give your heart a break,demi lovato,2012,126,410,True,0.049,0.234,-0.9981,0.693,3sP3c86WFjOzHHnbhhZcLA
+40,niggas in paris,jayz and kanye west,2012,237,569,True,0.069,0.267,-0.9994,0.583,79KTKi7aOajF1KUzcGbyLB
+38,good time,owl city and carly rae jepsen,2012,83,285,True,0.24,0.009,0.9961,0.709,2fh3bZ8jZhMxOcfESE9nQY
+44,scream,usher,2012,108,394,True,0.172,0.1,0.9819,0.726,7azo4rpSUh8nXgtonC6Pkq
+41,the one that got away,katy perry,2012,120,312,True,0.034,0.036,0.0772,0.615,3oL3XRtkP1WVbMxf7dtTdu
+42,feel so close,calvin harris,2012,35,125,True,0.137,0.141,0.6597,0.72,1gihuPhrLraKYrJMAEONyc
+46,domino,jessie j,2012,103,396,True,0.183,0.067,0.9937,0.74,6MAdEUilV2p9RQUqE5bMAK
+43,someone like you,adele,2012,143,351,True,0.217,0.18,0.9531,0.593,4kflIGfjdZJW4ot2ioixTB
+50,without you,david guetta featuring usher,2012,62,172,True,0.052,0.135,-0.9178,0.64,6Pgkp4qUoTmJIPn7ReaGxL
+45,rack city,tyga,2012,134,458,True,0.049,0.424,-0.9998,0.707,0srwKuJPH8yBzzFUJMBQM2
+47,gangnam style,psy,2012,190,569,True,0.163,0.006,0.998,0.666,03UrZgTINDqvnUMbbIMhql
+48,international love,pitbull featuring chris brown,2012,180,482,True,0.198,0.029,0.9986,0.627,62zFEHfAYl5kdHYOivj4BC
+52,wanted,hunter hayes,2012,88,259,True,0.23,0,0.9966,0.66,0Y9D1Bc4fAkeZnVsGKdij6
+51,ass back home,gym class heroes featuring neon hitch,2012,172,439,True,0.095,0.095,-0.1805,0.608,3bfqkspKABT4pPicm6wC9F
+32,young wild  free,snoop dogg and wiz khalifa featuring bruno mars,2012,198,495,False,0.115,0.081,0.962,0.6,5HQVUIKwCEXpe7JIHyY734
+53,drunk on you,luke bryan,2012,117,297,True,0.125,0.035,0.984,0.606,3b7CDTKB0SRTmQ6ytYi5vZ
+36,moves like jagger,maroon 5 featuring christina aguilera,2012,119,394,True,0.197,0.101,0.9901,0.698,7LcfRTgAVTs5pQGEQgUEzN
+49,home,phillip phillips,2012,65,216,True,0.099,0.123,-0.8746,0.699,7w5cxTEzp1rfV3KCy0Bd5N
+54,no lie,2 chainz featuring drake,2012,233,702,True,0.165,0.193,-0.9937,0.668,6j9iyrrmqWlQZ5SD1hSTaq
+56,dont wake me up,chris brown,2012,71,271,True,0.093,0.042,0.9499,0.738,12Ns5IphkblPmHxpRILG9t
+59,brokenhearted,karmin,2012,152,423,False,0.104,0.157,-0.9795,0.641,4urcG6Nfubqsuqy3juMjBi
+58,springsteen,eric church,2012,152,310,True,0.094,0.043,0.9516,0.51,05ZACkzW8YbRq3eFgIfSNB
+55,want u back,cher lloyd,2012,117,454,False,0.166,0.04,0.9696,0.742,6E11E0lT5Zy7yb6iT3y8DN
+61,stereo hearts,gym class heroes featuring adam levine,2012,171,508,False,0.09,0.031,0.9626,0.663,0qOnSQQF0yzuPWsXrQ9paz
+60,not over you,gavin degraw,2012,120,314,True,0.165,0.087,0.9436,0.618,6j7hih15xG2cdYwIJnQXsq
+64,rumour has it,adele,2012,105,345,False,0.038,0.043,-0.1732,0.696,76N7FdzCI9OsiUnzJVLY2m
+57,dance a,big sean featuring nicki minaj,2012,155,407,False,0.072,0.396,-0.9996,0.619,7EZPH9Px3gXlxD5KJDwtwc
+67,pontoon,little big town,2012,101,224,True,0.014,0.073,-0.821,0.549,2Gy3XMLbBxACZ4tXdFRGr7
+63,work out,j cole,2012,197,687,True,0.105,0.129,-0.9714,0.713,3BUWNzPWz2mDbptZmGEXpB
+66,good girl,carrie underwood,2012,120,333,True,0.277,0.161,0.9936,0.64,5HnXcJJbNXQQ7tRlQ9VN1v
+62,back in time,pitbull,2012,143,342,True,0.154,0.047,0.9871,0.582,1lr7QGyV5RohlODzAqnuZA
+65,lets go,calvin harris featuring neyo,2012,46,221,True,0.094,0.037,0.9136,0.792,6AIccJIWHGK26xi34FAkwl
+70,blown away,carrie underwood,2012,87,169,True,0.017,0.047,-0.6369,0.485,0vFMQi8ZnOM2y8cuReZTZ2
+72,climax,usher,2012,99,290,True,0.138,0.076,0.97,0.659,4N9QsmvQJcGwJHAmDmBttU
+68,ho hey,the lumineers,2012,109,237,True,0.138,0.015,0.9872,0.54,0W4Kpfp1w2xkY3PrV714B7
+71,rolling in the deep,adele,2012,132,558,True,0.188,0.079,0.998,0.763,1CkvWZme3pRgbzaxZnTl5X
+69,paradise,coldplay,2012,71,174,True,0.027,0.026,-0.4215,0.592,7lQWRAjyhTpCWFC0jmclT4
+75,pound the alarm,nicki minaj,2012,102,293,True,0.104,0.138,-0.8807,0.652,0LohatbcUXRauoeMlR1jnS
+73,work hard play hard,wiz khalifa,2012,193,613,True,0.096,0.173,-0.9926,0.685,1ms5tNNdPouTtcD2oVF9Oz
+77,heart attack,trey songz,2012,110,346,True,0.047,0.463,-0.9997,0.682,1V6gIisPpYqgFeWbMLI0bA
+79,birthday cake,rihanna featuring chris brown,2012,65,177,False,0.086,0.079,-0.5857,0.633,4EfN6bixdOOgoLYR5C4cWo
+78,drank in my cup,kirko bangz,2012,180,537,True,0.069,0.061,-0.8757,0.665,3m8CQnnfJJp4eQMWWl3zay
+74,let me love you until you learn to love yourself,neyo,2012,86,419,False,0.377,0.052,0.9997,0.795,1Ejsu5JglwIgrFW7Bt2GuL
+82,red solo cup,toby keith,2012,132,358,True,0.321,0.024,0.999,0.631,47nm8czanMUzIqHsnr5x61
+81,50 ways to say goodbye,train,2012,136,373,False,0.258,0.143,0.9958,0.635,2NniAhAtkRACaMeYt48xlD
+80,so good,bob,2012,192,543,True,0.145,0.024,0.9959,0.646,6hmhG1b4LEyNuashVvuIAo
+84,turn up the music,chris brown,2012,77,519,True,0.06,0,0.9806,0.852,0UlHiqi7seV02XNHLMtfGK
+85,die young,keha,2012,110,381,True,0.114,0.192,-0.992,0.711,1lWK70HfYRFZtWJUwUrY48
+27,mercy,kanye west big sean pusha t and 2 chainz,2012,,,,,,,,2VIPU72L6tIR4w8J8ap6Kp
+86,5 oclock,tpain featuring wiz khalifa and lily allen,2012,,,,,,,,5oHHMDcVOmPSFrCgdbHPdb
+83,love you like a love song,selena gomez  the scene,2012,108,259,False,0.383,0.042,0.9991,0.583,0laYHRpNTS6i8FXdupHkJ4
+87,a thousand years,christina perri,2012,81,218,True,0.26,0.141,0.9907,0.628,6lanRgr6wXibZr8KgzXxBl
+88,take a little ride,jason aldean,2012,125,242,True,0.162,0.035,0.9841,0.483,2o5mwv7hvas1jdUg14Nihv
+92,cashin out,cah out,2012,186,803,True,0.071,0.047,0.9327,0.768,1POAx4NMLOBPVKZUSsBh92
+94,diamonds,rihanna,2012,74,345,True,0.617,0,0.9998,0.786,59fi7eaSe4DuCqfua35m2W
+96,somethin bout a truck,kip moore,2012,110,298,True,0.121,0.047,0.9678,0.631,6Ymvlzom4TQeoKqAWsZRD8
+1,thrift shop,macklemore and ryan lewis featuring wanz,2013,276,610,True,0.076,0.17,-0.997,0.548,4YMqbFcDIFiCBd02PzUBcM
+90,we run the night,havana brown featuring pitbull,2012,147,417,True,0.148,0.075,0.9851,0.647,0mtPNQl5vePVwiI9Vykp7L
+76,come over,kenny chesney,2012,91,251,True,0.044,0.074,-0.829,0.637,0S0vWvyZ6Rc79TXkWxT9QA
+89,you da one,rihanna,2012,104,471,False,0.37,0.027,0.9997,0.779,3Yt9lRtS5V4nbJnwcgFgvC
+2,blurred lines,robin thicke featuring ti and pharrell williams,2013,199,559,True,0.163,0.111,0.9216,0.644,0n4bITAu0Y0nigrz3MFJMb
+91,its time,imagine dragons,2012,97,303,True,0.076,0.12,-0.9325,0.68,4z2XPrpHz1raJibarWFY7Z
+95,hard to love,lee brice,2012,81,297,True,0.432,0.083,0.9995,0.727,6E9V9TRlVOLjenGjHemzEH
+97,adorn,miguel,2012,86,247,True,0.31,0.03,0.9981,0.652,25cUhiAod71TIQSNicOaW3
+5,cant hold us,macklemore and ryan lewis featuring ray dalton,2013,236,684,True,0.167,0.049,0.9978,0.655,3bidbhpOYeV4knp8AIu8Xn
+9,cruise,florida georgia line featuring nelly,2013,141,401,True,0.055,0.081,-0.89,0.648,0i5el041vd6nxrGEU8QRxy
+6,mirrors,justin timberlake,2013,166,724,False,0.211,0.042,0.9994,0.771,2JZKXgq5zsokN01KWyiY6n
+4,harlem shake,baauer,2013,10,46,True,0,0.401,-0.9201,0.783,01XFgRZfZI7oBagNf1Loml
+93,i dont want this night to end,luke bryan,2012,124,330,True,0.081,0.107,-0.6783,0.624,0cV4xwUA4ue2deqq4CZFko
+3,radioactive,imagine dragons,2013,67,267,True,0.09,0.023,0.9495,0.749,4G8gkOterJn0Ywt6uhqbhp
+7,just give me a reason,pink featuring nate ruess,2013,148,435,True,0.239,0.041,0.9988,0.66,4VC5nFbYO4avKksJ9jN4pY
+98,fly over states,jason aldean,2012,151,230,True,0.123,0.033,0.9436,0.343,17X2tSzibD9n9QRjdExcWT
+8,when i was your man,bruno mars,2013,143,333,True,0.188,0.079,0.9913,0.571,0nJW01T7XtvILxQgC5J7Wh
+100,burn it down,linkin park,2012,86,270,True,0.084,0.063,0.7079,0.681,7oVEtyuv9NBmnytsCIsY5I
+10,roar,katy perry,2013,119,461,True,0.139,0.052,0.9933,0.742,6F5c58TMEs1byxUstkzVeM
+15,royals,lorde,2013,126,363,True,0.119,0.137,-0.6736,0.653,2dLLR6qlu5UJ5gk0dKz0h3
+12,ho hey,the lumineers,2013,109,237,True,0.138,0.015,0.9872,0.54,0W4Kpfp1w2xkY3PrV714B7
+13,stay,rihanna featuring mikky ekko,2013,93,239,True,0.089,0.015,0.9049,0.611,0ZNrc4kNeQYD9koZ3KvCsy
+17,we cant stop,miley cyrus,2013,126,504,True,0.243,0.058,0.9978,0.75,2y4lAQpi5VTNLu2ldeTdUH
+16,i knew you were trouble,taylor swift,2013,102,372,True,0.017,0.324,-0.9991,0.726,72jCZdH0Lhg93z6Z4hBjgj
+76,carry on,fun,2013,149,353,True,0.084,0.18,-0.9879,0.578,2yZax79pOrYuyIFVW2cZY2
+74,best song ever,one direction,2013,90,384,True,0.282,0.033,0.9988,0.766,5T7ZFtCcOgkpjxcuaeZbw0
+79,swimming pools drank,kendrick lamar,2013,175,576,False,0.045,0.043,-0.34,0.696,6REbwUNlppTfcnV4d4ZoZi
+78,thats my kind of night,luke bryan,2013,128,382,True,0.346,0,0.9995,0.665,5HGibWoxnkYSkl6mHmAlOE
+83,body party,ciara,2013,102,325,False,0.218,0.019,0.997,0.686,0rFZaQ4crlGAzuCjWCQ2xu
+81,beautiful,mariah carey featuring miguel,2013,90,247,True,0.343,0.041,0.9979,0.636,4VUwkH455At9kENOfzTqmF
+85,hall of fame,the script featuring william,2013,103,455,True,0.243,0.032,0.9988,0.774,1X1DWw2pcNZ8zSub3uhlNz
+88,next to me,emeli sande,2013,96,277,True,0.074,0.129,-0.9186,0.653,4BdGO1CaObRD4La9l5Zanz
+77,highway dont care,tim mcgraw featuring taylor swift and keith urban,2013,95,425,True,0.024,0.162,-0.9959,0.776,4wFUdSCer8bdQsrp1M90sa
+89,mamas broken heart,miranda lambert,2013,149,309,True,0.128,0.102,0.9275,0.518,2mXsZsJBThTaJXbNcg5QD4
+86,let me love you until you learn to love yourself,neyo,2013,86,419,False,0.377,0.052,0.9997,0.795,1Ejsu5JglwIgrFW7Bt2GuL
+84,adorn,miguel,2013,86,247,True,0.31,0.03,0.9981,0.652,25cUhiAod71TIQSNicOaW3
+90,it goes like this,thomas rhett,2013,86,288,True,0.225,0.037,0.9954,0.701,6GsAD8PgHxmEuIPTG8GP3M
+93,downtown,lady antebellum,2013,125,258,True,0.136,0.069,0.964,0.516,3Ga6eKrUFf12ouh9Yw3v2D
+82,troublemaker,olly murs featuring flo rida,2013,152,435,True,0.133,0.288,-0.9984,0.651,0gRczqVHrEQQDyizJUtgRc
+94,get your shine on,florida georgia line,2013,100,269,True,0.137,0.029,0.9845,0.628,6s9ICeczYOfbHHIaSMq9jd
+80,sure be cool if you did,blake shelton,2013,116,343,True,0.222,0.057,0.9965,0.662,0g9zfmHDjZvYQDAf4pPOqi
+92,wanted,hunter hayes,2013,88,259,True,0.23,0,0.9966,0.66,0Y9D1Bc4fAkeZnVsGKdij6
+91,bugatti,ace hood featuring future and rick ross,2013,260,648,True,0.071,0.156,-0.9959,0.599,0uFvvXbmGIXlf5ZgtHyYpf
+87,uoeno,rocko featuring future and rick ross,2013,202,683,True,0.021,0.115,-0.9957,0.704,2wtJbMAEeCICHkszAggSw4
+96,brave,sara bareilles,2013,137,399,True,0.134,0.051,0.9884,0.657,6Uy6K3KdmUdAfelUp0SeXn
+98,runnin outta moonlight,randy houser,2013,126,372,True,0.085,0.012,0.9788,0.661,6enPOmd3vSFpI4jjms8kXN
+99,im different,2 chainz,2013,152,395,True,0.135,0.158,-0.9468,0.615,6J5sxraPPZ4b0CVOGAgpXj
+100,still into you,paramore,2013,103,320,True,0.093,0.049,0.8723,0.678,1yjY7rpaAQvKwpdUliHx0d
+4,fancy,iggy azalea featuring charli xcx,2014,207,482,True,0.147,0.053,0.991,0.571,3oiMJQAWVaxSubJ7b2VUtX
+5,counting stars,onerepublic,2014,101,496,True,0.122,0.144,-0.8339,0.796,6sy3LkhNFjJWlaeSMNwQ62
+2,dark horse,katy perry featuring juicy j,2014,165,402,True,0.305,0.087,0.999,0.59,5jrdCoLpJSvHHorevXBATy
+6,talk dirty,jason derulo featuring 2 chainz,2014,132,333,True,0.081,0.155,-0.9846,0.604,5KONnBIQ9LqCxyeSPin26k
+1,happy,pharrell williams,2014,112,492,True,0.366,0.033,0.9997,0.772,4keoy2fqgwGnbWlm3ZVZFa
+7,rude,magic,2014,131,403,True,0.113,0.25,-0.998,0.675,60jzFy6Nn4M0iD1d94oteF
+9,problem,ariana grande featuring iggy azalea,2014,148,545,True,0.093,0.209,-0.9973,0.728,1vBpwxsLVwaR4evBIaFmqD
+8,all about that bass,meghan trainor,2014,132,446,True,0.106,0.127,-0.7033,0.704,0ifSeVGUr7py5GggttDhXw
+12,pompeii,bastille,2014,88,348,False,0.124,0.028,0.9716,0.747,3gbBpTdY8lnQwqxNCcf795
+3,all of me,john legend,2014,131,377,True,0.177,0.121,0.9875,0.653,3U4isOIWM3VvDubwSI3y7a
+13,shake it off,taylor swift,2014,114,520,True,0.101,0.45,-0.9997,0.781,5xTtaWoae3wi06K5WfVUUH
+95,thatpower,william featuring justin bieber,2013,,,,,,,,01TuObJVd7owWchVRuQbQw
+11,timber,pitbull featuring kesha,2014,112,391,True,0.193,0.009,0.9975,0.714,3cHyrEgdyYRjgJKSOiOtcS
+15,turn down for what,dj snake and lil jon,2014,14,103,True,0,0.088,-0.8225,0.864,67awxiNHNyjMXhVgsHuIrs
+17,say something,a great big world and christina aguilera,2014,56,139,True,0.203,0.036,0.9719,0.597,6Vc5wAMmXdKIAM7WUoEb7N
+18,team,lorde,2014,138,362,True,0.107,0.075,0.843,0.619,1VdZ0vKfR5jneCmWIUAMxK
+14,am i wrong,nico  vinz,2014,99,388,True,0.134,0.188,-0.9906,0.745,1fidCEsYlaVE3pHwKCvpFZ
+10,stay with me,sam smith,2014,89,194,True,0.224,0.118,0.9888,0.541,5Nm9ERjJZ5oyfXZTECKmRt
+16,the monster,eminem featuring rihanna,2014,267,499,True,0.158,0.107,0.978,0.465,0xxZY5C9xxij3D1HkzbnfC
+97,let her go,passenger,2013,108,417,True,0.177,0.139,0.9854,0.741,6GmUVqe73u5YRfUUynZK6I
+19,let her go,passenger,2014,108,417,True,0.177,0.139,0.9854,0.741,6GmUVqe73u5YRfUUynZK6I
+22,wake me up,avicii,2014,91,245,True,0.195,0.014,0.9914,0.629,4h8VwCb1MTGoLKueQ1WgbD
+21,let it go,idina menzel,2014,153,304,True,0.109,0.108,-0.1424,0.497,13HVjjWUZFaWilh2QUJKsP
+20,royals,lorde,2014,126,363,True,0.119,0.137,-0.6736,0.653,2dLLR6qlu5UJ5gk0dKz0h3
+23,demons,imagine dragons,2014,114,294,True,0.052,0.137,-0.9769,0.612,3LlAyCYU26dvFZBDUIMb7a
+25,chandelier,sia,2014,115,265,True,0.123,0.053,0.9594,0.566,2s1sdSqGcKxpPr5lCl7jAV
+26,black widow,iggy azalea featuring rita ora,2014,181,487,True,0.253,0.079,0.9988,0.628,7pNC5ZIKtwUK0ReSpM3P9f
+24,story of my life,one direction,2014,124,378,True,0.118,0.097,0.8199,0.672,4nVBt6MZDDP6tRVdQTgxJg
+28,latch,disclosure featuring sam smith,2014,81,294,True,0.118,0.009,0.9859,0.724,1BltsyC5W3SAABdxyrDXwi
+29,maps,maroon 5,2014,93,435,False,0.031,0.133,-0.9944,0.786,4gbVRS8gloEluzf0GzDOFc
+32,habits stay high,tove lo,2014,109,325,False,0.074,0.099,-0.6405,0.665,14OxJlLdcHNpgsm4DRwDOB
+27,bang bang,jessie j ariana grande and nicki minaj,2014,164,380,True,0.143,0.077,0.9796,0.568,1pF74yw15wXk12A1NPVWHD
+34,boom clap,charli xcx,2014,89,383,True,0.086,0.024,0.9761,0.768,0Y1MWB026LYxGvhq4EcMiC
+30,loyal,chris brown featuring lil wayne and french montana too short or tyga,2014,192,593,True,0.091,0.311,-0.9995,0.676,7kqcudBGM74MXVoYMaoWkC
+31,best day of my life,american authors,2014,86,229,True,0.188,0.04,0.9926,0.624,5Hroj5K7vLpIG4FNCRIjbP
+37,break free,ariana grande featuring zedd,2014,93,315,True,0.205,0.053,0.9852,0.705,12KUFSHFgT0XCoiSlvdQi4
+38,bailando,enrique iglesias featuring descemer bueno and gente de zona,2014,98,376,True,0.021,0.104,-0.9705,0.739,5Y9fnynLlIvqtM710MHzfz
+36,anaconda,nicki minaj,2014,183,587,True,0.066,0.228,-0.9991,0.688,794F99D5BQHS5ZGRXAs7I5
+35,drunk in love,beyonce featuring jay z,2014,235,596,True,0.165,0.087,0.9939,0.606,6jG2YzhxptolDzLHTGLt7S
+33,summer,calvin harris,2014,36,101,True,0.131,0.061,0.8331,0.644,7p4vHnYXkxlzvfePJVpcTr
+40,wiggle,jason derulo featuring snoop dogg,2014,159,350,True,0.06,0.07,-0.5478,0.546,2sLwPnIP3CUVmIuHranJZU
+39,burn,ellie goulding,2014,91,469,True,0.141,0.121,0.9327,0.806,0j7pdNXDzEVQST5Zcoh5xo
+41,rather be,clean bandit featuring jess glynne,2014,95,348,True,0.086,0.251,-0.9963,0.727,3s4U7OHV7gnj42VV72eSZ6
+42,dont tell em,jeremih featuring yg,2014,178,748,True,0.122,0.062,0.9918,0.762,0Dc7J9VPV4eOInoxUiZrsL
+47,aint it fun,paramore,2014,92,418,True,0.117,0.185,-0.9874,0.78,1j8z4TTjJ1YOdoFEDwJTQa
+44,wrecking ball,miley cyrus,2014,96,324,True,0.148,0.09,0.9371,0.704,2vwlzO0Qp8kfEtzTsCXfyE
+46,roar,katy perry,2014,119,461,True,0.139,0.052,0.9933,0.742,6F5c58TMEs1byxUstkzVeM
+45,not a bad thing,justin timberlake,2014,195,880,True,0.169,0.153,0.9751,0.778,1JmPASoql4lnXimD5ICqRP
+43,show me,kid ink featuring chris brown,2014,147,626,True,0.084,0.09,-0.8725,0.765,7lQ8MOhq6IN2w8EYcFNSUk
+53,na na,trey songz,2014,105,469,True,0.18,0.039,0.9968,0.776,1ARJhjuI6TNYZCxYygFQ4F
+49,this is how we roll,florida georgia line featuring luke bryan,2014,150,377,True,0.12,0.014,0.9903,0.602,2TR7A4ulH9R1PNwMyd8o8U
+56,sing,ed sheeran,2014,176,432,True,0.147,0.056,0.9949,0.593,6gBFPUFcJLzWGx4lenP6h2
+51,a sky full of stars,coldplay,2014,66,166,True,0.046,0.093,-0.808,0.602,0FDzzruyVECATHXKHFs9eJ
+50,classic,mkto,2014,141,384,True,0.223,0.041,0.9967,0.633,6FE2iI43OZnszFLuLtvvmg
+57,radioactive,imagine dragons,2014,67,267,True,0.09,0.023,0.9495,0.749,4G8gkOterJn0Ywt6uhqbhp
+54,hot boy,bobby shmurda,2014,193,403,False,0.071,0.096,-0.9038,0.521,252gJUec2oDsGBPcxZs4nX
+55,hold on were going home,drake featuring majid jordan,2014,69,314,True,0.146,0.043,0.9887,0.78,14Rcq31SafFBHNEwXrtR2B
+58,my hitta,yg featuring jeezy and rich homie quan,2014,184,691,True,0.041,0.073,-0.9732,0.734,5G47DlluL671zo0k3OhoSm
+62,animals,maroon 5,2014,111,465,True,0.256,0.085,0.9984,0.761,2bL2gyO6kBdLkNSkxXNh6x
+48,the man,aloe blacc,2014,119,511,True,0.158,0.064,0.9943,0.767,1A6OTy97kk0mMdm78rHsm8
+59,cool kids,echosmith,2014,80,295,True,0.492,0.005,0.9996,0.729,13P5rwmk2EsoFRIz9UCeh9
+60,hey brother,avicii,2014,54,147,True,0.109,0.071,0.875,0.633,4RXpgGM7A4Hg7cFBoH5KyF
+63,burnin it down,jason aldean,2014,107,410,True,0.073,0.012,0.9769,0.739,5HJqpDspKDKwQpLjvkcIsD
+52,dont,ed sheeran,2014,219,588,True,0.175,0.091,0.9959,0.628,5BQrp63SHCVf4bzCzJePne
+61,trumpets,jason derulo,2014,70,343,True,0.07,0.076,0.2023,0.796,5KONnBIQ9LqCxyeSPin26k
+67,love runs out,onerepublic,2014,108,433,True,0.278,0.128,0.9978,0.751,5BJSZocnCeSNeYMj3iVqM7
+68,bottoms up,brantley gilbert,2014,129,403,True,0.155,0.043,0.992,0.68,477pWnF7WFWb9Qs6g8rs4J
+64,play it again,luke bryan,2014,143,424,True,0.249,0.023,0.9985,0.663,03fT3OHB9KyMtGMt2zwqCT
+66,dirt,florida georgia line,2014,106,378,True,0.083,0.078,0.5966,0.72,7f08qp3HROTkfrtNpiYGGo
+72,lifestyle,rich gang featuring young thug and rich homie quan,2014,241,646,True,0.141,0.165,-0.9518,0.627,7DTlsMOQjGysXHpwwpHuPl
+69,shower,becky g,2014,132,389,True,0.087,0.036,0.9323,0.661,3DmW6y7wTEYHJZlLo1r6XJ
+71,animals,martin garrix,2014,5,11,True,0,0,0,0.545,2bL2gyO6kBdLkNSkxXNh6x
+74,brave,sara bareilles,2014,137,399,True,0.134,0.051,0.9884,0.657,6Uy6K3KdmUdAfelUp0SeXn
+75,sweater weather,the neighbourhood,2014,136,348,False,0.122,0.073,0.9776,0.609,2QjOHCTQ1Jl3zawyYOpxh6
+70,me and my broken heart,rixton,2014,86,378,True,0.258,0.137,0.9955,0.772,1oew3nFNY3vMacJAsvry0S
+65,2 on,tinashe featuring schoolboy q,2014,167,553,True,0.193,0.092,0.9965,0.698,5c0Vl3yklw5WX9YI36dPLd
