@@ -209,33 +209,75 @@ app.get('/callback', function(req, res)
 							});*/
 					})
 					.on('end', function(data)
-					{
-						for (var i = 0; i < csv.length; ++i)
+					{					
+						/*db.each("SELECT * FROM `songs` WHERE `SpotifyID` IS NULL", function(err, row) 
 						{
-							var j = csv.pop();
-							/*
-							id INTEGER PRIMARY KEY AUTOINCREMENT,
-					Rank INTEGER,
-					Song TEXT,
-					Artist TEXT,
-					Year INTEGER,
-					UnprunedLyricalComplexity INTEGER,
-					TotalWords INTEGER,
-					TitleInLyrics BOOLEAN,
-					posSent FLOAT,
-					NegSent FLOAT,
-					CompoundSent FLOAT,
-					Repetitiveness FLOAT)
-					*/
-							db.run('INSERT INTO songs (Rank, Song, Artist, Year, UnprunedLyricalComplexity, TotalWords, TitleInLyrics, PosSent, NegSent, CompoundSent, Repetitiveness) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)', [j[0], j[1], j[2], j[3], j[4], j[5], j[6], j[7], j[8], j[9], j[10]]);
-							spotifyApi.searchTracks(j[1]).then(function(val)
+							if(err)
 							{
-								console.log('spotifyID: ' + val.body.tracks.items[0].id);
+								console.log(err);
+							}
+
+							spotifyApi.searchTracks(row.Song).then(function(val)
+							{
+								//console.log('spotifyID: ' + val.body.tracks.items[0].id);
+								console.log(row.Artist);
+								var found = false;
+								for(var i = 0; i < val.body.tracks.items.length; ++i)
+								{
+									for(var j = 0; j < val.body.tracks.items[i].artists.length; ++j)
+									{
+										var spotifyArtist = val.body.tracks.items[i].artists[j].name.toLowerCase();
+										var dbArtist = row.Artist.toLowerCase();
+
+										var spotifySongName = val.body.tracks.items[i].name.toLowerCase();
+										var dbSongName = row.Song.toLowerCase();
+
+										if((spotifyArtist.includes(dbArtist) || dbArtist.includes(spotifyArtist)) && (spotifySongName.includes(dbSongName) || dbSongName.includes(spotifySongName)))
+										{
+											console.log('========================================= Artist Matching ========================================');
+											db.run('UPDATE `songs` SET `SpotifyID` = ? WHERE `Song` = ?', [val.body.tracks.items[i].id, row.Song]);
+											found = true;
+											break;
+										}
+										
+									}
+									if(!found)
+									{
+										db.run('UPDATE `songs` SET `SpotifyID` = "unknown" WHERE `Song` = ?', [row.Song]);
+									}
+									if(found) break;
+								}
+								console.log('DONE');
+								//console.log('row.Artist: ' + row.Artist + ' spotify artist:' + val.body.tracks.items[0].artists[0].name) 
+								//
+								//console.log(val.body.tracks.items[0].name);
 							}).catch(err =>
 							{
 								console.log(err);
 							});
-						}
+						});*/
+
+						db.each('SELECT * FROM `songs` WHERE `SpotifyID` IS NOT NULL AND `SpotifyID` != "Unknown" AND `danceability` IS NULL', function(err, row) 
+						{
+							if(err)
+							{
+								console.log(err);
+							}
+							/*spotifyApi.getAudioAnalysisForTrack(row.SpotifyID).then(function(val)
+							{
+								console.log(val);
+							});*/
+
+							spotifyApi.getAudioFeaturesForTrack(row.SpotifyID).then(function(val)
+							{
+								db.run('UPDATE `songs` SET `danceability` = ?, `energy` = ?, `key` = ?, `loudness` = ?, `mode` = ?, `speechiness` = ?, `acousticness` = ?, `instrumentalness` = ?, `liveness` = ?, `valence` = ?, `tempo` = ?, `duration_ms` = ? WHERE `Song` = ?', [val.body.danceability, val.body.energy, val.body.key, val.body.loudness, val.body.mode, val.body.speechiness, val.body.acousticness, val.body.instrumentalness, val.body.liveness, val.body.valence, val.body.tempo, val.body.duration_ms, row.Song]);
+								console.log(val);
+							}).catch(err =>
+							{
+								console.log(err);
+							});
+						});
+
 					});
 
 
